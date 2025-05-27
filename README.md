@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>What Matters in Evaluating Book-Length Stories? A Systematic Study of Long Story Evaluation</h2>
+<h2>What Matters in Evaluating Book-Length Stories? <br> A Systematic Study of Long Story Evaluation</h2>
 
 Dingyi Yang, Qin Jin 
 
