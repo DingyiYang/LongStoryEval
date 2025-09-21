@@ -1,0 +1,76 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: The Prisoner’s Throne
+
+### Genres: Fantasy, Young Adult, Romance
+
+### Premise:
+An imprisoned prince. A vengeful queen. And a battle that will determine the future of Elfhame.
+ 
+Prince Oak is paying for his betrayal. Imprisoned in the icy north and bound to the will of a monstrous new queen, he must rely on charm and calculation to survive. With High King Cardan and High Queen Jude willing to use any means necessary to retrieve their stolen heir, Oak will have to decide whether to attempt regaining the trust of the girl he’s always loved or to remain loyal to Elfhame and hand over the means to end her reign—even if it means ending Wren, too.  
+ 
+With a new war looming on the horizon and treachery lurking in every corner, neither Oak’s guile nor his wit will be enough to keep everyone he loves alive. It’s just a question of whom he will doom.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+The tale of Elfhame is filled with intricate familial and political tensions, centering on Oak, the gancanagh prince. From a naive youth, Oak develops into a politically savvy leader amidst court intrigues and personal reckonings. His partnership with Wren, the newly crowned Queen of the Ice Citadel, is initially a strategic move to avert war. However, undercurrents of tension rise when Randalin, a conspiratorial minister, jeopardizes the rulership of Jude and Cardan.
+Amid this turmoil, Bogdana, a surefire storm hag, emerges as a formidable threat, compelling Oak to join forces with Wren to thwart an Undersea onslaught. Together, they confront not only political chaos but also their complex bond. Familial ties to his father Madoc and High Queen Jude are strained as Oak delves into broader conspiracies involving a murder orchestrated by Garrett, igniting family discord.
+A royal feast unravels truth-baring betrayals, casting suspicions on Wren when she vanishes with Tiernan briefly, further complicating Oak’s emotional landscape. Amidst this storm, Oak and Jude counter Bogdana’s hit, leading to Wren harnessing destructive energy to undergo a magical rebirth. Her transformation pivots the narrative, mandating Elfhame to grapple with emerging challenges and deceit appendages.
+Post these battles, Oak introspects, resolving connections with Tiernan and relinquishing claims to Elfhame's throne for a temporary stead to meet diplomatic duties set by Cardan. Ultimately, Oak confronts his ties to Wren, contemplating their future apart while celebrating their bonds forged through adversity and collective growth.
+In this closing segment, Oak visits the Ice Citadel, now an obsidian fortress. He finds Wren and they navigate a tender yet candid exchange on fears, love, and belonging. Oak professes an unconventional love, willing to forsake royalties for companionship. Wren, initially hesitant, engages his proposition of unity. Their dialogue suggests mutual acceptance, grounding their partnership in shared vulnerabilities and aspirations.
+
+### Character Analysis:
+**Oak:**
+- **Profile:** The gancanagh prince of Elfhame, once naive, now navigates complex political and personal landscapes while developing key alliances.
+- **Overall Experience:** Oak matures from an unknowing youth to a perceptive leader, recognizing his role in Faerie's politics and personal relationships; he balances responsibilities with profound personal growth.
+
+**Wren:**
+- **Profile:** Queen of the Ice Citadel, potent yet cautious, Wren is rediscovering herself post-transformation while defining her political and emotional highlights.
+- **Overall Experience:** Wren evolves through grappling with her cursed magic, ultimately steering towards creation and empowerment, redefining her identity and connections in Faerie.
+
+**Jude:**
+- **Profile:** The pragmatic High Queen managing strategic and familial dynamics within Elfhame.
+- **Overall Experience:** Jude embodies fierce yet nurturing leadership, adeptly stabilizing Elfhame amid threats and familial disputes.
+
+**Bogdana:**
+- **Profile:** The elemental storm hag wielding chaos as a narrative pivot against Elfhame.
+- **Overall Experience:** Bogdana serves as a catalytic antagonist, challenging structural integrity, spurring character development, and advancing pivotal plotlines.
+
+**Madoc:**
+- **Profile:** Oak's father, a redcap warrior whose past actions influence familial and political spheres.
+- **Overall Experience:** Madoc is burdened by his past yet insightful, navigating personal atonement amid changing Elfhame dynamics.
+
+### Excerpt (Demonstrating Writing and Language):
+SIX WEEKS BEFORE IMPRISONMENT
+Oak jammed his hooves into velvet pants.
+“Have I made you late?” Lady Elaine asked from the bed, her voice full of wicked satisfaction. She propped up her head with an elbow and gave a little laugh. “It won’t be too much longer before you don’t have to do anything at their beck and call.”
+“Yes,” Oak said, distracted. “Only yours, right?”
+She laughed again.
+Doublet only half-buttoned, he tried desperately to remember the fastest route to the gardens. He’d meant to be punctual, but then the opportunity to finally see the scope of the treasonous plot he’d been pursuing had presented itself.
+I promise I will introduce you to the rest of my associates, she’d told him, her fingers sliding beneath his shirt, untucking it. You will be impressed with how close to the throne we can get. . . .
+Cursing himself, the sky, and the concept of time in general, Oak raced out the door.
+“Hurry, you scamp,” one of the palace laundresses called after him. “It will look ill if they begin without you. And fix your hair!”
+He tried to smooth down his curls as servants veered out of his way. In the palace of Elfhame, no matter how tall he grew, Oak was forever the mischievous, wild-haired boy who coaxed guards into playing conkers with horse chestnuts and stole honey cakes from the kitchens. Faerie caught its inhabitants in amber, so if they were not careful, a hundred years might pass in the lazy blink of an eye. And so, few noticed how much the prince had changed.
+Not that he didn’t resemble his younger self right then, pelting down another corridor, hooves clattering against stone. He dodged left to avoid running into a page with an armful of scrolls, wove right so as not to knock over a small table with an entire tea tray atop it, then almost slammed into Randalin, an elderly member of the Living Council.
+By the time he made it to the gardens, Oak was out of breath. Panting, he took in the garlands of Bowers and musicians, the courtiers and revelers. No High King or Queen yet. That meant he had a chance to make his way to the front with no one the wiser.
+But before he could slip into the crowd, his mother, Oriana, grabbed hold of his sleeve. Her expression was stern, and since her skin was usually ghostly white, it was easy to see the Bush of anger in her cheeks. It pinked them so they matched the rosy color of her eyes.
+“Where have you been?” Her fingers went to Oak’s doublet, fixing his buttons.
+“I lost track of time,” he admitted.
+“Doing what?” She dusted off the velvet. Then she licked her finger and rubbed a smudge on Oak’s nose.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

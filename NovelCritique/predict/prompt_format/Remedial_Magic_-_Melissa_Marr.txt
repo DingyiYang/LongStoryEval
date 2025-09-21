@@ -1,0 +1,73 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Remedial Magic
+
+### Genres: Fantasy, Romance, LGBT
+
+### Premise:
+Ellie loves working in her local library in the small town of Ligonier. She loves baking scones and investigating the mysterious and captivating in her spare time. And there is nothing more mysterious and captivating than the intriguingly beautiful, too properly dressed woman sipping tea in her library who has appeared as if out of nowhere. The pull between them is undeniable, and Ellie is not sure that she wants to resist.
+Prospero, a powerful witch from the magical land of Crenshaw, is often accused of being... ruthless in her goals and ambitions. But she is driven to save her dying homeland, and a prophecy tells her that Ellie is the key. Unbeknownst to Ellie, her powers have not yet awakened. But all of that is about to change.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Crenshaw, a secretive magical enclave, faces internal and external threats, notably a prophecy concerning its fate. Dan Monahan, with the unique talent to amplify magic, becomes entangled in the town’s political and magical intricacies. Tasked by the chief witch with proving his worth, Dan engages in covert missions, realizing the dark underbelly of Crenshaw’s power structure, while struggling with moral choices that erode his concept of heroism.
+Prospero, a skilled witch involved with Crenshaw’s defense, struggles with duties against emotional ties, especially towards Ellie Brandeau, a witch at the center of the prophecy. Ellie's potent magic and defiance of expectations contrast with the community's control attempts. As Maggie Lynch, a lawyer-turned-witch, learns of her new identity and Crenshaw's deceptions, she is determined to protect her son, Craig. Pursued back to Crenshaw, Maggie's dealings reveal coercive marriage plans designed by Crenshaw leadership to control her and Ellie for their talents.
+In an attempt to flee their controlling past, Ellie and Maggie encounter Dan and Prospero during a pivotal altercation. Ellie cunningly uses her magic to escape temporarily. Meanwhile, Prospero is caught between love for Ellie and duty to Crenshaw, torn by orders to bring the women back using mind alteration. As Prospero tries to reconcile her actions and objectives, the resistance against manipulative tactics escalates.
+Back in Crenshaw, the Congress of Magic confronts the growing crisis. Prospero and Sondre receive ultimatums from Chief Witch Walt to address the disturbances and the mysterious plague. Manipulations of identities and coerced alliances become apparent as Maggie and Ellie confront the truth about their manipulated fates within Crenshaw. Maggie eventually agrees to a coerced marriage to ensure her son’s safety, highlighting the moral and emotional turmoil underpinning the balance of power.
+Ultimately, Ellie resists Prospero's entreaties, voicing distrust of the council’s motives. Yet, Prospero resorts to altering her memory, and Ellie wakes within the illusion of matrimonial bliss back in Crenshaw, oblivious to her former defiance. Crenshaw's future remains uncertain, with loyalty and identity at the core of its survival as tensions mount towards a precarious resolution.
+
+### Character Analysis:
+**Dan Monahan:**
+- **Profile:** A newcomer with the rare ability to amplify other witches' magic, facing moral dilemmas as he becomes imbued in Crenshaw’s dark political and magic intrigues.
+- **Overall Experience:** Dan evolves from a cautious outsider to an involved participant, uncovering Crenshaw’s layers of manipulation as he grapples with the implications of his power.
+
+**Prospero:**
+- **Profile:** A proficient witch spearheading Crenshaw’s defense while managing complex emotional ties, especially regarding Ellie.
+- **Overall Experience:** Torn between loyalty and personal feelings, Prospero’s journey underscores the tension between power, emotion, and those manipulated for Crenshaw’s survival.
+
+**Ellie Brandeau:**
+- **Profile:** A powerful witch vital to Crenshaw’s survival prophecy, confronting the witch society's impositions against her autonomy.
+- **Overall Experience:** Ellie's development reveals struggles between self-control and external impositions, marking her as both a central figure in power manipulation and resistance.
+
+**Maggie Lynch:**
+- **Profile:** A newly-discovered witch, fiercely protective of her son while battling Crenshaw’s deceit and asserting identity.
+- **Overall Experience:** Her narrative underscores challenges against enforced roles, reflecting strength through protection of family and identity autonomy amidst deception.
+
+**Sondre:**
+- **Profile:** Crenshaw's headmaster at the magical institution, balancing within the town’s external and internal power dynamics.
+- **Overall Experience:** Sondre's character unveils a strategic alignment within the town’s political sphere, hinting at deeper loyalties beneath his public façade.
+
+### Excerpt (Demonstrating Writing and Language):
+The witch stood in the forest, staring at the earthen rift. People would die; such a thing was inevitable now. The furrows in the earth were deep enough that a noxious goop not unlike congealing blood began to burble to the surface.
+Several hobs popped into the small clearing nearest the furrow.
+“What have you done?”
+“That’s wretched.” One of the hobs gagged loudly.
+“It had to be done,” the witch said mildly.
+One hob, a tiny woman no more than a half meter tall, put her hands on her hips and glared at the witch. “Witches will die from this.”
+The goop oozed across the loamy soil, leaving plants withering with rot and disease. Despite the severity of the crime, the hobs were limited in what they could and could not do. Hobs, of course, were made by magic. They were the physical embodiment of the very thing that caused witches to come to Crenshaw. In essence, if magic were made sentient, it would be a hob—diminutive, omnipresent, and occasionally terrifying.
+Not that most witches realized that! They had once, the first witches here in Crenshaw. The hobs painstakingly explained magic, built a castle to teach them lessons, showed them the rules, explained the whys and what-fors and if-thens, but witches started out as regular folk. Humans. And humans were remarkably obstinate. Over time, they’d decided they knew better, taken over the castle, and generally gone about mucking things up.
+And this witch, this beastly selfish witch, had ripped a hole in the ground so poison spilled out into the haven that magic—that hobs—had made for their progeny. For really, that was what witches were, difficult foolish children of magic. No matter that magic healed their bodies and made their lives last for centuries. No matter that they had everything they had needed in this small safe hamlet.
+The witch walked away, singing cheerily, as if poisoning the very earth that sustained witches was something jovial.
+“Do we fix it?” one of the hobs mused.
+The general muttering that rose up continued for some time, until one hob—Clancy by name—said, “No. We do not. They need to face consequences for their dimwitted actions.”
+“It was one witch!” a sweeter hob pointed out.
+“Was it, though?” Clancy looked around at his fellow hobs. “Quite a lot of them talking about going back to whence they came.”
+Hobs exchanged looks. Going back, of course, would be dangerous. That was why Crenshaw existed in the first place, to prevent magical folk from going about in the unmagical world.
+And that, as they say, was that. The fate of Crenshaw was in the hands of the witches now. They’d figure it out or die.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

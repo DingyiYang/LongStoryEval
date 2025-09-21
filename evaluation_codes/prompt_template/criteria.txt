@@ -1,0 +1,85 @@
+Below are the title, genres, and premise of a book-length story.
+
+---
+
+### Title: {Title}
+
+### Genres: {Genre}
+
+### Premise:
+{Premise}
+
+---
+
+Below are the plot summary, character analysis, and excerpts from this book-length story.
+
+---
+
+### Plot Summary:
+{Plot_Summary}
+
+### Character Analysis:
+{Character_Summary}
+
+### Excerpts (Demonstrating writing and language):
+{Excerpt}
+
+---
+
+Please evaluate the story based on the criteria listed below. Provide detailed reviews highlighting both strengths and weaknesses.Assign a score for each aspect on a continuous scale from 0 (worst) to 100 (best).
+
+### 1. Plot and Structure: 
+- **Review:**
+- **Score:** X
+
+**Guidelines:** Evaluate the plot development by examining pace, twists, conflicts, and their resolutions. Evaluate the story structure for coherence, logic, and complexity, paying attention to key elements like climax and ending.
+
+### 2. Characters: 
+- **Review:**
+- **Score:** X
+
+**Guidelines:** Evaluate how well the characters are drawn, considering their development, depth (including realism, appeal, and relatability), relationships, and diversity.
+
+### 3. Writing and Language: 
+- **Review:**
+- **Score:** X
+
+**Guidelines:** Evaluate the writing style's ability to engage and captivate readers. Assess language quality by examining descriptions and dialogue. Measure the story's clarity and readability.
+
+### 4. World-Building and Setting: 
+- **Review:**
+- **Score:** X
+
+**Guidelines:** Evaluate the world-building and setting by assessing how detailed and well-described they are. Consider their authenticity, accuracy, or realism.
+
+### 5. Themes: 
+- **Review:**
+- **Score:** X
+
+**Guidelines:** Evaluate how well the themes are explored throughout the story and assess their depth.
+
+### 6. Emotional Impact: 
+- **Review:**
+- **Score:** X
+
+**Guidelines:** Evaluate the story's ability to evoke strong and deep emotional impact.
+
+### 7. Enjoyment and Engagement: 
+- **Review:**
+- **Score:** X
+
+**Guidelines:** Evaluate how enjoyable and engaging the story is for readers.
+
+### 8. Expectation Fulfillment: 
+- **Review:**
+- **Score:** X
+
+**Guidelines:** Evaluate how effectively the story meets the readers' expectations based on the premise and genres.
+
+### Conclusion: 
+- **Overall Assessment:** {Overall_Assessment}
+- **Overall Score:** X
+
+**Guidelines:** Conclude with an overall assessment of the story, summarizing key insights and assigning an overall score from 0 to 100.
+
+---

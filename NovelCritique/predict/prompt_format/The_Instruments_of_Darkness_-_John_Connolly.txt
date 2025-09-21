@@ -1,0 +1,75 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: The Instruments of Darkness
+
+### Genres: Mystery, Thriller, Horror
+
+### Premise:
+In Maine, Colleen Clark stands accused of the worst crime a mother can the abduction and possible murder of her child. Everyone—ambitious politicians in an election season, hardened police, ordinary folk—has an opinion on the case, and most believe she is guilty.
+But most is not all. Defending Colleen is the lawyer Moxie Castin, and working alongside him is the private investigator Charlie Parker, who senses the tale has another twist, one involving a husband too eager to accept his wife’s guilt, a group of fascists arming for war, a disgraced psychic seeking redemption, and an old, twisted house deep in the Maine woods, a house that should never have been built.
+A house, and what dwells beneath.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+The story follows the disappearance of Henry Clark in the town of Gretton, which uncovers a tangled web of familial, societal, and potentially supernatural tensions. Colleen Clark, facing public and legal challenges, receives support from her lawyer, Moxie Castin, amidst an investigation led by private investigator Parker. Her estranged husband, Stephen Clark, remains suspicious due to his association with the enigmatic Eliza Michaud, a link that adds to the complex investigation involving far-right figures like Bobby Ocean and Antoine Pinette, who are notorious for illegal activities.
+The Michaud family, particularly siblings Ellar, Aline, and Eliza, are central to the unfolding mystery, tied to dark secrets and possibly supernatural forces. Parker's team, including Angel and Louis, collaborate with psychic medium Sabine Drew, who helps reveal unsettling connections through spiritual insights. As Parker exposes the Michauds' ties to extremist elements, the case intensifies, culminating in a violent confrontation with Eliza Michaud. Her death leads to the unraveling of family secrets while Ellar Michaud’s death at the hands of Antoine Pinette underscores the dangerous rivalry among these factions.
+Amid these revelations, Parker successfully secures the release of his team from custody. Layers of the investigation reveal additional Michaud-related fatalities, challenging authorities led by figures like Erin Becker to navigate intricate legal, societal, and political dynamics. As public interest diminishes, finding Henry’s remains in the Michaud basement grants Colleen a grim form of resolution. Stephen Clark’s poisoning hints at complex motives possibly linked to silencing or revenge, unresolved despite continuous probing by Parker.
+In the epilogue, the focus shifts to the retirement party at the Great Lost Bear, emphasizing themes of community and continuity. Various characters from the story, including Byrd Jackson and the Fulci Brothers, come together in a positive, uplifting gathering. Byrd’s reassurances reflect a commitment to preserving the community’s spirit while the narrator observes the interconnections among the characters. The band’s music symbolizes a harmonious conclusion to the narrative threads earlier characterized by tension and mystery.
+
+### Character Analysis:
+**Moxie Castin:**
+- **Profile:** Lawyer defending Colleen Clark amid serious allegations, handling intricate and dangerous legal battles.
+- **Overall Experience:** An experienced lawyer adeptly supporting his client through complex legal challenges related to family and supernatural mysteries.
+
+**Colleen Clark:**
+- **Profile:** Mother of the missing child, Henry, entangled in public scrutiny and legal issues.
+- **Overall Experience:** Endures immense personal loss and legal struggles, seeking closure regarding her son's fate and finding solace upon discovering Henry's remains.
+
+**Stephen Clark:**
+- **Profile:** Suspicious estranged husband with dubious ties to Eliza Michaud.
+- **Overall Experience:** His complicated connections and eventual death by poisoning add intrigue and suspicion, highlighting themes of deceit and betrayal.
+
+**Unnamed Narrator (PI Parker):**
+- **Profile:** Tenacious private investigator uncovering the truth behind Henry’s disappearance.
+- **Overall Experience:** Diligently investigates a labyrinth of mystery involving extremist elements and supernatural hints, seeking justice unwaveringly.
+
+**Antoine Pinette:**
+- **Profile:** Extremist involved in violent and illegal activities, connected to the Michaud family’s secrets.
+- **Overall Experience:** His actions contribute significantly to the sinister atmosphere and conflict within the narrative.
+
+**Byrd Jackson:**
+- **Profile:** Formerly the Bear’s restaurant manager and now a co-owner, playing a supportive community role.
+- **Overall Experience:** Transitioning into ownership, Byrd represents continuity and support within the community, offering stability amidst change.
+
+### Excerpt (Demonstrating Writing and Language):
+Moxie Castin was easy to underestimate, but only on first impression. He was overweight by the equivalent of a small child, didn’t use one word in public when five others were loitering nearby with nothing better to do, and had a taste for ties reminiscent of the markings of poisonous insects or the nightmares of LSD survivors. He subsisted largely on fried food, coffee, and the Maine soda that had given him his nickname, now long since passed into common usage: since he had been christened Oleg, Moxie sounded better to him. He lost cases, but not many, and his friends far outnumbered his enemies.
+Currently, Moxie was sitting in a booth at Becky’s on Commercial, performing a vanishing act on his patented version of the Hobson’s Wharf Special, which basically meant changing “or” to “and” when it came to the options: hence, bacon and sausage, two pancakes and French toast, along with the requisite two eggs over easy, home fries, and regular toast. Any cardiologist who had yet to slip Moxie a business card was missing a trick.
+He looked doubtfully at my dry toast and coffee as he squirted ketchup on his bacon.
+“Are you trying to make me feel bad?” he said.
+“That depends on how bad you already feel,” I said. “I wouldn’t want to be responsible for tipping you over the edge.”
+“I get my heart checked regularly.”
+“You get your heart restarted regularly. It’s not the same thing.”
+“I ought to have met you after breakfast. You’re raining on my food parade.”
+One sausage link, a slice of bacon, and half an egg met their fate while I was still lifting my coffee mug to my mouth. If I was ruining Moxie’s appetite, it probably just meant he wouldn’t be able to eat the plate.
+“I have a new client,” he said.
+“Congratulations.”
+“It’s Colleen Clark.”
+“I take it back.”
+A week earlier, Colleen Clark had been questioned by the Portland PD in connection with the disappearance and suspected death of her two-year-old son, Henry. The actual evidence amounted to a bloodstained blanket discovered beneath the spare tire of her car ten days after the boy went missing and the testimony of her husband, Stephen, who told police that Colleen had been struggling with anger issues and depression. He had also, he claimed, discovered bruises on the child’s arms, which his wife attributed to Henry’s undeniably rambunctious nature; the boy was a little ball of energy, and when he wasn’t running, he was falling. Regardless, Stephen Clark had been on the verge of reporting his suspicions to the family physician when Henry disappeared.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

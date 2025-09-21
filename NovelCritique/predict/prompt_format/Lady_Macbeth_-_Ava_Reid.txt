@@ -1,0 +1,73 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Lady Macbeth
+
+### Genres: Fantasy, Historical Fiction, Retellings
+
+### Premise:
+The Lady knows the stories: how her eyes induce madness in men. 
+The Lady knows she will be wed to the Scottish brute, who does not leave his warrior ways behind when he comes to the marriage bed.  
+The Lady knows his hostile, suspicious court will be a game of strategy, requiring all of her wiles and hidden witchcraft to survive. 
+But the Lady does not know her husband has occult secrets of his own. She does not know that prophecy girds him like armor. She does not know that her magic is greater and more dangerous, and that it will threaten the order of the world. 
+She does not know this yet. But she will.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Lady Roscille navigates the tumultuous court of Alba alongside her husband, Macbeth, whose ambitions are fueled by prophecy. Caught between complicity and rebellion, Roscille strives for autonomy amidst political machinations after her privileged upbringing in Naoned. With Macbeth’s ascension to Thane of Glammis, they are pulled into a complex web of deceit. Roscille is torn between vulnerability and subtle defiance, enduring Macbeth's manipulations and grappling with the shadow of King Duncane's murder.
+Confronted by threats from Æthelstan’s army, Roscille increasingly feels isolated and endangered, particularly during council meetings where she is blindfolded, symbolizing her constrained position in Macbeth's increasingly tyrannical court. Her moral compass is tested through interactions with key figures like Banquho and Fléance, challenging her allegiance to her husband.
+Roscille also encounters a secretive network of witches, including former Queen Gruoch, who provide cryptic prophecies and guidance, hinting at the futility of Macbeth’s prophecy-driven pursuits. Her bond with Senga symbolizes resilience and solidarity against the oppressive rule. Escalating tensions drive thoughts of escape, highlighting Roscille's struggle for agency.
+Driven to madness by ambition, Macbeth accuses Roscille of infidelity, leading to her descent into darkness with the witches. Here, Roscille recalls cherished memories and experiences a transformative realization, symbolized by accepting the weight of the witches’ power. This empowerment allows her to confront existential threats.
+Emerging back into the world, Roscille witnesses Æthelstan's ragged army struggling against nature and perceives her own dilemma: the need for Glammis to fall for her freedom. She narrowly escapes Fléance's assault, bolstered by her newfound strength and the intervention of Lisander, revealed to be a dragon, who represents her deepening bond with him amidst the broader prophecy.
+With her allies, Roscille resolves to end Macbeth’s tyrannical reign. Despite doubts sown by Macbeth about her powers, she faces him with confidence, using the combined strength of their shared visions to defeat him, signifying the triumph of prophecy’s subversion and women's indomitable spirit.
+
+### Character Analysis:
+**Lady Roscille (Lady Macbeth):**
+- **Profile:** Protagonist navigating political strife, caught between alliance and resistance. Clever and resilient, she seeks autonomy against Macbeth’s tyranny and the oppressive structures around her.
+- **Overall Experience:** Evolving from an accomplice to an empowered figure, Roscille embodies resistance and resilience as she contends with oppression, using her strength to subvert prophecy-driven tyranny.
+
+**Macbeth (Reith):**
+- **Profile:** Ambition-fueled tyrant, increasingly consumed by prophecy and paranoia, disregarding morality for power.
+- **Overall Experience:** Macbeth’s descent is marked by growing tyranny and ambition, concluding in the tragic realization and downfall brought by Roscille’s opposition.
+
+**Fléance:**
+- **Profile:** Young captive caught in royal treachery, embodying resistance and challenging court dynamics.
+- **Overall Experience:** Represents the dangers and impacts of political machinations, ultimately shaped by his interactions with Roscille and his place within the narrative’s power struggles.
+
+**Les Lavandières (Witches):**
+- **Profile:** Symbolic of fate and prophecy, they assist Roscille in understanding the futility of prophecy-bound ambition.
+- **Overall Experience:** Their cryptic influence weaves through the narrative, entwining prophecy and drive that shapes Macbeth’s and Roscille's intertwined fates.
+
+**Senga:**
+- **Profile:** Resilient woman offering solidarity to Roscille, embodying shared resistance against oppression.
+- **Overall Experience:** A steadfast confidante, Senga signifies the enduring struggles for dignity and freedom, representing the quieter strengths within Roscille's narrative.
+
+### Excerpt (Demonstrating Writing and Language):
+Lady? She looks up and out the window of the carriage; night has fallen with a swift and total blackness. She waits to see how she will be addressed.
+For the first days of their journey, through the damp, twisting, dark-green trees of Breizh, she was Lady Roscille, the name pinned to her so long as she was in her homeland, all the way to the choky gray sea. They crossed safely, her father, Wrybeard, having beaten back the Northmen who once menaced the channel. The waves that brushed the ship’s hull were small and tight, like rolled parchment.
+Then, to the shores of Bretaigne—a barbarian little place, this craggy island which looks, on maps, like a rotted piece of meat with bites taken out of it. Their carriage gained a new driver, who speaks in bizarre Saxon. Her name, then, vaguely Saxon: Lady Rosele?
+Bretaigne. First there had been trees, and then the trees had thinned to scruff and bramble, and the sky was sickishly vast, as gray as the sea, angry clouds scrawled across it like smoke from distant fires. Now the horses are having trouble with the incline of the road. She hears, but cannot see, rocks coming loose under their hooves. She hears the wind’s long, smooth shushing, and that is how she knows it is only grass, grass and stone, no trees for the wind to get caught in, no branches or leaves to break the sound apart.
+This is how she knows they have reached Glammis.
+“Lady Roscilla?” her handmaiden prods her again, softly.
+There it is, the Skos. No, Scots. She will have to speak the language of her husband’s people. Her people, now. “Yes?”
+Even under Hawise’s veil, Roscille recognizes her quavering frown. “You haven’t said a word in hours.”
+“I have nothing to say.”
+But that isn’t entirely true; Roscille’s silence is purposeful. The night makes it impossible to see anything out the window, but she can still listen, though she mostly hears the absence of sounds. No birds singing or insects trilling, no animals scuffling in the underbrush or scampering among the roots, no woodcutters felling oaks, no streams trickling over rock-beds, none of last night’s rain dripping off leaves.
+No sounds of life, and certainly no sounds of Breizh, which is all she has ever known. Hawise and her frown are the only familiar things here.
+“The Duke will expect a letter from you when we arrive. When the proceedings are done,” Hawise says vaguely. Half a dozen names she has for the Lady, in as many tongues, but she has somehow not found the word for “wedding.”
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

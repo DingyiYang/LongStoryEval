@@ -1,0 +1,74 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: The Ghost Orchid
+
+### Genres: Mystery, Crime, Thriller
+
+### Premise:
+LAPD homicide lieutenant Milo Sturgis sees it all the time: Reinvention’s a way of life in a city fueled by fantasy. But try as you might to erase the person you once were, there are those who will never forget the past . . . and who can still find you.
+A pool boy enters a secluded Bel Air property and discovers two bodies floating in the bright blue water: Gio Aggiunta, the playboy heir to an Italian shoe empire, and a gorgeous, even wealthier neighbor named Meagin March. A married neighbor.
+An illicit affair stoking rage is a perfect motive. But a “double” in this neighborhood of gated estates isn’t something you see every day. The house is untouched. No forced entry, no forensic evidence. The case has “that feeling,” and when that happens, Milo turns to his friend, the brilliant psychologist Alex Delaware.
+As Milo and Alex investigate both victims, they discover two troubled pasts. And as they dig deeper, Meagin March’s very identity begins to blur. Who was this glamorous but conflicted woman? Did her past catch up to her? Or did Gio’s family connections create a threat spanning two continents?
+Chasing down the answers leads Alex and Milo on an exploration of L.A.’s darkest side as they contend with one of the most shocking cases of their careers and learn that that some secrets are best left buried in the past.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+The narrative is entrenched in a multifaceted investigation led by LAPD detective Milo Sturgis and psychologist Alex Delaware, examining the complicated murders tied to the affluent circles of Los Angeles. The core of the plot revolves around the disjointed family of Meagin March, whose life is tarnished by familial abuse, primarily initiated by her father, Davis Gilmore, and perpetuated by her brother Rooney’s growing violence. Over time, these familial tensions spiral into broader criminal acts, implicating Rooney in a succession of unsolved murders. Through inquiries into the Gilmore family's history and Rooney's trajectory, Alex and Milo untangle the abuses and grievances interwoven in the family.
+Amidst the investigation, parallels arise with the life of Derek Ruffalo, a teenager caught in the rift between his adoptive parents, who are preoccupied with their journeys post-divorce. Despite receiving plentiful material support, Derek experiences emotional detachment, an often overlooked but significant element of family dynamics. His story adds layers to the thematic exploration of parental roles and the complexities of personal identity within a fractured family structure.
+Milo and Alex's pursuit of understanding violent inclinations and family legacies is paralleled by Derek's insight into his adoptive family's structure. The narrative elegantly interlaces the stories of victims trying to reconcile their identities with the imposed roles and expectations from fractured family units. As Milo and Alex find closure for some of the broken familial ties, Derek emerges as a resilient figure capable of navigating his disrupted family dynamics and forging a path toward individual growth within altered circumstances.
+
+### Character Analysis:
+**Alex Delaware:**
+- **Profile:** A psychologist known for his adept analytical skills and understanding of human behavior.
+- **Overall Experience:** Alex continues to be a crucial figure in untangling complex emotional narratives within the investigation, applying his skills in both the case of Rooney Gilmore and Derek Ruffalo, unraveling layers within family dynamics.
+
+**Milo Sturgis:**
+- **Profile:** A dedicated LAPD detective leading investigations into convoluted criminal cases involving family traumas.
+- **Overall Experience:** Milo's persistent approach in pursuit of justice amid entwined familial complexities demonstrates his unwavering commitment to resolving crimes and offering closure for those affected by violence.
+
+**Derek Ruffalo:**
+- **Profile:** A self-assured fifteen-year-old boy navigating a potential shift in custody amidst his parents' divorce.
+- **Overall Experience:** Derek exemplifies resilience and adaptability, demonstrating growth in self-awareness and acceptance of his intricate family circumstances.
+
+**Wendy Sugihara and Jack Toth:**
+- **Profile:** Lawyers representing Derek’s adoptive parents, providing shared escort duties and presenting a united front despite opposing roles.
+- **Overall Experience:** Both reflect a compassionate approach toward professional duties, pushing towards a solution conducive to Derek’s wellbeing.
+
+### Excerpt (Demonstrating Writing and Language):
+Nearly getting killed can change your life in interesting ways.
+There’s the physical healing, but that’s tedious to think about. What fascinates me is how people behave when they know you’ve come close to death.
+Some you haven’t heard from in a while get in touch out of obligation. Most of the time they have no idea what to say or do and you end up assuring them you’re fine and trying to make them feel better. Or maybe that was just me, reverting to the psychologist’s role.
+I’m close to only two people on the planet.
+The woman I live with handled the whole thing beautifully, pulling off the perfect balance of caring for me and allowing me space when I needed it. Even more impressively, when Robin allowed herself to get angry at me for being in danger in the first place, she was able to talk about it reasonably.
+My best friend, a homicide detective, was overcome with guilt. I’d been working with Milo when a lunatic nearly crushed me to death. No one’s fault, reasonable precautions had been taken. Just one of those things that happen. But, still.
+He’d worked hard at keeping the guilt in check but I could tell. Our conversations began ebbing into long silences, terminating when he told me I needed to rest.
+Eventually, his visits tapered off, though he tried to keep up with regular phone calls. But he avoided talking about work, which peppered the calls with awkward silences.
+Worst of all, he stopped calling me in on cases. The “different ones” where he tends to overestimate my talent. When I brought up the subject, he claimed the two new murders he’d taken on were open and shut.
+Four months after being injured I sat with Robin on the second-story terrace that fronts our house, eating and drinking and enjoying the weather that keeps people in L.A., and said, “Still nothing from Big Guy.”
+She said, “Can you blame him?”
+“I think he’s overdoing it. Objectively, he did nothing wrong.”
+“Who’s ever objective, Alex?”
+I poured myself another finger of Chivas—the pricey gold stuff I’d never buy for myself. A guilt offering from Milo.
+Neither of us talked for a while and I resumed rubbing the big, knobby head of our little blond French bulldog, Blanche. She’s also been perfect. Sitting next to me as I knitted, silent and patient, careful not to touch the torn muscles in my chest. She’s always been a wonderful companion, intuitive, perceptive, more keyed in to nonverbal cues than any human could hope to be. But this was more. She knew something was different and she cared.
+Robin said, “All those custody cases came in but you’re still bored.”
+“I could use some variety.”
+“Know what you mean.”
+That surprised me.
+She said, “Why do you think I do what I do, baby? Every instrument’s different, it’s not like I’m making the same armchair over and over.”
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

@@ -1,0 +1,66 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Still the Sun
+
+### Genres: Fantasy, Romance, Science Fiction
+
+### Premise:
+Pell is an engineer and digger by trade—unearthing and repairing the fascinating artifacts left behind by the mysterious Ancients who once inhabited the sunbaked planet of Tampere. She’ll do anything to help the people of her village survive and to better understand the secrets of what came before.
+Heartwood and Moseus are keepers of a forbidding tower near the village of Emgarden. Inside are the remnants of complex machines the likes of which Pell has never seen. Considering her affinity for Ancient tech, the keepers know Pell is their only hope of putting the pieces of these metal puzzles together and getting them running. The tower’s other riddle is Heartwood himself. He is an enigma, distant yet protective, to whom Pell is inexplicably drawn.
+Pell’s restoration of this broken behemoth soon brings disturbing visions—and the discovery that her relationship to it could finally reveal the origins of the towers’ strange keepers and the unfathomable reason the truth has been hidden from her.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Pelnophe, living on the planet Tampere, is deeply involved in exploring vital ancient machinery in her community. This journey leads her to divine beings and unveils her connection to them. These discoveries arise amid rising tensions involving a mysterious tower, causing her to be accused of betrayal. However, her adventure reveals her divine-bound identity, granting her insight into enigmatic tower machinery, assisted by the divine Heartwood.
+Her challenges intensify when facing Ruin, the alter ego of Moseus, who manipulates Pelnophe’s memories. The amaranthine crystal, linked to her past, becomes crucial in her efforts to thwart Ruin’s universal threat. Collaborating with Cas’raneah, another divine entity, and Heartwood, they create a plan to trap Ruin using acetic silver, which leads to his temporary containment.
+A war revolves around the machine they’ve built to imprison Ruin. Cas’raneah sacrifices herself to form a protective barrier, with severe consequences; even though Tampere suffers memory loss, leaving the population devoid of divine attributes. Pelnophe helps the villagers regain awareness and unite against Moseus’s impending return.
+The climactic confrontation with Moseus sees Pelnophe and companions infiltrate the tower, confronting Moseus, who is transforming into Ruin. Maglon, one of their allies, is lost in the struggle. In desperation, Pelnophe uses a lantern's energy to weaken Moseus, ultimately dragging him into acetic silver to imprison him again, though she imperils herself.
+In the aftermath, Pelnophe awakes to her world changed, and Heartwood, injured and now without his godhood, aids her. They have succeeded in trapping Ruin, but only temporarily. Heartwood plans to summon other gods to strengthen the containment. They mourn the loss of Maglon and other casualties, including Cas’raneah, who is in a coma due to her sacrifice.
+Through reflection, Heartwood expresses regret for past actions and his failure to prevent more sacrifices. Pelnophe reassures him, emphasizing the importance of moving forward. Together, they decide to build a beacon to call divine help before returning to the city they left thirty years prior, beyond the amaranthine wall.
+As they contemplate a future free of Ruin's influence, the story concludes with them looking towards rebuilding their city and society, using both technological advancements and the remaining divine influences to forge a new beginning.
+
+### Character Analysis:
+**Pelnophe:**
+- **Profile:** Protagonist deeply connected to divine entities and machinery, resourceful and brave, leading against existential threats.
+- **Overall Experience:** Transformed from a seeker of secrets into a decisive leader who makes profound sacrifices to counter existential threats. She faces loss but remains determined to protect her world.
+
+**Heartwood (Ytton’allanejrou):**
+- **Profile:** A divine being turned mortal, serves as Pelnophe’s ally, showing resilience despite losing divinity.
+- **Overall Experience:** Shows growth through sacrifice and collaboration, transitioning from powerful god to mortal, acknowledging past errors and finding strength in unity.
+
+**Salki:**
+- **Profile:** Loyal ally, a supportive yet strategic constant for Pelnophe, with emotional resilience.
+- **Overall Experience:** Remains a steadfast pillar, evolving from support to a system in the campaigns against divine adversaries, showing unwavering resolve.
+
+**Maglon:**
+- **Profile:** Brave associate who physically supports key confrontations against Moseus.
+- **Overall Experience:** Remembered for bravery and sacrifice, emblematic of the costs involved in combating Ruin, embodying courage in the group's mission.
+
+**Cas’raneah:**
+- **Profile:** Divine figure crucial to imprisoning Ruin, linked to Pelnophe’s strategy and sacrifices.
+- **Overall Experience:** Instrumental in countering Ruin, illustrating the high price of intervention. Her actions protect the planet at a severe personal cost.
+
+### Excerpt (Demonstrating Writing and Language):
+Something is missing.
+I turn the brass ball joint over in my hand, tracing the subtly raised edge with my fingernail. It attaches to a hollow metal cylinder with ridging, suggesting the cylinder once housed a pump. A lip on the cylinder looks like it connected to something else. If that something else is a track, then this might be the first evidence I’ve found that the Ancients utilized skidding systems. The style of metalwork alone denotes the artifact is of Ancient make, but without more pieces, I can’t confirm my theory. My chest sinks at the thought that I likely never will.
+Sighing, I set the damaged piece of machine on my little table. I didn’t see anything else nearby when I dug up this gem. I suppose I can venture out again and search a little harder, but doubts keep me here. I found this artifact a year ago, and it was a four-cycle journey to the dig site. That’s four cycles of food and water strapped to my back, and four cycles of camping on dust and dry earth. No way stations or people along the way. Just me. So I’m not exactly brimming with enthusiasm for a return trip.
+Rolling my lips together and making a pop sound with my mouth, I push back from the table and stretch. I’ve been hunching over this thing for too long. I glance at the square clock on the far wall, one of two I constructed myself. The other hangs in the alehouse. The mist will settle in soon, but for my work, I prefer it. Keeps me from getting too warm. And if I wait for it to pass, I won’t finish in time.
+Nothing ruins a funeral like an unfinished grave.
+I stomp into my shoes, wrap my hands, and tie the front of my hair into a knot on the top of my head—it isn’t long enough for a proper tail—before stepping out of my single-room home. I built a little lean-to shed next to it, just large enough for a person to turn around in. From there I grab my tools—shovel, pick, rock bar—tie them up, and throw them over my shoulder before heading into town. The sun gleams brightly in my eyes, and I blink a few tears back as I cross the small village. A person could spit and reach the end of Emgarden, but it isn’t like there’s anything bigger around. There’s nothing around, except for the amaranthine wall to the east and the abandoned fortress to the northwest, a giant tower brimming with broken Ancient tech, I’m sure, but even Arthen hasn’t been able to get those doors open. We stopped trying years ago.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

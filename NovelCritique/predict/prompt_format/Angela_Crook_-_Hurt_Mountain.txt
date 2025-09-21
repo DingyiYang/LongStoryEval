@@ -1,0 +1,66 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Hurt Mountain
+
+### Genres: Mystery, Thriller, Mystery Thriller
+
+### Premise:
+An estranged mother and father join forces to uncover the truth about their missing daughter in a haunting novel about trauma, loss, family, and hope. When patrolman Brandon Hall comes upon a broken-down car on a Colorado highway, he finds a young girl in a bloodied nightgown at the wheel. In the back seat, the brutalized body of a teenage boy. The girl will say only one word: Hurt . The doctor on call is Olivia Blake. For Olivia and Brandon, the traumatized Jane Doe opens a floodgate of memories. It’s been four years since they shared their own tragedy―the unsolved disappearance of their eight-year-old daughter, Carly, and the end of their marriage. As Olivia focuses on Jane Doe’s care, Brandon makes a startling discovery: a series of disappearances from across the country, over decades, that could finally lead to the truth about their missing daughter. But will unraveling the past trigger a backslide into grief, guilt, and obsession? Or is finding out what horrors lie in the Colorado mountains the only thing that can heal them, and the mysterious young girl in their care?
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Brandon Hall’s desperate search for answers about his missing daughter Carly leads him back into a world of trauma when he discovers Delilah, a young girl tied to a string of disappearances. Delilah’s abduction and connection to the malevolent Freedman Hurt thrusts Olivia, Brandon’s ex-wife and a compassionate pediatrician, into emotional turmoil. As a severe storm brews and tensions with the media escalate, led by reporter Sheldon Myers, Olivia's ability to offer safety is tested, compounding the crisis at home. Meanwhile, Brandon is driven to investigate Hurt Mountain Farm, uncovering the grim legacy behind Freedman Hurt’s operations.
+Brandon's pursuit, aided by allies like Hector and the Jessups, leads to the discovery of past victims, including Allison Moore, whose remains he uncovers. Despite nature's fury and rapidly unfolding events, he confronts the truth at Hurt Mountain and discovers the makeshift graveyard where Carly is buried. Amidst the chaos, Delilah kills Freedman Hurt in self-defense, confirming Carly’s death to Brandon, which gives him a sense of closure.
+The aftermath unfolds at the hospital, where Olivia manages familial tensions following the shocking events and the arrival of her parents, Minnie and Leland. The narrative explores their reactions, their grappling with blame, and their attempts to piece together the tragedy that cost them their neighbor's lives.
+Brandon and Delilah navigate their escape from Hurt Mountain, armed with resources left by Jacob, a boy who defied Hurt’s brutal rule, as they evade the dangers posed by the Family and seek refuge. As they reach safety at the site where officials survey the destruction at Hurt Mountain, Delilah finds solace in the promise of returning "home" to Olivia.
+Five years later, in the epilogue, Olivia and Brandon are settled in Cleveland with their daughter Isabell. The couple has left the horrors of Colorado behind, finding peace and healing while nurturing a close bond with Delilah, who’s embraced by her biological family, the Jessups. Delilah is on the cusp of adulthood, preparing for college and continuing her emotional recovery. The family dynamics have transformed, with Olivia's parents seeking their contentment, symbolizing newfound freedom and happiness. The story closes with themes of resilience, healing, and the familial ties connecting the Jessups and Halls, significantly altered and enriched by past adversities.
+
+### Character Analysis:
+**Brandon Hall:**
+- **Profile:** Former military policeman turned security head, determined to unearth truths about his daughter's disappearance.
+- **Overall Experience:** Transformed through grief and determination, Brandon grows into a figure of resilience, demonstrating profound dedication to healing and new beginnings alongside Olivia and Isabell.
+
+**Dr. Olivia Blake:**
+- **Profile:** Dedicated pediatrician and Brandon’s ex-wife, navigating the upheavals in her family while combating personal challenges.
+- **Overall Experience:** A story of endurance, Olivia’s journey emphasizes healing, personal growth, and reconnecting familial ties amid past battles.
+
+**Delilah/Delilah Jessup:**
+- **Profile:** Once a captive, she’s pivotal in revealing truths about previous kidnappings, and later becomes part of a loving family.
+- **Overall Experience:** Evolves from a girl in trauma to an emblem of survival and new beginnings, her journey lifts others as she prepares for her future in medicine.
+
+**Minnie and Leland Blake:**
+- **Profile:** Olivia's parents, caught in emotional turmoil due to past and evolving family dynamics.
+- **Overall Experience:** Challenge past grievances and find personal contentment, setting examples of strength and renewal.
+
+**Arlene:**
+- **Profile:** Olivia’s loyal friend and confidante.
+- **Overall Experience:** Represents stability and support in Olivia’s life, aiding her in facing difficult truths and encouraging healing.
+
+**Sadie Jessup:**
+- **Profile:** Older woman claiming kinship with Delilah; key to Delilah’s connection to her past.
+- **Overall Experience:** Important to the narrative, she prompts changes that highlight identity and family connections.
+
+### Excerpt (Demonstrating Writing and Language):
+Brandon Hall was on what should have been a routine patrol around the property that surrounded the Raycom Corporation—along Highway 24, a lonely two-lane highway mostly used to bypass busy I-25 on the way into and out of Colorado. As far as Brandon was concerned, 2013 had been exciting enough. He had been looking forward to it ending on a whisper of pure boredom. But it seemed Mother Nature had her own plans. Thanks to a bizarre thunderstorm that had blown into the Springs around midnight, knocking down trees, raining golf ball–size hail, and even setting a hundred-year-old church on fire, several of his men had been called off, forcing him out of the comfort of his office and into the once-familiar security vehicle. Not that he minded.
+After serving twenty years as a military policeman, most of his time spent right here in Colorado Springs on Peterson Air Force Base, he was admittedly having a bit of a struggle adjusting to the demands of his new duties. Ever since his promotion to head of security months before, he’d found himself more and more confined to the large cushy office, buried in paperwork, refereeing squabbles among his personnel, and sitting through endless meetings with company bigwigs and local law enforcement.
+Some may have viewed the office and visibility as perks of the position, but more and more, he was wondering if he was a good fit. His fiancée, Lisa, joked that he was worried about the job making him soft, and maybe she was right, but as he stared into the strange dim morning, his nerves were as taut as they had been on his first solo patrol as a young airman.
+A car was stopped on the side of the road. The headlights were on, and he could see at least one occupant, but he didn’t detect any movement from inside. Likely drunk or freaked out by the storm. He pulled up behind the car and flipped on his emergency lights.
+Yellow light reflected off the rear window as he reached for his radio to call the information in to dispatch. Instead of the efficient voice of Margie, the overnight dispatcher, he heard only static. With a sigh, he jammed the brim of his hat over his brow and pushed open his door, pulling on his rain slicker as he stepped into an early-morning downpour that drove into his body like fists.
+The car appeared to be an older-model Honda Accord, but he couldn’t be certain since the decal was missing. The right side of the vehicle was hanging off the side of the road. The right-rear tire was almost completely flat, and the left was bald. The license plates were missing, and it had more rust than its original red paint. Long scratch marks led away from a large dent in the trunk, making it appear that the car had barely escaped the talons of some great hungry beast.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

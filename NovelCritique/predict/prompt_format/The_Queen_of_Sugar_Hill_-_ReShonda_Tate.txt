@@ -1,0 +1,55 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: The Queen of Sugar Hill: A Novel of Hattie McDaniel
+
+### Genres: Historical Fiction, Historical, Race
+
+### Premise:
+It was supposed to be the highlight of her career, the pinnacle for which she’d worked all her life. And as Hattie McDaniel took the stage in 1940 to claim an honor that would make her the first African-American woman to win an Academy Award, she tearfully took her place in history. Between personal triumphs and tragedies, heartbreaking losses, and severe setbacks, this historic night of winning best supporting actress for her role as the sassy Mammy in the controversial movie "Gone With the Wind" was going to be life-changing. 
+Or so she thought. 
+Months after winning the award, not only did the Oscar curse set in where Hattie couldn’t find work, but she found herself thrust in the middle of two worlds—Black and White—and not being welcomed in either. Whites only saw her as Mammy and Blacks detested the demeaning portrayal. 
+As the NAACP waged an all-out war against Hattie and actors like her, the emotionally conflicted actor found herself struggling daily. Through it all, Hattie continued her fight to pave a path for other Negro actors, while focusing on war efforts, fighting housing discrimination, and navigating four failed marriages. Luckily, she had a core group of friends to help her out—from Clark Gable to Louise Beavers to Ruby Berkley Goodwin and Dorothy Dandridge. 
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+After Hattie McDaniel's historic Oscar win for "Gone with the Wind" in 1940, her life unfolds amidst considerable racial discrimination, professional stereotyping, and personal struggles. Despite her achievement, she faces criticism, including from the NAACP, and endures racial tensions after moving into a segregated neighborhood in 1941. Her career opportunities dwindle during World War II, leading her to take on "The Beulah Show" in 1947, which invites scrutiny over racial stereotypes. Hattie's personal life remains turbulent, marked by a failed reconciliation and subsequent divorce from James. Her marriage to Larry Williams in 1949 ends disastrously, leaving her financially ruined and contemplating suicide by 1950. She finds solace in the support from Hollywood peers like Tallulah Bankhead and friends such as Michael St. John.
+In 1951, her resilience is tested during divorce proceedings against Larry, while Ethel Waters briefly replaces her on the "Beulah" TV adaptation, prompting McDaniel's return despite criticism. Severe health issues beset her as a demanding work schedule leads to a heart attack in August 1951. By November 1951, her health and finances worsen; mounting debts force her to accept financial aid from James. After a second heart attack in February 1952, she's diagnosed with breast cancer and relinquishes her dream home. She becomes the first Black resident at the Motion Picture Country Home Hospital, where she reflects on her legacy and finalizes her will, leaving her Oscar to Howard University.
+By October 1952, Hattie hosts a dinner party at the hospital despite advisories from friends, aiming to embrace joy in her final days. Physical pain and her friends' concerns underscore her acute challenges, amplified by her accountant Cliff Rogers's counsel on her waning finances. Her plans are abruptly impacted by an unanticipated visit from gossip columnist Hedda Hopper. Although initially tense, Hattie utilizes the meeting to voice her disappointment over racial discrimination regarding her burial wishes, handling the rejection with strength and defiance. Striving to avoid sorrow overshadowing her celebration, Hattie affirms her spirit and respect for her achievements.
+Following her death in October 1952, Hedda Hopper reports on the profound impact of McDaniel's life as she succumbs to her illness. Hopper details the elaborate funeral plans, reflecting McDaniel's wish for her death to be a joyful celebration rather than a somber gathering. The anticipated large turnout at her funeral symbolizes widespread admiration, despite the racial injustices she faced posthumously in her burial denial. McDaniel's legacy as a pioneering African American actress is acknowledged, alongside her remarkable courage amid personal and professional adversities.
+
+### Character Analysis:
+**Hattie McDaniel:**
+- **Profile:** A pioneering African American actress, she was the first to win an Oscar for her role in "Gone with the Wind." Her life and career encapsulated resilience in the face of racial and personal hardships.
+- **Overall Experience:** Throughout the story, Hattie faces significant professional and personal setbacks but remains a symbol of strength. Her legacy emphasizes her courage and impact both on screen and in civil rights, ending with a poignant affirmation of her life's joy.
+
+**Hedda Hopper:**
+- **Profile:** An influential Hollywood gossip columnist known for her sensationalist approach, often inciting tension with her coverage.
+- **Overall Experience:** While often controversial, Hedda provides a platform for Hattie's voice and adds depth to her public persona through her reporting on notable events in McDaniel’s life.
+
+### Excerpt (Demonstrating Writing and Language):
+February 1940
+If my mama could see me now . . .
+I was a long way from the one-room, wood-frame shack in Wichita, Kansas, where I was always singing a spin on a Negro spiritual or dancing the cakewalk with my three siblings. That’s what we used to do to take our minds off the rumblings in our stomachs. Gone was the indescribable hunger I had back then, when I lived in a home haunted by my parents’ memories of how they’d escaped slavery and their never-ending quest to give us a better life. I’d come into the world malnourished and destitute and now—forty-six years later—my story was about to be rewritten.
+I pushed aside thoughts of where I’d been—and focused on where I now was, inside the sprawling ballroom of the Cocoanut Grove club, basking in the atmosphere of the black tie Academy Awards dinner. I was overwhelmed by the smell of rose, jasmine, and most of all vanilla Chanel No. 5, the perfume every glamour girl in the room was wearing.
+The large ballroom was flanked by massive columns ornamented with white lilies cascading from the top. Gauzy beige curtains draped from the ceiling. Negro waiters in white jackets flowed back and forth with bottles of Lanson champagne and silver service trays perched over their shoulders. They twisted and turned like Busby Berkeley dancers through the crowded tables filled with Hollywood royalty—twelve hundred movers and shakers and their guests. All white. I was the only colored actor in the room.
+I strained to get a glimpse of my costars from Gone with the Wind. We were up for eleven awards, so they had prime seating near the stage. Their tables were round and held anywhere from ten to twenty-four people. I’d been led to the very back of the room, just outside the double doors leading to the kitchen. There was seating only for three here. A grudging, mean little message meant just for me: Don’t be too full of yourself. Never ever take up too much space.
+“Why is she here?” someone muttered from the table across from me. I recognized the woman as a character actress from a silent movie. I wanted to shout, I deserve to be here! but I nodded pleasantly at her.
+Even those who tossed passive smiles my way didn’t want me here. It was one thing to share a scene with them. There, I was subservient. But here, I was on their level—even if I was seated at the very back of the room.
+The sounds of the orchestra filled the club. The saxophones were playing, the show was beginning. Young Bob Hope was a good choice as host; he easily bantered and wisecracked his way through the program. Now it was eleven thirty and with all the bubbly and cigarette smoke in the air, my heart was pounding. But then it turned into a full-on race when Fay Bainter walked to the podium.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

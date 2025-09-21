@@ -1,0 +1,78 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: The Day Shelley Woodhouse Woke Up
+
+### Genres: Romance, Contemporary, Mystery
+
+### Premise:
+When Shelley Woodhouse wakes up in hospital from a coma, the first thing she says is that her husband must be arrested.
+He’s the reason she’s in here. She knows it. She remembers what he did. Clearly as anything.
+But there are things Shelley has forgotten too, including parts of her childhood. And as those start to come back to her, so do other memories. Ones with the power to change everything.
+But can she trust these new memories, or what anyone around her is telling her? And who is the mysterious hospital volunteer who brings her food and keeps making her smile? Is it possible to find your future when you're confused about your past?
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Shelley Woodhouse's story unfolds in dual timelines: "THEN" and "NOW." In "THEN," we see Shelley's journey from an abused wife escaping her marriage to David, to becoming the founder of a women's shelter. She transforms from a pub landlady, receiving support from Derek, a pub regular, who renovates the shelter in memory of his wife, a domestic violence victim. This marks her shift to empowering and assisting women like Ella, a young mother seeking refuge. Concurrently, Shelley helps her mother Tina confront abuse from Mick, embodying the cycle of violence Shelley aims to break.
+In "NOW," Shelley grapples with memory loss following an accident while rushing to aid her mother. Her recovery is supported by her husband Matt and friend Dee. She slowly regains memories of her identity and work at the shelter, rekindling her affection for Matt amidst confusion. Matt and Dee create a "volunteer" ruse to keep Shelley’s memories intact, reflecting her growing rediscovery. Shelley's identity restoration symbolizes her quest for normalcy, characterized by nurturing relationships while confronting remnants of past trauma.
+The narrative progresses as Shelley reconnects with Dee, sharing their mothers’ struggles and Dee's new pregnancy, paralleling Shelley's own. Shelley's decision to return home reflects her readiness to reinhabit her role both at home and the shelter. Her plan to surprise Matt with her return culminates in an emotional reunion, revealing the strength and support inherent in their marriage.
+Shelley's confrontation with her past demons intensifies as Matt brings news of David's potential release from prison. Shelley processes this information, balancing hope for his change against concern for potential threats, highlighting her resilience and belief in second chances yet acknowledging vigilance. Despite external troubles, Shelley's announcement of her pregnancy signifies hope and regeneration, reinforcing themes of renewal and empowerment within familial bonds. Ultimately, Shelley stands on the cusp of reclaiming her life, affirming autonomy over her and her mother’s narratives amidst anticipation of new beginnings.
+
+### Character Analysis:
+**Shelley Woodhouse:**
+- **Profile:** Protagonist navigating recovery from trauma; resilient and empathetic, committed to empowering others through her experiences while recovering from memory loss.
+- **Overall Experience:** Shelley has evolved from living under abuse to finding empowerment through love, work, and impending motherhood, asserting autonomy over her past while safeguarding her family and rediscovering identity amidst memory loss.
+
+**Matt:**
+- **Profile:** Shelley's caring husband, providing stable support and embodying love and protection.
+- **Overall Experience:** Acts as a pillar of support facilitating Shelley’s healing and self-discovery while reinforcing trust and security within their relationship as they confront external challenges and celebrate new beginnings.
+
+**Dee:**
+- **Profile:** Loyal friend and emotional support for Shelley, facilitating recovery and empowerment.
+- **Overall Experience:** Dee remains a consistent source of friendship, aiding Shelley's journey of recovery and rediscovery through shared experiences and mutual empowerment.
+
+**Tina (Shelley's Mum):**
+- **Profile:** Victim of domestic abuse; relies on Shelley's support to escape the cycle of violence.
+- **Overall Experience:** Embodies hope and change from a cycle of abuse, challenging past shadows with Shelley's decisive support and protective presence.
+
+**David:**
+- **Profile:** Shelley’s abusive ex-husband, representing past trauma and potential future threat.
+- **Overall Experience:** Continues as a threatening force embodying the cycles of abuse Shelley must confront, symbolizing the challenges of past Sorrows resurfacing amid narrative promises of resilience and renewal.
+
+### Excerpt (Demonstrating Writing and Language):
+There’s light, soft whirrs and squeaking sounds. The drag of a curtain pulled across. I’m flat on my back, in bed. Not my bed. Not my home. And then back to darkness.
+A series of beeps, light pressure on my arm, the scratch of Velcro. I don’t know where I am. I look up, to a ceiling of square tiles with stained patches. My bed’s metal frame, the sheets white and crisp.
+The smell of vegetables boiled for too long, a steady click-clack of shoes on tiled flooring. A touch on my arm, skin on skin.
+Hospital. But why? I rake through my memories. The pub, the flat, David. My mind catches on David’s name like a jumper snagged on a metal fence. But it’s too hard to think about it. I fade out.
+My eyes are open, and there’s a middle-aged woman standing in front of me.
+‘Shelley?’ she asks. ‘Do you know where you are?’
+‘Hospital,’ I try to say, but no sound comes out.
+‘Don’t worry about that, Shelley. It might take a while for you to speak again. You’ve had a tube down your throat. You’re in the hospital. You were involved in an accident.’
+I open my mouth, try to speak again. Try to ask for water.
+‘Try not to worry about anything. I’m Angela, and I’ll be looking after you during the days while you’re in Intensive Care. It’s one nurse per patient in here, so you get special treatment.’
+Intensive Care? I’ve never been inside an Intensive Care unit before. They are for the people who are really ill, the ones who might not get better. Am I one of those people?
+I look around to find a window but all I see are other beds, other people being kept alive. Tubes and wires snaking over skin and sheets.
+‘I’ll leave you to wake up slowly,’ she says, and bustles away.
+I take in the surroundings. Six beds, too far apart for us to speak to each other. I’m on the far end, away from the nurses’ station. A couple of the patients have someone sat beside them, holding their hand. None of them look to be in good shape.
+I can feel sleep creeping up on me, and for a moment I try to fight it, but it’s too strong.
+Later, Angela passes by, and when she glances at me, I speak.
+‘What day is it?’ It comes out as a croak, but I’m so relieved to have my voice back that I don’t care.
+‘It’s Tuesday, love.’
+It doesn’t really tell me anything. The last thing I can remember is Saturday, but have I lost days or weeks?
+‘How are you feeling?’ she asks.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

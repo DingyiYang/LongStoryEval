@@ -1,0 +1,70 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Toxic Prey
+
+### Genres: Mystery, Thriller
+
+### Premise:
+Lucas Davenport and his daughter, Letty, team up to track down a dangerous scientist whose latest project could endanger the entire world.
+Gaia is dying.
+That, at least, is what Dr. Lionel Scott believes. A renowned expert in tropical and infectious diseases, Scott has witnessed the devastating impact of illness and turmoil at critical scale. Society as it exists is untenable, and the direct link to Earth’s death spiral; population levels are out of control and people have allowed disarray and disorder to run rampant. While most are concerned about deadly disease, Scott knows that it is truly humanity itself that will destroy Gaia. It’s only by removing the threat then the planet can continue to prosper, and luckily, Scott is just the right man for the job.
+When Scott then disappears without a trace, Letty Davenport is tasked with tracking down any and all leads. Scott’s connections to sensitive research into virus and pathogen spread has multiple national and international organizations on high alert, and his shockingly high clearance levels at various institutions, including the Los Alamos National Laboratory, make him the last person they’d like to go missing. As the web around Scott becomes more tangled, Letty calls in her father, Lucas, help her lead a group of specialists to find Scott as soon as possible. But as Letty and Lucas begin to uncover startling and disturbing connections between Scott and Gaia conspiracists, their worst fears are confirmed, and it quickly becomes a race to find him before the virus he created becomes the perfect weapon.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Dr. Lionel Scott, once a humanitarian, morphs into a determined eco-terrorist, aiming to incite global ecological consciousness by releasing a deadly hybrid virus. Under the leadership of U.S. Marshal Lucas Davenport, a crisis response unit converges on Taos, New Mexico, aiming to thwart Scott's bioterrorism plans. Deputy Marshal Rae Givens and sniper Barbara Cartwright are instrumental in initial successes within Santa Fe and Taos against Scott's radical associates like Randall Foss and Clarice Catton. Despite these interventions, panic escalates as military-police checkpoints fail to capture Scott, who utilizes disguises and night movements to stay ahead.
+Clarice tries to execute her viral attack but fails to complete her contamination plan before being taken down, consequently triggering mass containment measures at a church she targeted. Scott, learning of his partner’s failure, evades checkpoints once more by leveraging stealth and violence, securing transport through an isolated police murder in Lamy. Preparing for potential mass infection at major hubs like Albuquerque Airport, U.S. Marshals Letty and British operative Alec Hawkins are tasked with tracking Scott’s presumed trajectory.
+With critical decisions hinging on Scott's next move, things culminate at Albuquerque airport. Anticipating Scott's ploy, Letty and Hawkins confront him in a climactic standoff, which ends with Scott's death. Despite their success, they become contaminated with the virus, forcing an urgent response to mitigate the spread. Drawing on quarantine protocols coordinated by Underwood, the virus specialist, they advance to the heavily guarded church area to avoid further exposure.
+Within this fortified containment area, the mood shifts from tense to grim. Letty and Hawkins, along with hundreds of potentially infected citizens, face an impending biological threat. They navigate the dual battle of disease management and emotional toll as they watch the outbreak unfold around them. Despite the gravity, they engage in intimate human moments amidst the chaos. As disease specialists and health workers depend on global assistance and experimental treatments, the pair persists, recovering with other survivors while witnessing the tragic scale of the virus.
+Ultimately, the destruction of the affected zone, including its facilities and the historical church infrastructure, underscores the gravity of the virus's impact. As Lucas confirms the containment's success, even as the loss of lives remains heavy, both Letty and Hawkins emerge with resolve. The national and international implications mark a notable collaborative success against eco-terrorism. In recognition, Hawkins is awarded the George Cross for his valor.
+
+### Character Analysis:
+**Lionel Scott:**
+- **Profile:** Eco-terrorist with radical environmental beliefs.
+- **Overall Experience:** Catalyst of the narrative's biological threat, his death marks the end of his perilous mission.
+
+**Lucas Davenport:**
+- **Profile:** U.S. Marshal leading the response effort.
+- **Overall Experience:** Embodies resilience and tactical leadership throughout the control efforts.
+
+**Clarice Catton:**
+- **Profile:** Committed eco-terrorist, accomplice to Scott.
+- **Overall Experience:** Pivotal in escalating narrative tension before her neutralization.
+
+**Barbara Cartwright:**
+- **Profile:** Mission-critical sniper.
+- **Overall Experience:** Supports the containment through tactical expertise and crisis contribution.
+
+**Letty:**
+- **Profile:** U.S. Marshal, analytical mind and tactical role.
+- **Overall Experience:** Exemplifies strategic acumen, adapting to high-pressure situations.
+
+**Alec Hawkins:**
+- **Profile:** British operative, international collaborator.
+- **Overall Experience:** Enhances international dimension, pivotal to crisis resolution, awarded high honors for bravery.
+
+### Excerpt (Demonstrating Writing and Language):
+A dinged-up, dust-covered ten-year-old Subaru Outback bumped along a fire road that ran downhill from the Sangre de Cristo Mountains, through an old patch of controlled burn that had renewed itself with shoulder-high aspen saplings, and then back into dense stands of dark green pine.
+Lionel Scott was lost in northern New Mexico, as he had intended, but after four nights of meditation and his personal version of prayer, he could use a shower and a salad.
+Now, he focused on missing the larger stones. He didn’t always succeed, both hands tight on the steering wheel, glasses bouncing on his sunburned nose; every once in a while, he had to stop, get out, and move a fallen log or clump of brush. The battered wagon was reasonably tough, took the knocks with good grace, and they eventually debouched onto a gravel road.
+Scott was of middle height, short of six feet, and thin, almost gaunt, with lines of muscle cut in his arms and neck. His salt-and pepper hair fell to the middle of his ears, and one lock constantly fell over his left eye. His nose was long and straight, his eyes blue-gray, his skin fair, but roughened with outdoor wear.
+So, left or right? Scott looked both ways, and then at the gas gauge. He had a quarter tank, and decided to take the downhill route away from the mountains, where he would be more likely to find a gas station. The gravel was noisier than the dirt road, but smoother, aside from the occasional washed-out dip. Taos, he thought, was probably off to the north, but he wasn’t entirely sure of that—he had no GPS, nor a signal on his cell phone.
+The landscape was dry, and warm, but not hot. Maybe upper seventies Fahrenheit, he thought, getting warmer as he dropped down the hills; bright sun, puffy white fair-weather clouds. A flock of crows was working the mountainside. Scott could never quite make out what they were doing, but they were working hard at it, whatever it was, ink spots against the blue sky. He drove with the windows down, breathing in the scents of pine, juniper, aspen, the silver-green chamisa, and his own dried sweat.
+Scott didn’t know precisely where he was, but did know he was headed west, unless the sun had changed its position in the solar system. He was more or less driving into it, given the wiggles in the road, and at this time of year, it should be setting generally to the northwest. As it would be in two hours.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

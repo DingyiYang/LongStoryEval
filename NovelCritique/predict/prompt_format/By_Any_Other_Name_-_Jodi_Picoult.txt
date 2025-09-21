@@ -1,0 +1,63 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: By Any Other Name
+
+### Genres: Historical Fiction, Historical, Contemporary
+
+### Premise:
+Young playwright Melina Green has just written a new work inspired by the life of her Elizabethan ancestor Emilia Bassano. But seeing it performed is unlikely, in a theater world where the playing field isn’t level for women. As Melina wonders if she dares risk failure again, her best friend takes the decision out of her hands and submits the play to a festival under a male pseudonym.
+In 1581, young Emilia Bassano is a ward of English aristocrats. Her lessons on languages, history, and writing have endowed her with a sharp wit and a gift for storytelling, but like most women of her day, she is allowed no voice of her own. Forced to become a mistress to the Lord Chamberlain, who oversees all theatre productions in England, Emilia sees firsthand how the words of playwrights can move an audience. She begins to form a plan to secretly bring a play of her own to the stage—by paying an actor named William Shakespeare to front her work.
+Told in intertwining timelines, By Any Other Name, a sweeping tale of ambition, courage, and desire centers two women who are determined to create something beautiful despite the prejudices they face. Should a writer do whatever it takes to see her story live on . . . no matter the cost? This remarkable novel, rooted in primary historical sources, ensures the name Emilia Bassano will no longer be forgotten.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+The story intricately weaves together the lives of Emilia Bassano, a determined poet in 17th-century England, and Melina Green, a contemporary playwright fighting for recognition in the modern theater world. Emilia's tale unfolds as she strives to forge her own literary path amidst the restrictive societal norms of her time. This pursuit is marked by her efforts to claim her inheritance and manage a nuanced relationship with the Earl of Southampton, all while desiring recognition separate from William Shakespeare’s towering presence. After Shakespeare's death, Emilia continues her mission as a schoolmistress, nurturing young female minds and confronting societal barriers. A pivotal moment arises when Ben Jonson discloses that Shakespeare credited her inspiration for his work, allowing her to contribute significantly to the legacy of Shakespeare's plays, including revisions to "Othello."
+Parallelly, Melina Green navigates the modern world of theater in Washington Heights, adopting the pseudonym "Mel Green" to surmount gender bias. Her play, "By Any Other Name," gains traction under her friend Andre’s identity, leading to complications within their friendship. Inspired by Emilia’s journey, Melina pursues recognition, balancing professional relationships and personal reconciliation with Andre. A career-defining opportunity arises when Jasper Tolle, now an artistic director supportive of diverse voices, opts to stage Melina's play, marking a turning point in her career and renewing her aspirations.
+The story culminates with the play’s opening night, a testament to Melina’s growth and triumph. As the play concludes, Melina reflects on the profound, transient pause before audience applause, confirming their collective journey. Supported by a dedicated cast, Andre, and family, including her father who is moved by the play’s dedication to Melina’s mother, she steps onto the stage amidst the ovation. Confronted momentarily by a mysterious woman with eyes like her own, Melina is propelled into the spotlight, embracing her evolution from invisibility to recognition.
+
+### Character Analysis:
+**Emilia Bassano:**
+- **Profile:** Historical poet; intelligent and resilient, striving against 17th-century gender norms to own her voice and literary contributions.
+- **Overall Experience:** A trailblazer for women’s voices in literature, her journey is marked by ongoing struggles against societal restrictions and the preservation of her legacy, culminating in influencing Shakespearean works.
+
+**Melina Green:**
+- **Profile:** Modern playwright; determined and perceptive, battling sexism in theater and rediscovering her identity as a creator.
+- **Overall Experience:** Melina’s journey for justice and acknowledgment is inspired by Emilia, ultimately achieving renewed aspirations and visibility in the theatrical world.
+
+**Andre Washington:**
+- **Profile:** Melina’s confidant; genuine and evolving, his relationship with Melina underscores their combined pursuit of recognition.
+- **Overall Experience:** Through his personal development, Andre fortifies themes of identity and acceptance, crucial to both his and Melina’s narratives.
+
+**Jasper Tolle:**
+- **Profile:** Former critic turned artistic director; insightful and transformative, advocating for diverse playwrights.
+- **Overall Experience:** A key catalyst in Melina’s journey, Jasper embodies change and acceptance in the artistic community.
+
+**Melina’s Father:**
+- **Profile:** Supportive and emotional, invested in Melina's success and legacy.
+- **Overall Experience:** Represents the familial acknowledgment Melina receives, contributing to her sense of belonging in the world she creates.
+
+### Excerpt (Demonstrating Writing and Language):
+Many years after Melina graduated from Bard College, the course she remembered the most was not a playwriting seminar or a theater intensive but an anthropology class. One day, the professor had flashed a slide of a bone with twenty-nine tiny incisions on one long side. “The Lebombo bone was found in a cave in Swaziland in the 1970s and is about forty-three thousand years old,” she had said. “It’s made of a baboon fibula. For years, it’s been the first calendar attributed to man. But I ask you: what man uses a twenty-nine-day calendar?” The professor seemed to stare directly at Melina. “History,” she said, “is written by those in power.”
+He was standing with his back to her when she knocked and entered. His silver hair fell over his eyes, boyish. “My favorite thesis student,” he greeted.
+“I’m your only thesis student.” Melina pulled an elastic from her wrist and balled her black hair on top of her head in a loose knot before rummaging in her backpack for two small glass bottles of chocolate milk from a local dairy. They cost a fortune, but she brought Professor Bufort one each week. High blood pressure medication had robbed him of his previous vices—alcohol and cigarettes—and he joked that this was the only fun he got to have anymore. Melina handed him a bottle and clinked hers against it.
+“My savior,” he said, taking a long drink.
+Like most high school kids who had notched productions of The Crucible and A Midsummer Night’s Dream on their belts, Melina had come to Bard assuming that she would study acting. It wasn’t until she took a playwriting course that she realized the only thing mightier than giving a stellar performance was being the person who crafted the words an actor spoke. She started writing one-acts that were performed by student groups. She studied Molière and Mamet, Marlowe and Miller. She took apart the language and the structure of their plays with the intensity of a grandmaster chess champion whose understanding of the game determined success.
+She wrote a modern Pygmalion, where the sculptor was a pageant mom and the statue was JonBenét Ramsey, but it was her version of Waiting for Godot, set at a political convention where all the characters were awaiting a savior-like presidential candidate who never arrived, that caught the attention of Professor Bufort. He encouraged her to send her play to various open-submission festivals, and although she never was selected, it was clear to Melina and everyone else in the department that she was going to be one of the few to make it as a produced playwright.
+“Melina,” Bufort asked, “what are you going to do after graduation?”
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

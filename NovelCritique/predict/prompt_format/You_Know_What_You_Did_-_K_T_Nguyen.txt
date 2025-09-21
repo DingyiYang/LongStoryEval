@@ -1,0 +1,71 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: You Know What You Did
+
+### Genres: Thriller, Mystery, Mystery Thriller
+
+### Premise:
+Annie “Anh Le” Shaw grew up poor but seems to have it all now: a dream career, a stunning home, and a devoted husband and daughter. When Annie’s mother, a Vietnam War refugee, dies suddenly one night, Annie’s carefully curated life begins to unravel. Her obsessive-compulsive disorder, which she thought she’d vanquished years ago, comes roaring back—but this time, the disturbing fixations swirling around in Annie’s brain might actually be coming true.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Annie Shaw, an artist dealing with OCD and past trauma, becomes entangled in a murder investigation that exacerbates her family issues. Her husband Duncan's controlling behavior and betrayals, including an event in Hong Kong from 2002, deepen their disconnect. Suspicions of Duncan's infidelity lead to strife, particularly affecting their daughter, Tabby.
+Annie’s own affair with Gabe further complicates her situation and marriage. Legal troubles ensue as Annie becomes involved in a hazardous investigation with Detective Harper after an encounter involving spiders with Gabe. Memories of her mother’s Vietnam War trauma surface, adding emotional strain. Throughout, with help from her lawyer Ed, Annie works to prove her innocence, protect Tabby, and mend family rifts.
+Duncan returns, escalating tensions. Annie struggles with whether to confess to Gabe but hesitates. During a fraught dinner, resentments emerge, revealing Duncan's manipulations and schemes. Duncan's violent confrontation with Annie exposes his malicious intent. In a dramatic climax, Duncan kidnaps Annie intending to kill her and stage it as a suicide. As Annie pleads for mercy, Tabby finds them and becomes endangered. Annie fights back, ultimately killing Duncan in self-defense, setting their house ablaze, and rescuing Tabby.
+Three months later, Annie focuses on rebuilding her life and helping Tabby process their father’s betrayal. Cleared of charges, she reflects on her affair with Gabe and her broken marriage, and she acknowledges she couldn’t save Duncan, signaling her intent to move forward with Tabby into a new chapter.
+In the epilogue, Annie, now thriving under her maiden name, is solidifying her bond with Tabby. They attend the Park Waldorf spring festival together, bonding over shared memories and future plans. Tabby struggles with her feelings about Duncan but welcomes Annie’s comforting perspective. Annie reflects on her career’s evolution, moving towards abstract styles. She chooses not to contest Duncan’s will, emphasizing her independence and her dedication to Tabby’s future. Both are hopeful about Tabby’s college prospects and Annie’s artistic pursuits, setting a promising path toward healing and growth.
+
+### Character Analysis:
+
+**Annie Shaw:**
+- **Profile:** Protagonist; artist grappling with OCD and family discord. Survives tumultuous marriage and murder investigation.
+- **Overall Experience:** Transforms from victim to survivor, navigating mental health challenges and trauma, while seeking to protect Tabby and rebuild her life.
+
+**Tabby Shaw:**
+- **Profile:** Annie's teenage daughter caught between her parents’ chaotic world.
+- **Overall Experience:** From a victim of family turmoil, she grows into maturity, grappling with complex emotions about her father while moving towards a promising future with Annie.
+
+**Duncan Shaw:**
+- **Profile:** Antagonist; controlling and homicidal husband with a facade of normalcy.
+- **Overall Experience:** His manipulation and malice unravel, leading to his own downfall and demise.
+
+**Ed Perez:**
+- **Profile:** Annie’s lawyer and confidant.
+- **Overall Experience:** Remains a key supporter and voice of reason in Annie’s legal and personal life challenges.
+
+**Dr. Lily Patel:**
+- **Profile:** Annie’s psychiatrist and support figure.
+- **Overall Experience:** Offers guidance, balancing professional duty with personal insights into the Shaw family dynamics.
+
+**Danielle:**
+- **Profile:** Annie's friend with a passion for beadwork.
+- **Overall Experience:** Newer connection in Annie's life, supported by Annie in her artistic endeavors.
+
+### Excerpt (Demonstrating Writing and Language):
+Let me help with the funeral stuff,” Tabby says, grabbing a cold kombucha from the fridge. “I could find the caterer for Grandma’s wake or whatever. Like when Papa died last summer.”
+After Annie’s father-in-law passed away quietly at the Shaw family estate in Boston, Tabby proudly assisted with telephone calls and vendor arrangements. Duncan Shaw welcomed his daughter’s involvement even though the thirteen-year-old’s constant questions about how and what to do ultimately created more work for him. He confided in Annie, “Any inconvenience is well worth it, if it helps Tabby to process her grief.”
+Now Annie flips through a stack of mail on the counter, buying time as she struggles to craft a tactful response to her daughter’s offer. There will be no funeral for Mẹ. Annie, riddled with guilt, couldn’t even bring herself to attend the cremation. Duncan had taken care of it for her, disappearing for several hours one morning then returning with four and a half pounds of cremains in a black plastic tub.
+Fortunately, something on the kombucha label has caught Tabby’s eye and distracted her from the topic of funeral plans. The girl’s nose, freckled from a decade of riding lessons, crinkles. “This says ‘Made in San Francisco,’ but locally brewed is so much better for us and for the environment. Do better, Mom.” At that, she raises the bottle to her rosebud lips and chugs the entire thing.
+Six dollars gulped down in fifteen seconds. At times like this, Annie can’t help but notice how much Tabby takes for granted. She’d never wanted her daughter to grow up as she herself did—and perhaps had overcompensated as a result, buying trendy brands and ignoring Duncan’s penchant for lavishing expensive gifts on his little girl.
+Tabby swipes her lips on the sleeve of her crisp white hoodie, then tosses the empty bottle into a stainless steel recycling bin built into the custom cabinetry. Again, she fixes a pair of expectant brown eyes on her mother. “So what can I do?”
+Annie clears her throat nervously and attempts to level expectations as gently as possible.
+“We’re not doing a funeral. Just the cremation. I thought you knew . . . there’s nobody to invite anyway. Grandma didn’t have any friends left, and there aren’t any other relatives that I know of.”
+This was completely true. Annie hadn’t even met her father or her older brother, nor did she know the particular circumstances of their deaths. Mẹ had never been willing to share much, only vaguely alluding to the fact that they both died during the war.
+“Um . . . well, what about the ceremony to spread the ashes or the wake?” Tabby’s voice is growing precariously thin and nasal. With the fragile pride of a teenager, she’s taken the rejection of her help, so rarely offered, personally. “I mean, if we don’t do something, Grandma’s ghost won’t be able to rest.”
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

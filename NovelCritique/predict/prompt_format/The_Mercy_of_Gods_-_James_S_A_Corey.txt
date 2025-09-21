@@ -1,0 +1,70 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: The Mercy of Gods
+
+### Genres: Science Fiction, Space Opera, Fantasy
+
+### Premise:
+A spectacular new space opera that sees humanity fighting for its survival in a war as old as the universe itself.
+How humanity came to the planet called Anjiin is lost in the fog of history, but that history is about to end. The Carryx – part empire, part hive – have waged wars of conquest for centuries, destroying or enslaving species across the galaxy.  Now, they are facing a great and deathless enemy. The key to their survival may rest with the humans of Anjiin.   Caught up in academic intrigue and affairs of the heart, Dafyd Alkhor is pleased just to be an assistant to a brilliant scientist and his celebrated research team.  Then the Carryx ships descend, decimating the human population and taking the best and brightest of Anjiin society away to serve on the Carryx homeworld, and Dafyd is swept along with them. They are dropped in the middle of a struggle they barely understand, set in a competition against the other captive species with extinction as the price of failure.  Only Dafyd and a handful of his companions see past the Darwinian contest to the deeper game that they must play to learning to understand – and manipulate – the Carryx themselves. With a noble but suicidal human rebellion on one hand and strange and murderous enemies on the other, the team pays a terrible price to become the trusted servants of their new rulers. Dafyd Alkhor is a simple man swept up in events that are beyond his control and more vast than his imagination.  He will become the champion of humanity and its betrayer, the most hated man in history and the guardian of his people. This is where his story begins.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+The story unfolds in a post-invasion world where the Carryx have subjugated Anjiin. Within this harsh new order, biochemical researchers like Jessyn, Dafyd, and Tonner navigate survival while compelled to contribute to experiments under the Carryx's tight grip. The Carryx regime, marked by violent purges against dissenters like the Night Drinkers, exploits their captives' expertise, leading the captives to struggle with ethical conflicts and emotional challenges amidst climate of fear and control. Jessyn, carrying wounds from her past losses such as Irinna, becomes a reluctant leader among the captives. Her protective instincts and the counsel of covert operatives like Else Yannin drive her efforts to safeguard her companions.
+As the captives face enforced collaboration against a backdrop of rebellion, Dafyd finds himself stepping up to mediate burgeoning interspecies diplomacy, attempting to suss out various strategies among the entrapped researchers. A conspiracy tied to biochemical weaponry reveals itself, amplifying pressures through Jellit's unforeseen alliance—complicating their survival further against the Carryx's brutal reprisals, illustrated by the Rak-hunds' acts of murder, claiming lives like Synnia, a key figure in resistance. Pushed towards a breaking point, the captives press on with their work hoping it can somehow become a lifeline to safety or leverage against-or within, Carryx control.
+A crucial turning point arises when the Carryx high command gathers captives for adjudication. During this tense confrontation, Dafyd undertakes a perilous act to spare Tonner from execution, engaging with the Carryx customs to save him, promising a fragile survival. Back in confinement, they encounter Ekur, a new librarian from the Carryx charged with managing human interactions, presenting a faceless embodiment of the alien leadership's protocols. As Dafyd assumes the role of mediator, he begins to foster seeds of resistance while navigating the constraints posed by his forced alliance with the oppressors—a strategy subtly mirroring Else's earlier motives.
+The narrative deepens when the swarm, infiltrating Jellit's body, grapples with new emotional impulses and conflicts arising from its altered biochemical environment. Despite longing to execute its mission by transmitting critical Carryx intelligence from a less guarded colony, the swarm hesitates, ensnared by new bonds and pulling emotions towards Jessyn and Dafyd. As echoes of the deceased Ameer and Else haunt its consciousness, the swarm contemplates embedding its knowledge in another host, though it's fraught with lethal risks to the carrier. Amid its internal tumultuous landscape and the visibility of distant cosmic phenomena, the swarm's rebellion solidifies as it embraces human emotions for the first time—constructing dreams where it and Dafyd might bring down the oppressive Carryx regime together, igniting hopes of love, revenge, and liberation amidst its mission's peril.
+
+### Character Analysis:
+**Jessyn:**
+- **Profile:** A biochemical researcher turned leader, characterized by resilience and protective instincts, shaped by trauma and loss.
+- **Overall Experience:** Continues to drive resilience and rebellion amidst captivity, seeking to protect companions under Carryx control, embodying the spirit of resistance.
+
+**Dafyd Alkhor:**
+- **Profile:** Diplomatic thinker and mediator among captives, seeking to navigate and strategically undermine Carryx oppression.
+- **Overall Experience:** Evolving as a mediator with emergent resistance sentiments, struggles with identity and captivity pressures, seeks strategic subversion opportunities.
+
+**Jellit:**
+- **Profile:** A vessel for the swarm, originally devoted to Jessyn, instrumental in rebellion undertakings.
+- **Overall Experience:** Represents defiance and survival against Carryx, posthumously contributing to the swarm's complex narrative and internal struggle.
+
+**Ekur of the cohort Tkalal:**
+- **Profile:** Carryx librarian overseeing humans; represents alien authority's systematic control.
+- **Overall Experience:** Embodies the alien bureaucracy tasked with managing captives, reflecting the Carryx's oppressive and procedural nature.
+
+**The Swarm:**
+- **Profile:** A collective intelligence inhabiting Jellit, navigating internal chaos and unexpected emotional conflicts.
+- **Overall Experience:** From strategic infiltrator to emotionally conflicted entity, it balances mission obligations with newfound personal bonds and ambitions against the Carryx.
+
+### Excerpt (Demonstrating Writing and Language):
+Later, at the end of things, Dafyd would be amazed at how many of the critical choices in his life seemed small at the time. How many overwhelming problems had, with the distance of time, proved trivial. Even when he sensed the gravity of a situation, he often attributed it to the wrong things. He dreaded going to the end-of-year celebration at the Scholar’s Common that last time. But not, as it turned out, for any of the reasons that actually mattered.
+“You biologists are always looking for the starting point, asking the origin question, sure. But if you want to see origins,” the tall, lanky man at Dafyd’s side said, pointing a skewer of grilled pork and apple at his chest. Then, for a moment, the man drunkenly lost his place. “If you want to see origins, you have to look away from your microscopes. You have to look up.”
+“That’s true,” Dafyd agreed. He had no idea what the man was talking about, but it felt like he was being reprimanded.
+“Deep sensor arrays. We can make a telescope with a lens as wide as the planet. Effectively as wide as the planet. Wider, even. Not that I do that anymore. Near-field. That’s where I work now.”
+Dafyd made a polite sound. The tall man pulled a cube of pork off the skewer, and for a moment it looked like he’d drop it down into the courtyard. Dafyd imagined it landing in someone’s drink in the Common below.
+After a moment, the tall man regained control of his food and popped it into his mouth. His voice box bobbed as he swallowed.
+“I’m studying a fascinating anomalous zone just at the edge of the heliosphere that’s barely a light-second wide. Do you have any idea how small that is for conventional telescopy?”
+“I don’t,” Dafyd said. “Isn’t a light-second actually kind of big?”
+The tall man deflated. “Compared with the heliosphere, it’s really, really small.” He ate the rest of the food, chewing disconsolately, and put the skewer down on the handrail. He wiped his hand with a napkin before he extended it. “Llaren Morse. Near-field astronomic visualization at Dyan Academy. Good to meet you.”
+Taking it meant clutching the man’s greasy fingers in his own. But more than that, it meant committing to the conversation. Pretending to see someone and making his excuses meant finding another way to pass his time. It seemed like a small choice. It seemed trivial.
+“Dafyd,” he said, accepting the handshake. When Llaren Morse kept nodding, he added, “Dafyd Alkhor.”
+Llaren Morse’s expression shifted. A small bunching between his eyebrows, his smile uncertain. “I feel like I should know that name. What projects have you run?”
+“None. You’re probably thinking of my aunt. She’s in the funding colloquy.”
+Llaren Morse’s expression went professional and formal so quickly, Dafyd almost heard the click. “Oh. Yes, that’s probably it.”
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

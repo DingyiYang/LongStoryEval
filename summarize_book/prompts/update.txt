@@ -1,0 +1,54 @@
+Below is a segment from a story:
+
+---
+
+{Beginning}
+
+---
+
+Below is a summary of the story up until this point:
+
+---
+
+### Plot Summary:
+{Sum}
+
+### Characters:
+{Chars}
+
+---
+
+**Instructions:**
+Your task is to sequentially analyze segments of a lengthy book, updating a detailed summary of the entire story, focusing on both the plot and characters.
+
+**Guidelines:**
+1. Plot:
+* First summarize the information in the current segment, such as key events, main conflicts, backgrounds, settings, and characters.
+* Update the plot summary to incorporate new information while preserving important details from the original version.
+* Preserve the narrative flow in the original text. Retain all non-linear narratives, flashbacks, setting transitions, and perspective shifts in their original order.
+
+2. Characters:
+* Update the major characters' profiles, current experiences, and overall experiences.
+* Add new significant characters from this segment to the list.
+* Remove characters that have not been mentioned in this segment if they are no longer crucial to the story’s progression.
+
+**Output Format:**
+
+---
+
+### Summary of Current Segment:
+{Summary of this segment}
+
+### Updated Plot Summary (within 1200 words):
+{Updated summary of the whole story}
+
+### Characters:
+**{Character Name}**:
+- **Profile**: Update the character's profile, including the role (e.g., protagonist), attributes, personality, and relationships.
+- **Current Experience**: Briefly describe the character's motivations, events, interactions, and emotional states in this segment. If the character isn't mentioned, write "Not mentioned".
+- **Overall Experience**: Update the character's overall experience and development throughout the story, incorporating the current experience.
+
+---
+
+Now start your summarization:
+### Summary of Current Segment:

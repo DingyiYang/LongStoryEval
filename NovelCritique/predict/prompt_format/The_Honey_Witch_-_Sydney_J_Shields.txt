@@ -1,0 +1,60 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: The Honey Witch
+
+### Genres: Fantasy, Romance, LGBT
+
+### Premise:
+Twenty-one-year-old Marigold Claude has always preferred the company of the spirits of the meadow to any of the suitors who’ve tried to woo her. So when her grandmother whisks her away to the family cottage on the tiny Isle of Innisfree with an offer to train her as the next Honey Witch, she accepts immediately. But her newfound magic and independence come with a price: No one can fall in love with the Honey Witch.
+When Lottie Burke, a notoriously grumpy skeptic who doesn’t believe in magic, shows up on her doorstep, Marigold can’t resist the challenge to prove to her that magic is real. But soon, Marigold begins to care for Lottie in ways she never expected. And when darker magic awakens and threatens to destroy her home, she must fight for much more than her new home—at the risk of losing her magic and her heart.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+In 1831, Marigold Claude, a 21-year-old Honey Witch in Bardshire, lives under the shadow of a love curse that makes romantic love lethal. Her journey is marked by the complexity of her magical heritage, familial obligations, and an ever-present threat from the Ash Witch, Versa. The narrative follows Marigold as she explores her abilities and the Isle of Innisfree's magical traditions with the help of memories of her grandmother Althea and her spirit guide, Lunasia. The unified stories of her past, including the bonds with her childhood friend August Owens, align with her familial responsibilities and uncovering a traitorous manipulation of her protection runes.
+Marigold's life is a battle against Versa's looming threats, while simultaneously dealing with personal losses, such as healing her friend Caoimhe and coping with her grandmother’s passing. As she crafts a spell to reveal soulmates, it complicates her budding relationship with Lottie Burke, a bond endangered by the lethal curse. Despite the obstacles, Marigold is forced to face the depths of her emotions during Aster's wedding, isolated despite her siblings' happiness due to her inability to partake in love without danger. A shared intimate moment with Lottie leads to the curse taking Lottie's life. Driven to desperation, Marigold employs powerful magic to revive her, an act of love that comes with significant cost and risk.
+Determined not to endanger Lottie further, Marigold sends her away in a protective storm. Left to face the consequences, Marigold deals with Versa's infiltration facilitated by Lottie’s blood ties to the Ash Witch. Marigold's friendship with August changes as he forms a new bond with her brother, Frankie. As they rally through the island's changes, Mr. Benny’s revelation about being her grandmother’s soulmate inspires Marigold to confront her own curse and fight for Lottie.
+The story crescendos in Marigold and Lottie's final confrontation with Versa. Marigold empowers Lottie to make a choice, affirming her love. The pair defeat Versa through their collective strength, using magical honey to dismantle the Ash Witch's hold and save their world. In a climactic battle enveloped in flames, they defeat Versa, securing the future of Innisfree and releasing themselves from the chains of the past.
+In the ethereal epilogue, Marigold awakens in a surreal field of flowers, where deceased loved ones, including her grandmother and Mr. Benny, guide her. It’s a choice between eternal peace and returning to life, motivated by love. Marigold chooses to return to Lottie, undergoing a painful rebirth into her body where Lottie's desperate effort to save her prevails. Free from the curse, they embrace their united path forward. The concluding scene celebrates a new chapter as they reconstruct their lives amidst renewed hope for family and legacy under the bounties of nature.
+
+### Character Analysis:
+**Marigold Claude:**
+- **Profile:** Protagonist, a 21-year-old Honey Witch once bound by a lethal love curse, striving for connection and legacy amidst magic and family duties.
+- **Overall Experience:** Marigold has transformed from a cursed, isolated figure to an empowered witch who breaks her curse and embraces love courageously. Her journey embraces themes of sacrifice, love, resilience, and reconnection with her magical roots.
+
+**Lottie Burke:**
+- **Profile:** Marigold’s soulmate, whose familial ties to the Ash Witch complicate her journey. Brave and deeply committed to Marigold.
+- **Overall Experience:** Lottie’s growth mirrors that of a protector willing to confront dark legacies, eventually finding freedom in love with Marigold, showcasing her own heroism.
+
+**Mr. Benny:**
+- **Profile:** Grandfather figure, Althea’s soulmate, his wisdom and support have been crucial for Marigold’s development.
+- **Overall Experience:** His steady guidance and revelation of true love inspired Marigold’s liberation from her curse, representing the power of soulmates.
+
+**Althea:**
+- **Profile:** Marigold’s late grandmother, a revered figure whose insights impact Marigold’s journey significantly.
+- **Overall Experience:** Althea’s lessons and enduring love frame Marigold’s understanding of life’s cyclical nature and her magical inheritance.
+
+**Versa:**
+- **Profile:** Antagonist, Ash Witch whose objectives clash with Marigold’s protective nature.
+- **Overall Experience:** A formidable adversary whose downfall emphasizes themes of love conquering malevolence, marking the triumph over darkness.
+
+### Excerpt (Demonstrating Writing and Language):
+
+Saying no—even thirteen times—is not enough to avoid tonight’s ball. On this unfortunately hot spring day, Marigold Claude is trapped between her mother and younger sister, Aster, in a too-tight dress, in a too-small carriage. It’s her sister’s dress from last season, for Marigold refuses to go to the modiste to get fitted for a new one; an afternoon of being measured and pulled and poked is an absolute nightmare. Her blond hair is pulled up tightly so that her brows can barely move and her eyes look wide with surprise. Her father and her younger brother, Frankie, sit across from them, likely feeling quite lucky to have the luxury of wearing trousers instead of endlessly ruffled dresses. A bead of sweat snakes down the back of her neck, prompting her to open her fan. It’s as if the more she moves, the larger the dress becomes. With every flap of her fan, the ruffles expand into a fluffy lavender haze. She is almost sure that she is suffocating, though death by silk might be preferable to the evening ahead.
+This ball is the first event since her twenty-first birthday, so now she has a few months to marry before she is deemed an old and insufferable hag. The ride is far too short for her liking, as with any ride to another Bardshire estate. The opulent village was a gift from the prince regent himself; it is the home of favored artists from all over the world, including painters like Marigold’s father. Sir Kentworth, a notable composer, is hosting tonight’s event as an opportunity to share his latest works. Though the occasion is more of a way to hold people hostage for the duration of the music, and force them to pretend to enjoy it.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

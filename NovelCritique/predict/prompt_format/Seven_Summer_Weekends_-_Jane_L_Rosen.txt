@@ -1,0 +1,71 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Seven Summer Weekends
+
+### Genres: Romance, Contemporary, Womens Fiction
+
+### Premise:
+When a Zoom disaster upends Addison Irwin’s decade-long career at a posh Manhattan advertising agency, things look bleak for the thirty-something mid-western transplant. But an unexpected inheritance from an aunt she barely remembers—a property on Fire Island, complete with guest house and artist’s studio—changes everything.
+ 
+While debating whether to stay or sell, Addison learns that she’s also inherited her aunt’s list of eclectic guests, tying her to the island for seven summer weekends. Eager to convince Addison to keep the house rather than let a new buyer build a monstrosity in its place, the neighbors welcome her to their laid-back community. Well, all except the moody guy next door, who seems intent on glowering his way through life.
+ 
+Steadfast in her path since college, Addison is determined not to let this detour on Fire Island throw her off track. But soon, between the revolving door of weekend visitors and the up-and-down relationship with her neighbor (and his adorable dog), she finds herself in unfamiliar territory. Should she try to pick up where she left off—or embrace entirely new possibilities?
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+The story follows Addison Irwin, who inherits a beach house on Fire Island from her late aunt, Gicky. Initially planning to sell, she changes her mind after a letter from Gicky encourages her to live authentically. House ownership soon entangles Addison in the local community and connects her with Ben Morse, a widowed author mourning his wife, Julia. Their growing attraction is marked by undeniable chemistry intertwined with unresolved pasts.
+Addison’s involvement with the community deepens amid her reconciling familial issues, notably with her father, Morty, revealing shared histories with Gicky. Meanwhile, Addison supports her friend Kizzy Weinstein through marital challenges, learning more about loyalty and forgiveness. Conflicted by a career choice in advertising, Addison is nonetheless drawn to explore her newfound artistic talents, particularly after meeting art gallery owner CC Ng.
+The pair’s relationship evolves from playful attraction to profound emotional support, with Addison inspiring Ben to heal from his loss. However, Ben's lingering grief poses challenges. A moment of fear causes Ben to flee, but supportive insights from Nora, Julia's sister, and baby Juliette, Julia’s namesake niece, help Ben acknowledge space in his heart for love.
+The narrative crescendos with a mutual acknowledgment of love and commitment. Symbolic elements, such as Gicky's manipulative yet affectionate influence through Shep, add layers of legacy and destiny to Addison and Ben’s partnership. They decide to share ownership of the beach house, embracing its history as part of their shared journey.
+In the epilogue, set months later, Addison prepares for her first art show in Manhattan, showcasing ceramics inspired by her emotional journey. Her friends and family, including Ben, support her moment of triumph. Addison is further validated as an artist through positive reviews linking her talent to Gicky's, deepening her empowerment and self-acceptance. The story concludes with Addison's pregnancy announcement, reinforcing themes of renewal, legacy, and hope for a future abundant with love and creativity.
+
+### Character Analysis:
+**Addison Irwin:**
+- **Profile:** Protagonist; creative and determined. Inherits a beach house and embarks on a journey of personal and artistic self-discovery.
+- **Overall Experience:** Addison’s journey shifts from a career-focused life to embracing creativity and authenticity, shaped by love, community ties, and family legacies.
+
+**Ben Morse (Ben Silver):**
+- **Profile:** Widowed author captivated by Addison. Combines introspection and resilience as he grapples with love’s rebirth post-grief.
+- **Overall Experience:** Transforms from grieving widower to believing in new beginnings, aided by love, community, and Addison's influence.
+
+**Nora:**
+- **Profile:** Julia’s sister and supportive figure for Ben, representing acceptance and familial bonds.
+- **Overall Experience:** Acts as a poignant connection between past and present, helping Ben and Addison navigate their shared journey.
+
+**Kizzy Weinstein:**
+- **Profile:** Addison's friend; Initially faces marital turmoil and evolves toward empowerment.
+- **Overall Experience:** Illustrates complex relationship dynamics, supporting Addison while resolving her own relationships.
+
+**Shep:**
+- **Profile:** Friend connected to both Addison's and Ben's pasts through Gicky’s influence.
+- **Overall Experience:** Epitomizes the community’s role in guiding and supporting Addison and Ben’s journey.
+
+**CC Ng:**
+- **Profile:** Art gallery owner who champions Addison’s creative career.
+- **Overall Experience:** Catalyzes Addison’s transition to professional artist, embracing and propelling her newfound path.
+
+### Excerpt (Demonstrating Writing and Language):
+When Addison Irwin reflects on the fateful day in June when her life was upended, it plays out in front of her eyes like the opening sequence of a nineties rom-com. Music and all.
+In her mind, Vanessa Carlton belts the title track “A Thousand Miles” as Addison makes her way downtown “walking fast / faces pass,” though she’s work bound, not homebound. It is summer in Manhattan, and Addison is dressed in a crisp white blouse, tan linen capris, and ballet flats. She ascends from the subway station at Fifty-Third and Lex with the confidence of a thirty-four-year-old woman rumored to be first in line for promotion to art director at the Silas and Grant Advertising Agency.
+This will most definitely be a day to remember, she was happily thinking to herself. She wondered where it would stand compared to receiving the Danhausen award for sculpture at art school graduation or attaining her highest-ranking title thus far: Color War General at Camp Mataponi.
+Addison’s rumored promotion would make her not only the youngest to hold the role of art director at the firm, but the first woman to do so. She’d been channeling the seventies advertising icon Shirley Polykoff, who was the inspiration for the fictional Peggy Olson on Mad Men, since she had first arrived. Unlike most women her age, whose motivation to move to the Big Apple stemmed from watching episodes of Sex and the City, Addison Irwin was a Mad Men girl. Though it should be noted that she ended up with a matching set of friends to Carrie Bradshaw’s three besties—if not in personality, at least in hair color.
+Today, all the years of late nights and canceled plans would finally pay off. Addison crossed her fingers that the company’s illustrious CEO, Richard Grant, would make the big announcement—her big announcement—during the company-wide Zoom this morning. She picked up her pace.
+Richard Grant, the grandson of the Grant in Silas and Grant and the heir to the seventy-year-old advertising agency, had been groomed to lead the company since birth. He was competent enough, and fairly democratic in his leadership style, but there was a disconnect that prevented anyone from truly liking him. He was tone-deaf to the point of embarrassment, and while his tendency to see things only from his own perspective made for hours of interoffice laughter and camaraderie, it annoyed Addison immensely. While Addison loved the fact that the firm had been in the same family since its start, she recoiled when Grant bragged about his accomplishments, personal and business, as if his success had nothing to do with his prince-like status and familial connections.
+Addison caught her freckled reflection in a store window on Madison Avenue and twisted her wavy brown hair into a high pony. You got this, she thought to herself, pushing any remaining butterflies from her belly.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

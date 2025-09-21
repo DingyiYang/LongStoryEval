@@ -1,0 +1,67 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Death at Morning House
+
+### Genres: Mystery, Young Adult, Mystery Thriller
+
+### Premise:
+The fire wasn’t Marlowe Wexler’s fault. Dates should be hot, but not hot enough to warrant literal firefighters. Akilah, the girl Marlowe has been in love with for years, will never go out with her again. No one dates an accidental arsonist.
+With her house-sitting career up in flames, it seems the universe owes Marlowe a new summer job, and that’s how she ends up at Morning House, a mansion built on an island in the 1920s and abandoned shortly thereafter. It’s easy enough, giving tours. Low risk of fire. High chance of getting bored talking about stained glass and nut cutlets and Prohibition.
+Oh, and the deaths. Did anyone mention the deaths?
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Ralston Island's narrative intricately weaves a historical tragedy with present-day intrigue, following Marlowe Wexler's investigation into the mysterious Morning House. The saga begins with the Ralston family in 1932, beset by a commitment to eugenics and secret-filled letters from Dagmar to Irene Wallenberg. Dagmar's brother, Phillip, fascinates himself with creating a family of exceptional children, which eventually unfolds into a sinister legacy.
+The historical saga notes Max Ralston, a child subjected to intense expectations, poisoned by Unity, another sibling. Under their father Phillip's oppressive ideology, Unity disguises her crimes as obligations to her family duty. Dagmar, aware of her family’s horrifying secrets, grapples with how to avert further catastrophe. In these letters, she records the tragic dilemma, as Unity's actions culminate in multiple deaths within the Ralston clan.
+In the present day, Marlowe immerses herself in unraveling the mystery of Morning House, a journey complicated by Dr. Henson’s thorough investigation and ensuing murder. As intense storms ravage the island, Marlowe and Riki uncover a buried cache of letters revealing the Ralston family's dark history. The unfolding events highlight the enduring shadow of the Ralston legacy—a tangled web of deceit, ambition, and ruin.
+April, once a friend, emerges as the antagonist, driven by envy and destruction. Her actions, encompassing setting a fire to erase evidence, inadvertently lead to Dr. Henson’s demise and almost claim Marlowe and Riki’s lives. The race to expose April's misdeeds ensues. The ensuing chaos at Morning House closes with her guilt unveiled but opens more questions about the Ralston lineage.
+Reconciliation and recovery define the aftermath. Marlowe's connection with Riki withstands the trials, and with newfound evidence—video footage implicating April—the path to justice is paved. Relationships mend as Marlowe and Akilah resolve misunderstandings and affirm their love. Marlowe returns to Clement Bay with Akilah, their bond solidified, and encounters friends who share an updated perspective on the events.
+Marlowe, Riki, and their circle digest the implications of the treasured evidence, aware that despite the ordeal, some mysteries remain elusive. Contemplations linger about Unity’s motives and the profound influence of Phillip’s distorted ideologies. Amidst personal strides forward, the indelible impact of the Ralston narrative endures, motivating a future anchored in truth and resolve.
+
+### Character Analysis:
+**Marlowe Wexler:**
+- **Profile:** Protagonist and investigative force determined to uncover the truth of Ralston Island’s mysteries. Resilient and perceptive, driven by a sense of justice and curiosity.
+- **Overall Experience:** Marlowe transitions from a driven investigator into a more grounded individual aware of the emotional toll and complex interpersonal dynamics. She reinforces old bonds and embraces new opportunities for understanding the past, like collaborating on a podcast.
+
+**Riki:**
+- **Profile:** Resourceful and informed ally to Marlowe, providing critical historical insights throughout the investigation. Balances sleuthing with ethical considerations.
+- **Overall Experience:** A steadfast partner whose historical understanding of the Ralston legacy underpins much of the investigation. Her transition involves channeling the adventure into creative outlets, reinforcing her bond with Marlowe while contemplating their survival and growth.
+
+**Akilah:**
+- **Profile:** Marlowe's love interest, offering emotional stability and depth to Marlowe's world.
+- **Overall Experience:** Develops from an absent influence to a source of profound companionship for Marlowe, offering insights and a grounding force throughout the aftermath of the investigation.
+
+**April:**
+- **Profile:** Former friend turned antagonist, driven by envy and misdirected desires leading to destructive actions.
+- **Overall Experience:** April’s manipulation culminates in her drastic choices being unveiled, revealing her as a catalyst for chaos but also a complex character driven by deep-seated issues requiring accountability.
+
+**Benjamin Ralston:**
+- **Profile:** Historical figure who played a role in concealing the Ralston family’s atrocious acts, creating an enigma with hidden truths.
+- **Overall Experience:** His part in the Ralston mystery speaks to a conflicted character torn between familial loyalty and ethical accountability, prompting others to seek the truth he obscured.
+
+### Excerpt (Demonstrating Writing and Language):
+
+Petrichor. That’s how this all started—from a single smell. Do you know this word? I learned it from Akilah Jones.
+Akilah, Akilah, Akilah . . .
+I first set eyes on her in freshman-year French. She was conjugating the absolute hell out of her first irregular verb and wearing a soft yellow sweater when I realized I was in love with her. I always knew I liked girls, but when I saw Akilah, I knew knew. I genuinely don’t understand how you could see Akilah and not fall in love with her. The lift of her chin. Her ever-changing hair—braided, straight, natural, sometimes shot through with purple stripes. She played piano in our school’s jazz band. She also played guitar. She smiled like she knew the joke you were about to tell and was already laughing. And her laugh? Like the bells of a cathedral.
+I’d had four classes with her in total—freshman French I; biology and first-semester American history in sophomore year; and English III this last year. I usually didn’t get to sit close to her, because my last name is Wexler and a lot of teachers go alphabetically, but our English teacher let us pick our own seats at six tables around the room. Unfortunately, I was late on the first day and her table was full, but I snagged a pretty good seat nearby and basked in the warmth of her magnificence. I always tried to look my best before I got there, but I’m not working with what Akilah is working with.
+I’m fine. I’m Marlowe Wexler and I’m fine.
+My name makes it sound like I spend my time lurking around the shadowy alleyways of some big city. One of those alleyways full of old boxes, metal trash cans, and cats that knock things over and make that yowlllll sound. Like there’s a bartender who knows my name somewhere. Like I have three ex-wives and I don’t talk to two of them but there’s something smoldering between me and the third one. We never got over each other. My name is more exciting than I am. Akilah was exceptional, and I was fine, and that was the problem.
+I never got to spend any real time with her until that summer when we both got jobs at Guffy’s, our local ice cream place. Guffy’s has thirty-two homemade flavors and locally famous hot caramel sauce. Say you want your cone “hot bottom” and you’ll get some of the caramel pooled into the bottom of your cone and everyone will laugh except us, because you can only hear this so many times before you think about putting your hand inside the waffle iron just to feel something again.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

@@ -1,0 +1,72 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Last House
+
+### Genres: Historical Fiction, Historical, Family
+
+### Premise:
+It’s 1953, and for Nick Taylor, WWII veteran turned company lawyer, oil is the key to the future. He takes the train into the city for work and returns to the peaceful streets of the suburbs and to his wife, Bet, former codebreaker now housewife, and their two children, Katherine and Harry. Nick comes from humble origins but thanks to his work for American Oil, he can provide every comfort for his family, including Last House, a secluded country escape. Deep in the Vermont mountains, the Taylors are free from the stresses of modern life. Bet doesn’t have to worry about the Russian H-bombs that haunt her dreams, and the children roam free in the woods. Last House is a place that could survive the end of the world.
+It’s 1968, and America is on the brink of change. Protestors fill the streets to challenge everything from the Vietnam War to racism in the wake of MLK’s shooting—to the country's reliance on Big Oil. As Katherine makes her first forays into adult life, she’s caught up in the current of the time and struggles to reconcile her ideals with the stable and privileged childhood her Greatest Generation parents worked so hard to provide. But when the Movement shifts in a more radical direction, each member of the Taylor family will be forced to reckon with the consequences of the choices they’ve made for the causes they believed in.
+Spanning multiple generations and nearly eighty years, "Last House" tells the story of one American family during an age of grand ideals and even greater downfalls.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+The Taylor family saga unfolds amidst 20th-century upheaval, weaving identity, change, and responsibility into personal lives intertwined with global events. WWII veteran Nick Taylor and his homemaker wife Bet navigate shifting societal landscapes, relocating to Vermont, impacting their children, Katherine and Harry. Katherine, an activist, faces tensions with her privileged roots and her father's oil ties, while her brother Harry, barred from military service due to health, embraces environmentalism, challenging family values.
+Amid societal unrest, Katherine juggles family expectations and her radical convictions, accentuated by her romantic entanglement with lawyer Brent. Carter Weston, a family friend, introduces dissent in a pivotal Leaflet retreat, reshaping ideological conflicts. Geopolitics impact the Taylors, notably during the Shah's celebration. Harry’s eco-activism leads to tragedy; his death during a protest bombing thrusts the family into grief and media scrutiny. Candy, Harry’s partner, vanishes amidst public curiosity about her radical past.
+Katherine wrestles with their ideological legacy and internal family conflicts, examining Brent's shift toward civil rights law amid investigations into his activist connections. Family visits intensify these dynamics, along with Harry's ecological pursuits. Katherine's maternal revelations of draft evasion reveal family contradictions linked to ideology. Imprisoned Martin’s conversations expose the manipulation of Harry’s ideals.
+After relocating to North Carolina, the family seeks to escape past traumas. Katherine shares her quest for Candy, finding stability with her carpenter husband, Ben Wyzanski, at Last House. The family reconciles with hidden truths about Candy and Myrlie living in the Pike Valley Farm Cooperative, forging new familial bonds.
+By 2026, redeveloped townhouses occupy the erstwhile co-op site. Candy resumes her identity as Candy Washington, living with Katherine at Last House, their shared refuge. They cultivate a garden and connect with the Banville community, gaining recognition at the farmers’ market.
+Katherine’s birthday reunion draws their extended family despite a regional blackout from suspected pipeline disturbances. The gathering fosters reflection on apocalyptic fears, modern resilience, and the legacies of ideological standpoints like Harry's environmental activism. Despite uncertainties, they anchor themselves in unity and practicality rather than existing power structures. The bond of family, legacy, and endurance emerges as the saga’s enduring themes amid the world’s changing landscapes.
+
+### Character Analysis:
+**Nick Taylor:**
+- **Profile:** WWII veteran, lawyer, engaged in international politics, embodying ethical dilemmas amidst personal and global crises.
+- **Overall Experience:** Struggles with professional ideals and family crises amidst geopolitical tensions, attempts to reconcile with his son's radical legacy and newfound familial bonds.
+
+**Bet Taylor:**
+- **Profile:** Former codebreaker, homemaker, navigating evolving identities and family dynamics.
+- **Overall Experience:** Finds purpose amid societal changes and familial grief, particularly through connections with her granddaughter.
+
+**Katherine Taylor:**
+- **Profile:** Young activist resolving privileged upbringing and radical ideologies.
+- **Overall Experience:** Matures into a resilient advocate, balancing familial legacies and activism, achieving stability with Ben.
+
+**Harry Taylor:**
+- **Profile:** Sensitive brother, eco-activist, emblematic of generational shifts.
+- **Overall Experience:** Leaves a profound familial and ideological legacy, sparking introspection among family members regarding idealism.
+
+**Brent Cousens:**
+- **Profile:** Charismatic lawyer, Katherine’s former love, committed to activism.
+- **Overall Experience:** Demonstrates youthful integrity, transitions to civil rights advocacy despite biases, influencing Katherine and the broader ideological conflicts.
+
+**Candy Washington:**
+- **Profile:** Fugitive tied to Harry's radical circle, reflecting elusive radical ideals.
+- **Overall Experience:** Embodies ideological chasms and unresolved issues, aligns with struggles against societal expectations, grounding family in shared history and renewed connection.
+
+### Excerpt (Demonstrating Writing and Language):
+Abadan, 1953
+The first time Nick Taylor saw Abadan oil field, it was out the window of an airplane. Initially, it looked like a burned-out forest, the pipes and columns and laddered derricks like a wilderness of bare trunks and fallen trees. But then it resolved itself into what it was: a vast and complex apparatus for harvesting the lifeblood of modernity.
+Nick knew about oil. As a boy growing up in Wisconsin, he had been interested in geology. He understood that below the crust of the earth lay dark rivers and lakes of crude, and that crude was made of compressed corpses—the bodies of once-living things: plants and algae and microbial beings. He understood that its excavation was a kind of resurrection. That all these dead things, so long gone, would now animate the world.
+But right now, the hammers and pistons of the oil field below were immobile, the giant lake of crude locked up like a safe. Production was stalled due to a thorny political impasse: Iran had evicted Anglo-Iranian Oil, the British company that had built and reaped the profits of the Abadan refinery. Whoever could get the oil flowing again would gain access to one of the world’s largest oil fields.
+This was of great interest to the men on this plane.
+To Nick, the flight that night felt like a treacherous oil-industry cocktail party. He did not like flying, which he associated with the war, and he was wary of being trapped for hours with his colleagues, all growing steadily drunker, himself included, in a tin vessel thousands of feet above the earth. He was a junior lawyer for the American Oil legal team, and this was his first trip to the Middle East. He felt an irrational, gnawing concern that his boss, George Monroe, who was three sheets to the wind already, would look at him and say: What the hell is this kid doing here? Although he wasn’t a kid. He was thirty years old, a veteran of a world war, a husband and a father of two, a property owner in the state of Connecticut. But something about Monroe’s bearing, the thick jowls and swaggering bravado of his speech, suggested that underneath his boardroom success, he had the instincts of a grade-school bully. The war had taught Nick to spot that sort of thing.
+The only women on this plane were two stewardesses, one of whom was chatting up a group of oilmen at the front. The other, a thin, dark-haired girl, seemed nonplussed by her colleague’s fraternizing and delivered beverages with a nurse’s brisk, slightly reproving authority. On Nick’s way to the lav, he caught her standing at the cramped service counter, surreptitiously reading.
+“Good book?” he asked, and she jumped like a startled deer.
+“Just a silly novel.”
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

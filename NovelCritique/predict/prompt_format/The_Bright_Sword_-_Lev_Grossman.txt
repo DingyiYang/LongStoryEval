@@ -1,0 +1,66 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: The Bright Sword
+
+### Genres: Fantasy, Historical Fiction, Retellings
+
+### Premise:
+A gifted young knight named Collum arrives at Camelot to compete for a spot on the Round Table, only to find he’s too late. The king died two weeks ago at the Battle of Camlann, leaving no heir, and only a handful of the knights of the Round Table survive.
+They aren’t the heroes of legend, like Lancelot or Gawain. They’re the oddballs of the Round Tables, from the edges of the stories, like Sir Palomides, the Saracen Knight and Sir Dagonet, Arthur’s fool, who was knighted as a joke. They’re joined by Nimue, who was Merlin’s apprentice until she turned on him and buried him under a hill. Together this ragtag fellowship will set out to rebuild Camelot in a world that has lost its balance.
+But Arthur’s death has revealed Britain’s fault lines. God has abandoned it, and the fairies and monsters and old gods are returning, led by Arthur’s half-sister Morgan le Fay. Kingdoms are turning on each other, warlords are laying siege to Camelot, and rival factions are forming around the disgraced Lancelot and the fallen Queen Guinevere. It is up to Collum and his companions to reclaim Excalibur, solve the mysteries of this ruined world and make it whole again. But before they can restore Camelot they’ll have to learn the truth of why the lonely, brilliant King Arthur fell and lay to rest the ghosts of his troubled family and of Britain’s dark past.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Following King Arthur’s downfall, Britain enters a troubled period under Lancelot's oppressive rule. Sir Bedivere, young Collum, Guinevere, and others strive to navigate a fractured landscape, haunted by their past connections to Arthur. Their first attempt to secure the Holy Lance fails, signaling dwindling hope. Camelot, now under Lancelot, becomes a symbol of lost benevolence. An escape to Avalon reveals Arthur’s eternal sleep, representing Britain’s lost golden era, while Collum’s discovery of his fairy heritage revitalizes their opposition against Lancelot. He successfully retrieves Excalibur, a beacon symbolizing renewed struggle.
+As Britain’s social fabric remains torn, confrontations with Lancelot, masked as Galahad, heighten tensions. Arthur is tested by the spiritual crisis of acedia, supported by knights like Gawain. In their forest refuge, interactions with Ystradel and Elidir revisit Arthur’s legacy, framing Lancelot's regime within ideological conflict. A decisive moment arrives at a Camelot tournament, where Arthur faces self-doubt but learns true salvation comes from embracing Britain’s complexity. Despite efforts, a failed Grail quest teaches Arthur that healing divisions is the real triumph.
+The climax sees Collum, reinforced by Excalibur and Nimue’s favor, battle Lancelot on a Cornish beach to free his allies. Defeating Lancelot with strategic finesse, Collum resists vengeance, sparing him upon Guinevere's plea. Dinadan's critical action ends Merlin’s manipulative influence, enabling a new political reality. Collum renounces power, backing Guinevere as queen. Her rise rekindles hope, marked by soldiers' loyalty. 
+As the group returns to Camelot, they reflect on societal upheavals. Morgan le Fay intervenes, revealing an impending vast migration of Saxons, Jutes, and Angles seeking refuge in Britain due to natural disasters and pressures in Saxony. This migration foreshadows the cultural fusion that will shape Britain into England. Guinevere asserts her leadership by staking claim to Excalibur, committing to a future merging old and new on her terms. The segment ends with a vision of Britain’s future, imbued with both foreboding and potential as they sail towards Camelot.
+
+### Character Analysis:
+**Arthur (Art):**
+- **Profile:** The young version of King Arthur, exploring early interactions with his identity and surroundings.
+- **Overall Experience:** This formative experience is part of Art's journey from an unassuming boy to legendary future king, highlighting his inherent courage and destiny intertwined with Britain's fate.
+
+**Collum:**
+- **Profile:** Young hero of fairy lineage, pivotal in liberating Britain.
+- **Overall Experience:** Grows into a central figure bridging fairy and human realms, embracing complex identities and emerging as a key facilitator of Britain's renewal.
+
+**Guinevere:**
+- **Profile:** Formidable political leader guiding Britain.
+- **Overall Experience:** From a peripheral political figure to a central leader, she embodies the transition and healing of a divided land, asserting sovereignty amid new societal dynamics.
+
+**Morgan le Fay:**
+- **Profile:** Enigmatic sorceress with a deep connection to Arthur and his legacy.
+- **Overall Experience:** Continues as a catalyst for profound realizations about identity and change, underscoring the narrative’s mystical elements.
+
+**Palomides:**
+- **Profile:** Adventurous knight, embodying exploration.
+- **Overall Experience:** Evolving from a knight to an explorer, continues to balance duty with a desire to chart new paths, reflecting a broadening of perspective.
+
+**Sir Dinadan:**
+- **Profile:** Pragmatic knight known for wit.
+- **Overall Experience:** Balances humor with foresight, crucial in the story's political shifts, adapting to Britain’s evolving landscape.
+
+### Excerpt (Demonstrating Writing and Language):
+Collum punched the other knight in the face with the pommel of his sword gripped in his gauntleted fist, so hard the dark inlaid metal dimpled under his knuckles, but his opponent showed absolutely no sign of falling over or surrendering to him. He swore under his breath and followed it up with a kick to the ankle but missed and almost fell down, and the other knight spun gracefully and clouted him smartly in the head so his ears rang. He would’ve given a thousand pounds to be able to wipe the sweat out of his eyes, not that he had a thousand pounds. He had exactly three shillings and two silver pennies to his name.
+The two men backed off and circled each other, big swords held up at stiff angles, shifting from guard to guard, heavy shards of bright sunlight glancing and glaring off the blades. They’d dropped their shields after the tilt to have both hands free. No mistakes now, Collum thought. Circles not lines, Marshal Aucassin whispered in his mind. Watch the body not the blade. He threw a diagonal cut that glanced harmlessly off the other knight’s shoulder. The inside of his helmet was a furnace, sharp smells of hay and sweat and raw leather. He’d come here to test himself against the flower of British chivalry, the greatest knights in the world, and by God he was getting what he came for. He was getting the stuffing beaten out of him.
+They stepped lightly, testing, offering, up on the balls of their feet. Every tiny movement made their armor squeak and clank and jingle in the quiet of the meadow; even the tips of their swords made tiny whips in the stifling air. Why—why had he thought this was a good idea? Why hadn’t he stayed back on Mull? Heatstroke prickled at the back of Collum’s neck. They weren’t fighting to the death, but if he lost he’d lose his horse, and his armor, which he hadn’t gone through all the trouble of stealing it from Lord Alasdair just so he could hand it over to some nameless knight who probably had half a dozen spares waiting for him back at his cozy castle.
+And without his horse and armor Collum was nobody and nothing. An orphan and a bastard, poor as a church mouse and very far from home. And he could never go back. He’d made damn sure of that, hadn’t he?
+He didn’t even know who he was fighting; he’d stumbled on this man purely by chance, or possibly by God’s will—thanks a bunch, as always—sitting under a crooked ash in a meadow, head in his hands, as if the weight of the sunlight itself were too much for him. He’d looked up and shouted a challenge at Collum, and who did that anymore? It was like something out of the stories. Whoever this was, he was a knight of the old school.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

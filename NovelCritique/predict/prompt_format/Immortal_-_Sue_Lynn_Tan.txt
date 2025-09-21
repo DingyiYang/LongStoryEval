@@ -1,0 +1,70 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Immortal
+
+### Genres: Fantasy, Romance, Romantasy
+
+### Premise:
+“What the gods did not give us, I would take.”
+As the heir to Tianxia, Liyen knows she must ascend the throne and renew her kingdom’s pledge to serve the immortals who once protected them from a vicious enemy. But when she is poisoned, Liyen’s grandfather steals an enchanted lotus to save her life. Enraged at his betrayal, the immortal queen commands the powerful God of War to attack Tianxia. 
+Upon her grandfather’s death, Liyen ascends a precarious throne, vowing to end her kingdom’s obligation to the immortals. When she is summoned to the Immortal Realm, she seizes the opportunity to learn their secrets and to form a tenuous alliance to safeguard her people, all with the one she should fear and mistrust the most: the ruthless God of War. As they are drawn together, a treacherous attraction ignites between them—one she has to resist, to not endanger all she is fighting for.
+But with darker forces closing in around them, and her kingdom plunged into peril, Liyen must risk everything to save her people from an unspeakable fate, even if it means forging a dangerous bond with the immortal... even if it means losing her heart.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+The story follows Liyen, heiress to Tianxia, navigating political strife and mystical challenges. Initially manipulated by Chengyin, revealed as Lord Dalian, she’s drawn into a complex power web when Dalian's cruel rule emerges. As the plot unfolds, Liyen allies with Zhangwei, the God of War, with their initial rivalry evolving into a deep companionship. Together, they thwart the Wuxin plot exploiting the Wan-Chuan River's mystic power for invasion.
+In pivotal moments, Liyen's encounter with the Mirror of Destiny fortifies her resolve to escape the Wuxin, with memories restored by the Tree of Everlasting Life. Confronting Dalian on his barge, she exposes his treachery to his soldiers, leading to their rebellion. Assisted by Lin and Mei, Liyen and Zhangwei prevent the gateway’s destruction, cementing her emergence as a leader who values past enemies like the Wuxin.
+With Dalian’s death, the Wuxin face leadership uncertainty. Guided by Liyen, Aunt Shou tentatively resumes leadership, advocating democracy. Planning Dalian's funeral, Aunt Shou seeks future stability, finding redemption amidst loss. Liyen and Zhangwei later face the Eternal Boatman, cherishing their memories. Sacrifices from Aunt Shou and the Wuxin enable their return, emphasizing the story's themes of memory, love, and identity bridging mortal and immortal realms.
+In the epilogue, Liyen recalls a dreamlike encounter with her mother in the Immortal Realm. Their reunion reveals past misunderstandings and embraces a newfound mutual acceptance. Liyen reflects on her transformation and the wisdom she gained from mortal experiences. Back in court, her love for Zhangwei and commitment to Tianxia's future propel her actions.
+As Zhangwei returns to the Mortal Realm, he publicly proposes marriage, offering a dowry that secures Tianxia’s autonomy from the Golden Desert. Despite his absence and Liyen’s fears, Zhangwei’s dramatic proposal reunites them, affirming their bond and shared vision for Tianxia's future. The narrative concludes with Liyen and Zhangwei’s commitment, forging a new path forward together.
+
+### Character Analysis:
+
+**Liyen:**
+- **Profile:** Heiress to Tianxia, central protagonist who evolves from manipulation to an empowered leader, skillfully navigating the political and mystical.
+- **Overall Experience:** Grows from a reluctant pawn into a confident leader, championing peace, acceptance, and autonomy for Tianxia. Her experiences in both mortal and immortal worlds broaden her understanding and resolve.
+
+**The God of War (Lord Zhangwei):**
+- **Profile:** Liyen’s steadfast ally and love interest, embodying strength and partnership.
+- **Overall Experience:** Evolves from a rival to a devoted partner. His unwavering support for Liyen highlights his commitment to shared futures and the kingdom’s welfare.
+
+**The Queen of the Golden Desert (Liyen’s Mother):**
+- **Profile:** Regal, maternal figure representing both divine authority and maternal love.
+- **Overall Experience:** Transforms from a figure of maternal authority and expectations to one of understanding and acceptance, strengthening her bond with Liyen.
+
+**Chengyin:**
+- **Profile:** Once a manipulative figure turned ally, signifying complicated loyalties and redemption.
+- **Overall Experience:** Progresses from a complex manipulator to a redeemed figure, supporting Tianxia’s future stability and Liyen’s leadership.
+
+**Aunt Shou:**
+- **Profile:** Maternal figure who confronts her historical role and transforms amid familial revelations.
+- **Overall Experience:** Transitional figure from complicity to redemption, reinforcing democracy and unity among the Wuxin, with newfound altruism.
+
+### Excerpt (Demonstrating Writing and Language):
+The God of War was famed for three things:
+His unrivaled might. His devotion to the immortal queen.
+And his heart of ice, devoid of all mercy.
+*  *  *
+Fire raged through my home, devouring the mahogany pillars and moss-green roof, the scroll paintings and silk carpets. In the gardens, magnolia trees, bamboo, and jasmine went up in flames, smoke lashing the air.
+The God of War’s heart might be formed of ice, but fire was his weapon of choice. The immortals had turned against us, and I did not know why.
+My grandfather was the Lord of Tianxia, and until now a trusted and loyal subject of the Queen of the Golden Desert in the skies. Long ago, our kingdom was pledged to serve the immortals who protected us from a fearsome enemy, and they’d built a wall around Tianxia with their magic. Beyond these borders, the rest of our world was said to live in ignorance of the immortals—while we were the custodians of their secrets. Some might imagine we were favored to serve them. But though we lived in the shade of the gods, we felt no closer to them.
+Tonight was meant to be one of triumph. After all these years, Grandfather had finally secured the precious treasure the immortal queen sought. And though many were eager for a glimpse of it, he had refused, keeping it safely locked away.
+“Such a treasure is more trouble than it’s worth. Greed turns too many honest men into thieves,” he’d confided in me, adding darkly, “The immortals are not known for their mercy.”
+These last words echoed through me as cries of terror rang out from behind, accompanied by clattering footsteps and the frantic neighing of horses. As the thick scent of smoke clouded the air, I coughed loudly. My sweat-slicked hand was tucked in my grandfather’s grip as he pulled me through the hallways of our palace. We ran, my chest squeezing tighter until I thought it would burst, but I dared not falter.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

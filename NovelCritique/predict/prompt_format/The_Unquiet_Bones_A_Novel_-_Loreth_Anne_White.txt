@@ -1,0 +1,79 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: The Unquiet Bones
+
+### Genres: Thriller, Mystery, Mystery Thriller
+
+### Premise:
+When human bones are found beneath an old chapel in the woods, evidence suggests the remains could be linked to the decades-old case of missing teen Annalise Jansen.
+Homicide detective Jane Munro—pregnant and acutely attuned to the preciousness of life—hopes the grim discovery will finally bring closure to the girl’s family. But for a group of Annalise’s old friends, once dubbed the Shoreview Six by the media, it threatens to expose a terrible pledge made on an autumn night forty-seven years ago.
+The friends are now highly respected, affluent members of their communities, and none of them ever expected the dark chapter in their past to resurface. But as Jane and forensic anthropologist Dr. Ella Quinn peel back the layers of secrets, the group begins to fracture. Will one cave? Will they turn on each other?
+The investigation takes a sharp turn when Jane discovers a second body—that of the boy long blamed for Annalise’s disappearance. As the bones tell their story, the group learns just how far each will go to guard their own truth.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+In April 2023, the cold case of Annalise Jansen resurfaces when her remains are uncovered at Hemlock Ski Resort, prompting Detective Sergeant Jane Munro to investigate. Haunted by her past but determined to solve this historic crime, Jane explores Annalise’s 1976 disappearance and its connections to the Shoreview Six, a group with intricate ties to the case, focusing particularly on former police chief Knox Raymond.
+Parallelly, journalist Angela Sheldrick pursues her angle on the story, uncovering long-buried secrets about the Shoreview Six, testing her professional ethics. Her collaboration with Jane becomes crucial, especially when secrets about past figures like Mason Gordon, formerly Rocco Jones, surface. With aid from Duncan Murtagh, Jane unearths Knox's complex history with Annalise, backed by insights from key figures like Beth Haverton.
+The investigation gains traction with Isaias Osman’s revelations about Darryl Hendricks’s demise, prompting further inquiries into his submerged van in Blackwater Lake. As the truth about the Shoreview Six’s misdeeds emerges, Annalise’s family life is exposed, with DNA evidence illuminating an incestuous conception tied to her father, Kurt Jansen.
+The tragic narrative deepens as Angela discovers van remains linked to Annalise, while Jane interrogates Helen and Kurt Jansen, exposing a history of familial abuse. Helen confesses to accidentally killing Annalise during a confrontation with Kurt. Meanwhile, Knox Raymond, entwined with Annalise’s fate, faces his own reckoning after a life-altering incident.
+Jane, the ever-dedicated investigator, finds motivation in shedding light on Annalise’s tragic and obscured past, aiming to deliver justice. Angela, tempered by Jane’s integrity, evolves in her journalistic narrative approach. She is offered chance to develop a crime series, signifying her growth and credibility. 
+Amidst these professional and personal challenges, Jane reflects on her own grief and trauma. At a gathering hosted by Dr. Ella Quinn, Jane confronts her emotions, embracing the complexity of maternal bonds and her own capabilities as a detective. The story concludes with Jane seeking comfort with her mother, finding strength in empathy and resilience, positioning her to continue facing the unknowns of life and the quest for justice.
+
+### Character Analysis:
+**Sergeant Jane Munro:**
+- **Profile:** A empathetic detective dedicated to solving cold cases, haunted by personal loss and trauma yet committed to discovering the truth about Annalise Jansen.
+- **Overall Experience:** Jane evolves through handling the investigation with integrity, seeking justice for Annalise and Darryl while dealing with her trauma, shaping her into a relentless yet compassionate detective.
+
+**Angela Sheldrick:**
+- **Profile:** An investigative journalist, ambitious yet ethically aware, determined to uncover the story of the Shoreview Six and their secrets.
+- **Overall Experience:** Angela quits sensationalism for deeper storytelling, becoming a responsible journalist influenced by close collaboration with Jane.
+
+**Knox Raymond:**
+- **Profile:** Former police chief connected with Annalise Jansen’s case, portrayed with a complicated past and moral ambiguity.
+- **Overall Experience:** Knox is intricately woven into Annalise’s tragic story, with actions leading to a fated downfall that embodies the unraveling of his lifetime of concealment.
+
+**Duncan Murtagh:**
+- **Profile:** A steadfast partner in Jane’s investigation, offering stability and analytical support.
+- **Overall Experience:** His ongoing support enriches the dynamics of Jane's work, contributing to the successful unraveling of truths across the investigation.
+
+**Helen Jansen:**
+- **Profile:** Annalise Jansen’s mother, portrayed as a complex figure burdened by guilt and familial dysfunction.
+- **Overall Experience:** Helen embodies consequences of denial and complicated familial relationships, resonating with the pervasive legacy of unresolved family trauma.
+
+**Kurt Jansen:**
+- **Profile:** The abusive father at the core of Annalise Jansen’s tragic life, responsible for an incestuous relationship with Annalise.
+- **Overall Experience:** Kurt’s destructive abuse sets off catastrophic events impacting countless lives, reflecting the chronic intergenerational trauma.
+
+### Excerpt (Demonstrating Writing and Language):
+THE UNEARTHING
+April 2023
+A steady rain falls as Benjamin and Raphael Duvalier work their excavator alongside a dark lake on the misted flanks of Hemlock Mountain. The brothers are digging up the concrete foundations of an old and tiny wooden A-frame chapel. The chapel is located at the Hemlock Ski Resort area base and is being moved higher into the alpine to make way for an expansion. It’s barely dawn, and the temperature hovers around freezing. Behind them the forest creeps down the mountain and wraiths of mist finger between the trees. Empty lift chairs hang motionless on cables that disappear into the low clouds.
+Benjamin claps his gloved hands together, trying to get blood to flow into his frozen fingers. This wet cold is far worse than dryer temperatures well below freezing. His brother is at least warmer inside the excavator cab. Raphael pulls the hydraulic control and scoops up another load of concrete and damp earth. He swivels the bucket out over the bed of a waiting truck and dumps its contents inside. The big vehicle sinks a little under the fresh weight.
+Using the back of his glove, Benjamin swipes rain from his face and then points to the ground, showing his brother where to dig next. The excavator bucket swings back. Raphael moves the lever. The bucket lowers to the ground, and the teeth dig into black soil. He moves his controls again and begins to scoop.
+The bucket’s teeth hook something and jerk it free of the earth. Benjamin’s heart jumps. He hurriedly steps forward in an effort to process what he’s seeing.
+“Whoa! Whoa. Stop!” he screams, shooting his hand into the air and making a slicing motion across his neck.
+Raphael halts the excavator arm. He hops down from the cab and runs over to where Benjamin has crouched. Benjamin carefully brushes damp soil off the long object that has been pulled up in the dirt. His heart hammers. He glances at Raphael.
+They have hooked two big, long bones.
+Benjamin knows they are not from a large animal because the thing hanging off the end of them is a boot.
+A woman’s boot with a platform heel.
+JANE
+Sergeant Jane Munro forces herself to concentrate on the words coming out the mouth of the emaciated blonde seated across from her in the church basement semicircle.
+“I’m exhausted,” the woman laments. “To the core of my bones. All. Of. The. Time.”
+Her name is Stephanie. She’s a mom. Or was. What do you call a mother whose child is missing, simply gone?
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

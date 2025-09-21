@@ -1,0 +1,76 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Deeper Than the Dead
+
+### Genres: Mystery, Thriller, Mystery Thriller
+
+### Premise:
+Someone’s found the skeleton in the closet, and it’s not the only one. Wall Street Journal bestselling author Debra Webb presents an emotional new mystery. Crime analyst and newly disgraced deputy police chief Vera Boyett doesn’t visit home often, and she certainly doesn’t venture back into the cave on her family land. But when the remains of her long-missing stepmother are discovered, Vera will have to face a past that threatens all she is. She and her sister Eve had a fairy-tale childhood: good until it was tragic, with a stepmother they never found a bond with. At least they had each other, a baby half-sister, and a mutual devotion that would have them do the unthinkable. It’s a summer in small-town Tennessee, so thick with humidity it could drown you and so rife with secrets it could smother you. And deep beneath the surface, there are more bodies than you’d think...
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Vera Mae Boyett returns to her Fayetteville hometown after human remains are discovered in a family-owned cave, suggesting their involvement in long-suppressed crimes. Determined to clear her father, Vernon, Vera teams up with Sheriff Bent, an old ally, to tackle the burgeoning mystery, complicated by her father’s declining mental health. As they navigate community and familial secrets, they explore hidden histories and relationships, including those of high-ranking locals like Judge Preston Higdon.
+Their investigation unveils layers of concealed truths implicating powerful figures. An assassination attempt on Vera exemplifies the lengths to which hidden forces will go to protect secrets. Pete Brooks, a pivotal figure, offers insights that help Vera redirect suspicion from her father, focusing instead on clandestine threats. Tensions heighten with Judge Higdon emerging as a critical adversary. Despite warnings, Vera faces threats from what appears to be a conspiracy involving trusted family connections such as Florence and Beatrice Higdon.
+The conspiracy involves past killings and puts Vera in a precarious position, intended to be framed for Brooks’ potential murder. Her dogged determination reveals Florence’s culpability in the murders, with her husband Charles’s actions more focused on protecting his status than seeking the truth. These revelations test Vera’s personal bonds but also bring long-buried criminal activities to public scrutiny.
+As the dust settles, Brooks continues to aid Vera by offering insights linked to Garth Rimmey, convoluting the puzzle further. Justice is eventually sought through unexpected confessions, unraveling criminal coils within the community. Vera's resolve cuts through deception, firmly shifting her role from a pursued daughter to a crusader seeking justice and truth.
+The epilogue finds Vera at a turning point. She reflects on the two job offers, opting instead to become an independent consultant, allowing her the flexibility to serve her community and care for her sisters while fostering justice on her terms. This choice underscores her growth and reclamation of control over her life’s narrative, enriched by the bonds rebuilt with Sheriff Bent and the community's recognition of her efforts as a hometown hero.
+
+### Character Analysis:
+**Vera Mae Boyett:**
+- **Profile:** Protagonist, former Deputy Chief from Memphis, returned home to clear her family from historical ties to crime.
+- **Overall Experience:** Vera evolves from a figure caught in familial and communal scandals to a self-empowered, independent consultant, ready to apply her skills in a setting she values.
+
+**Sheriff Bent:**
+- **Profile:** Loyal ally and local sheriff, key in supporting Vera throughout the investigation.
+- **Overall Experience:** Bent’s unwavering support underscores his dedication to truth and justice, becoming both a professional and emotional ally to Vera.
+
+**Florence Higdon:**
+- **Profile:** Antagonist and community manipulator, whose actions anchor the central conspiracy against Vera.
+- **Overall Experience:** Her plot against Vera epitomizes the hidden layers of corruption and desperation to conceal past crimes, unraveling under investigation.
+
+**Beatrice:**
+- **Profile:** Former conspirator coerced into complicity, embodying conflict and regret.
+- **Overall Experience:** Illustrates the intricate moral conflicts and her role becomes vital as she navigates guilt vs. integrity.
+
+**Preston Higdon:**
+- **Profile:** Influential judge entangled in the web of past and present crimes.
+- **Overall Experience:** Represents power's misuse, his entanglement heightening suspicion throughout the investigation.
+
+**Pete Brooks:**
+- **Profile:** Caught between past crimes and current conspiracies, provides key insight as revelations unfold.
+- **Overall Experience:** Functions as an informer and victim, bringing clarity to Fayetteville’s deep-seated secrets.
+
+### Excerpt (Demonstrating Writing and Language):
+Monday, July 22
+Memphis Police Department
+Public Safety Building
+Main Street, Memphis, Tennessee, 9:05 a.m.
+It wasn’t the end of the world.
+Vera Mae Boyett grabbed her coffee mug from her desk and tucked it, coffee stains and all, into the gym bag she’d brought from home. No one paid the slightest bit of attention to gym bags—they were as common as briefcases around here. She could be carrying any manner of nonmetal contraband in this seemingly harmless blue nylon bag, and not a soul would notice or even wonder.
+But Vera hadn’t gone to the gym this morning. The bag was a just-in-case decision. She had seen the writing on the wall, and if this thing ended up going where she suspected it would, she had no desire to return to the office at a later date for her personal belongings. With that in mind, she’d come prepared to pack up and walk away.
+She squared her shoulders and forced back the emotions crowding into her throat. No, this situation was not the end of the world—just the probable end of fifteen years of service to a job she loved.
+The stapler she’d bought after the department-issued one broke went into the gym bag next. She wasn’t leaving one damned thing that belonged to her. Not for someone to come along one day and pick up, saying, “Oh, this belonged to Deputy Chief Boyett. You remember her, the one who allowed a cutting-edge unit to go to hell in a handbasket?”
+She blinked. Lifted her chin in defiance of the damned emotions that now burned behind her eyes. The past couple of days she had told herself repeatedly there was a slim chance this might not be the end. After all, the investigation had barely begun . . .
+Who are you kidding, Vee?
+It was over, and she knew it.
+This was the outcome she had expected from the beginning—no point pretending. The horrific events of last week were bad. The kind of bad where no one involved walked away unscathed—not even those guilty by association only. Public opinion would not see the difference.
+Bottom line, the buck stopped with her. She was responsible.
+Vera closed her eyes and struggled to exile the surge of images that had played over and over on the news and social media cycles for the past seven days.
+The whole team was going down. The move would be necessary to mitigate the discontent in the community—particularly among the powers that be. No one understood that reality more than her.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

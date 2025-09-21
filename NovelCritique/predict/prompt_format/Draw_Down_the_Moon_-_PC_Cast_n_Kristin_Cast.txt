@@ -1,0 +1,63 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Draw Down the Moon
+
+### Genres: Fantasy, Young Adult, Romance
+
+### Premise:
+Wren Nightingale isn't supposed to have any powers. Born of magickal parents but not under a moon sign, she was destined for life as a Mundane—right up until she starts glowing on her eighteenth birthday. In a heartbeat, Wren's life is turned upside down, and she's suddenly leaving her home for the mystical Academia de la Luna—a secret magickal school on a hidden island off the Seattle coast.
+Lee Young has always known about his future at the Academia. He has one goal: pass the trials, impress the Moon Council, and uphold his family's reputation. But he wasn't expecting to be attending alongside the girl he's been secretly in love with for as long as he can remember.
+As Wren and Lee are thrown into the Academie's gruelling trials, they quickly learn there's something different--and dangerous--about the school this year. Wren will have to navigate a web of secrets, prophecies--and murder. And Lee will have to decide who to protect--his family's legacy, or the girl he loves.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+At the Academia de la Luna, a secluded island institution dedicated to refining magick skills, Wren Nightingale navigates her newly discovered ability to amplify others' powers. As Wren grows suspicious of the academy's leadership, particularly Dean Rottingham and the influential Celeste, she faces a series of trials that test her abilities and dedication. Her apprehensions are intensified by the mysterious deaths of students like Wyatt, whose demise is shrouded in Elemental involvement.
+During the Trials, Wren encounters a perilous Water Elemental, narrowly avoiding disaster by empowering Eliza, another student, to neutralize the threat. These events confirm her fears of being targeted due to her unique abilities. She discovers an ancient book that reveals the ongoing conflict between humans and Elementals and a ritual involving Moonstruck individuals like her. Wren confides in her friends Sam and Lee, but remains wary of the academy's true motives.
+Despite the ominous atmosphere, Wren finds solace in her growing bond with Lee, who arranges a heartfelt date. However, their moment is marred by Wren's internal struggle over her role in the academy's mysterious rituals. Tragedy strikes when Sam, critically injured, reveals the academy's secrets before her death, urging Wren to read the book in moonlight to uncover the truth. Sam's demise galvanizes Wren's resolve to delve into the academy's clandestine activities and her own identity as the "elegida."
+Amidst escalating dangers, Lee becomes a protective ally, determined to uncover the truth behind Wren's conduit status. Wren realizes she must confront Celeste and Rottingham, who are implicated in manipulating the Moonstruck for their gain. In an intense showdown, Wren confronts Celeste in the secret Conduit Chamber, uncovering Celeste's true identity as the ancient maiden Selene. Despite the Elementals' intimidating presence, Wren channels her newfound power to resist Celeste's deadly intentions. With the help of her Air Elemental, Wren escapes, forcing Lee to face the fallout in Celeste's proximity.
+Lee, driven by confusion and emotions, grapples with Celeste's injuries and the abrupt change in his relationship with Wren. While tending to an unconscious Celeste, Lee reflects on his sister Maya's past, his unfinished quest for answers, and the desire to change his circumstances involving magick and personal loyalties. This tumultuous period redefines Lee's understanding of his family's legacy and his role within the academy's tangled web of power and deceit.
+
+### Character Analysis:
+**Wren Nightingale:**
+- **Profile:** Protagonist confronting academy challenges, amplifying others' powers. She is resourceful, caring, and increasingly driven by destiny.
+- **Overall Experience:** Transitioning from uncertainty to fully embracing her identity and powers. Her determination to face threats and undertake her destiny as the Moonstruck becomes solidified.
+
+**Lee Young:**
+- **Profile:** Wren’s supportive companion, wrestling with family legacy and the implications of magick.
+- **Overall Experience:** Grows from a supportive role to one confronting the academy’s dark machinations and personal legacies, questioning his path amidst strained bonds and responsibility.
+
+**Celeste/Selene:**
+- **Profile:** Antagonist, head of the Lunar Council, with ancient magickal ties.
+- **Overall Experience:** Central figure in the academy’s dangers, embodying the ancient struggle for power. Her true form as Selene underscores her antagonism and the academy's perilous schemes.
+
+### Excerpt (Demonstrating Writing and Language):
+I’m pretty sure that, at any moment, blue and red lights will flash and the local sheriff will tear down the street and stop me. Again.
+“Wren! Hurry up!” Lee whisper-shouts at me from the shadows.
+With the hand not squeezing an entire bottle of Seventh Generation Powered by Plants dishwashing liquid into the fountain, I make what I hope is a calming gesture. “It’s fine. It’s natural. Won’t hurt the ecosystem at all. Plus, it’s not like we can actually go to prison for this.”
+“Well, you can’t, but…”
+I brush a hunk of white-blond hair out of my face and glance over my shoulder as Lee makes a motion that takes in his long, leanly muscled body, his deep brown skin, and his neatly braided cornrows. How did he get so grown-up looking? He’s only been gone two years? He was shorter when he moved away—short in height, short hair, short on muscles—just a kid. My prank partner. My buddy. I mean, I’ve seen him since he moved away. We’ve FaceTimed a million times and practically stalk each other’s Insta and TikTok. Rationally, I know he’s older. I’m older, too! But actually putting eyes on him in real life is something else. Something different. Something new … I feel my cheeks flush hot and know my blush is as glowing pink against my porcelain skin as the fuchsia dyed ends of my hair.
+“I’ll hurry.” I quickly unscrew the cap and the rest of the dishwashing liquid glugs into the fountain. Balancing with my arms spread out, I tightrope walk around the lip of the basin that holds the three-tiered stone water feature situated in the middle of the quaint little courtyard in the heart of downtown Fern Valley. As I reach Lee, my Vans slip on the water-splashed stone, and I start to fall.
+Lee’s strong hands catch me before I splat against the pavement. I look up and grin at him as I catch my balance and plant my feet firmly on the ground again. Yeah, he’s older, bigger, stronger. But he’s still my prank partner. My best friend who always has my back.
+“You almost fell into…” Lee’s words trail off and I watch his eyes widen at something behind me.
+I turn and do a little celebratory dance. “Yes! This is even better than I thought it was going to be, and I knew it was going to be epic.”
+Lee’s head shakes back and forth, back and forth. “For the record, when I agreed to sneak out tonight, I did not know this was what you had in mind.”
+“You didn’t really agree; I peer pressured you into it.”
+“I think you mean coerced,” says Lee.
+I grin, but not up at him. I’m too busy taking in the glorious sight of bubbles billowing from the fountain’s basin up, up, and up. The opalescent suds lift into the night sky like the sea-foam on our rough Oregon coast. “Admit it. This is magnificent.”
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

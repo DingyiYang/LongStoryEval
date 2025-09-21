@@ -1,0 +1,65 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: I Need You to Read This
+
+### Genres: Mystery, Thriller, Mystery Thriller
+
+### Premise:
+Alex Marks’s move to New York City is supposed to be a fresh start. She plans to lay low with her mundane copywriting job but the news of the murder of her childhood hero, Francis Keen, throws her for a loop. Beloved staff writer and the woman behind the famous advice column, Dear Constance , Keen’s death is a shock to her countless fans and readers.
+When Alex sees an advertisement searching for her replacement, she impulsively applies, never expecting to actually get the job. But almost immediately, she begins to receive strange letters at the office and soon, Alex wonders why the murderer has never been found. Worse, she can’t help but question if her new boss and editor-in-chief, Howard Dimitri, was involved with Keen’s death.
+As she starts her own investigation, the dark secrets of her own past rise to the surface and soon, Alex finds herself trapped in a dangerous and potentially deadly mystery. Will she solve the murder and save her own skin? Or will Alex face a similar fate?
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Alex Marks, the "Dear Constance" columnist at the New York Herald, starts her role by diving into the mystery of Francis Keen's death, her predecessor, amidst a tense and murky office environment. Initially, suspicion falls on Howard Demetri, the editor-in-chief, due to dubious activities and his volatile family life, which seem to provide a motive. Over time, as Alex peers deeper into the shadows, the unfolding truths complicate initial assumptions, revealing a web of tangled relationships and hidden agendas that embroil her further into both professional and personal turmoil.
+Her inquiry unearths poignant correlations to her personal life, including unresolved past trauma with her former partner, Brian, whose manipulative and abusive tendencies embody constant threats. Alex finds unexpected support in Raymond, a former cop, and Janice, a steadfast friend, both crucial to her emotionally and in unraveling the mystery. The narrative takes a dramatic shift when Lucy, initially believed to be a helpful assistant but later revealed as Brian's sister, convolutes Alex’s investigation by attempting to vindicate her brother's actions. Her ultimate reversal and consequential actions decisively shape the course of Alex's tumultuous journey.
+Further investigations uncover secret correspondences pointing to Howard's deep affection for Francis, pivoting the focus from him being a suspect to being another victim of more complex machinations. As the truth surfaces about Howard's innocence, Regina, a poised and calculating woman, emerges as a pivotal figure. Regina, who initially presents herself as unflustered by familial scandals, exposes herself through careless admissions concerning the murder of Francis, propelling the story into a climax involving unintended confessions, overheard by Jonathan, another key character who witnesses the moment alongside Alex.
+Six months post the sensational revelations, a redemptive calm settles. Alex inhabits a renewed sense of self, buoyed by personal and professional triumphs. Her resilience and determination culminate in a steadfast recovery and continued role as the "Dear Constance" columnist. She retains profound connections with Raymond and Janice, as both friends exhibit growth from their shared experiences, overcoming past adversities. Howard, although free from criminal charges due to Regina's incrimination, grapples with the emotional repercussions of loss and damaged career prospects.
+The narrative concludes as Alex finds peace and joy with Tom, a creative and supportive presence encouraging her to embrace life’s adventurous twists. The final moments paint a vivid tableau of a city bursting with life, possibilities, and the unyielding spirit of people striving toward clarity and hope against past shadows. Alex and her companions epitomize the enduring potential for new beginnings, shaping a future forged from the lessons and transformations of their entwined pasts.
+
+### Character Analysis:
+**Alex Marks:**
+- **Profile:** Protagonist and advice columnist at the New York Herald. Perseveres through unraveling a murder mystery, dealing with past trauma, and exploring new beginnings.
+- **Overall Experience:** Alex transitions from uncertainty to a tenacious investigator and woman reclaiming her life. She thrives by tackling past demons and embracing new life chapters with therapeutic resolve and determination.
+
+**Regina Whitaker:**
+- **Profile:** Glamorous and manipulative; pivotal to exposing secrets within the newspaper’s murder mystery.
+- **Overall Experience:** Regina initially appears composed and detached but unravels into exposing her guilt. She embodies a dichotomy of external grace and internal conflict leading to consequential accountability.
+
+**Raymond:**
+- **Profile:** Former police officer and Alex’s ally in her investigation.
+- **Overall Experience:** Consistently supportive, highlighting loyal friendships and resilience, emerging as a stable pillar through turmoil and re-establishing paths forward from the shared ordeal.
+
+**Janice:**
+- **Profile:** Friend and constant support system for Alex.
+- **Overall Experience:** Her enduring friendship is a constant, bridging Alex’s tumultuous journey from chaos to calm, reinforcing communal bonds.
+
+**Howard Demetri:**
+- **Profile:** Ex-editor-in-chief implicated in workplace scandal, unknowingly entwined with the murder narrative.
+- **Overall Experience:** Misrepresented initially, Howard’s character arc stresses themes of redemption, loss, and eventual clarity regarding choices and consequences.
+
+**Tom:**
+- **Profile:** Romantic interest to Alex; creative individual seeking fulfillment beyond corporate confines.
+- **Overall Experience:** Tom is a symbol of hope and change, underscoring the belief in pursuing dreams and fostering meaningful personal connections.
+
+### Excerpt (Demonstrating Writing and Language):
+Francis has been avoiding the computer since she arrived this morning, keeping herself busy by puttering around the summer house, cleaning the counters, anything to distract herself from the message that popped into her inbox late last night. Driven by nervous energy, she’d found herself outside, pausing only momentarily to look out at the deep-blue ocean at the far side of the lawn before turning toward her fallow garden beds. There isn’t much to work with now that it’s fall. She surveys the beds. A few dry stalks left over from some late-blooming asters tremble in the wind. There’s no urgent need to pull them but she kneels in the dirt anyway. Gardening has always helped her make complicated decisions about her writing. Maybe it can help her now too. She doesn’t bother with gloves, pushing the sleeves of her thick Fair Isle sweater up her arms and plunging her fingers into the cold soil. She always thinks best when her body is occupied by something else.
+But now that the sun has nearly set, she feels the tug of her little office room. In thirty-five years, Francis has never been late with a column. Returning to the house, she drops into her chair and moves her mouse so that her computer hums to life. The monitor brightens and she sees the letter there in her inbox, down at the bottom of the screen, and feels a sick twist in her stomach. She looks away quickly, moving her eyes to the top of her inbox, where the unread messages stack up in bold font.
+Francis scrolls through the subject lines. Despite the Herald’s assurances that she reads each and every message sent to her, it is rare that she actually gives most more than a cursory look. There are topics too well trodden to revisit. By now her readers already know what she’d say about a noncommittal man (walk very quickly in the opposite direction), a sibling rivalry (therapy), or a go-nowhere job (probably stay put for now unless something better is available).
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

@@ -1,0 +1,69 @@
+Below are the title, genres, and premise of a book-length story.
+
+---
+
+### Title: {Title}
+
+### Genres: {Genre}
+
+### Premise:
+{Premise}
+
+---
+
+Below are the plot summary, character analysis, and excerpts from this book-length story.
+
+---
+
+### Plot Summary:
+{Plot_Summary}
+
+### Character Analysis:
+{Character_Summary}
+
+### Excerpts (Demonstrating Writing and Language):
+{Excerpt}
+
+---
+
+Please evaluate the story based on the criteria listed below. Provide detailed reviews highlighting both strengths and weaknesses. Assign a score for each aspect on a continuous scale from 0 (worst) to 100 (best).
+
+### 1. Plot and Structure: 
+- **Review:**
+- **Score:** X
+
+### 2. Characters: 
+- **Review:**
+- **Score:** X
+
+### 3. Writing and Language: 
+- **Review:**
+- **Score:** X
+
+### 4. World-Building and Setting: 
+- **Review:**
+- **Score:** X
+
+### 5. Themes: 
+- **Review:**
+- **Score:** X
+
+### 6. Emotional Impact: 
+- **Review:**
+- **Score:** X
+
+### 7. Enjoyment and Engagement: 
+- **Review:**
+- **Score:** X
+
+### 8. Expectation Fulfillment: 
+- **Review:**
+- **Score:** X
+
+### Overall Assessment and Overall Score:
+- **Overall Assessment:** {Overall_Assessment}
+- **Overall Score:** X
+
+**Guidelines:** Conclude with an overall assessment of the novel, summarizing key insights and assigning an overall score on a continuous scale from 0 to 100.
+
+---

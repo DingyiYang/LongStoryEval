@@ -1,0 +1,103 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Exposed
+
+### Genres: Romance, Romantic Suspense, Contemporary Romance
+
+### Premise:
+One day, I was chugging along at life as a wedding planner. The next, I’m a confidential informant and fake engaged to the grumpiest DEA agent on earth. 
+Hit the brakes. Let’s back up. 
+You know those sappy made-for-TV movies where the leading lady gets the unsuspecting knock on the door and is the beneficiary of a massive inheritance? 
+That’s me. I’m that heroine. 
+My name is Goldie Carter, and inheriting The Pink—one of the most historic and grandest estates in Miami—would be a dream come true for any gal, but especially me. 
+I’m a true romantic. I believe in soul-wrenching love so deep, to have it ripped away would physically hurt. 
+But I’m still waiting for my prince charming. 
+And life isn’t so golden at the moment. 
+Money, greed, and cartels have a way of forcing love to the backburner when a surprise half-brother rears his ugly head. 
+Enter Kingston Jennings, Special Agent for the DEA—and quite possibly the crankiest man I’ve ever met. 
+That’s how I got to where I am right now. 
+Fake engaged. 
+And falling in love.
+ 
+Little did I know, I don’t need a prince charming. 
+I need a King.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Marigold "Goldie" Carter, a determined wedding planner, entangles herself in a mission to dismantle her half-brother Dex Carter’s cartel, which exploits The Pink as a criminal front. Teaming up with Kingston "King" Jennings, a dedicated DEA agent on an undercover mission, Goldie and King fake an engagement to serve as a cover for their operations against Dex. Throughout their strategic deception, genuine feelings blossom, complicating their alliance.
+As investigations progress, leveraging information from tech-whiz Ozzy Graves, Dex's operations, including human trafficking, become more dangerous. An intricately planned raid unfolds at The Pink, aligning with the fake wedding—an ultimate showdown against Dex's organization. Escalating threats tempt fate, especially during a critical moment when King narrowly survives an explosion after obtaining evidence.
+Amidst peril, the bond between King and Goldie strengthens, leading them to marriage on a serene beach, symbolizing a new chapter beyond Dex's shadow. With support from their tight-knit circle of allies, including Cole, Ozzy, and Micah, they plan to revive The Pink into a legitimate and thriving business reflecting renewed hope.
+The epilogue nine months later sees Goldie and King expecting their first child, with newfound stability painting a promising future. Goldie's control of The Pink represents triumph over her past, while ongoing challenges, such as Rocco’s reassignment to New Orleans, showcase their resilience amidst transition and uncertainty. Embracing life's depth and commitments forged through challenges, they are poised for a harmonious, shared future.
+
+### Character Analysis:
+**Marigold "Goldie" Carter:**
+- **Profile:** Protagonist; resolute wedding planner riding a journey from peril to empowerment, reclaiming control over her life and The Pink.
+- **Overall Experience:** Transitioning from vulnerability amidst her brother's criminal activities to resilience, Goldie navigates her dual roles—personally binding with King and professionally reviving her venue to usher in a new era.
+
+**Kingston "King" Jennings:**
+- **Profile:** Co-protagonist; committed DEA agent who risks his life against Dex's cartel while discovering love with Goldie.
+- **Overall Experience:** King embodies protection and commitment, weaving his law enforcement role with personal growth, epitomized by his marriage to Goldie and their joint future aspirations.
+
+**Dex Carter:**
+- **Profile:** Antagonist; orchestrates The Pink's criminal activities, setting up conflicts ultimately resolved by Goldie and King’s alliance.
+- **Overall Experience:** Dex's consistent threat propels the narrative, catalyzing Goldie's journey from subjugation to authority over her destiny and her venue.
+
+**Rand Becerra:**
+- **Profile:** Secondary antagonist; enforcer of Dex’s illicit operations.
+- **Overall Experience:** Represents constant danger to Goldie and King, ultimately diminishing as the narrative conflict resolves.
+
+**Cole Carson:**
+- **Profile:** Supportive CIA officer; crucial link providing humor and tactical aid.
+- **Overall Experience:** Enhances operational engagement and morale, underscoring bond and camaraderie against common threats.
+
+**Ozzy Graves:**
+- **Profile:** Tech-savvy ally integral to cartel surveillance and counter-operations.
+- **Overall Experience:** His strategic interventions contribute significantly to dismantling Dex's network, facilitating key narrative resolutions.
+
+### Excerpt (Demonstrating Writing and Language):
+Goldie
+Make it or break it.
+I’ve been chanting that to myself way too often lately.
+Miami was supposed to be life changing.
+Sure, there’s the occasional hurricane, but endless sunny beaches replace endless months of snow. This creates an endless number of opportunities for dreamy weddings and elaborate receptions.
+Because Miami equals money.
+At least that’s what I thought when I took a chance and moved my little business from rural Virginia to the land of white sand beaches, vibrant nightlife, and diverse culture. I might be a nobody here, but if there’s one thing I’m not afraid of, it’s hard work.
+I started Amāre a few years ago as a side gig. But when I got an offer I couldn’t refuse, I packed up and headed south.
+I’m proud of what I do and the little business I started. My logo is fire, and my website should entice every person looking for a wedding planner to hire my company.
+Should is the operative word.
+And I am the company.
+Me.
+It’s just me.
+The day I made Amāre a reality was the day I realized I could conquer the world. My first event might have been small with a humble budget, but it was gorgeous and filled with memories.
+Planning weddings has always been my dream, but rural Virginia is … well, rural. Where I’m from, there are more horses than engaged couples. What few engaged couples there are, only a small portion of them actually hire a wedding planner.
+Amāre is a beautiful word. It means love in Latin.
+Love is the basis of everything. It nurtures and heals and settles in your soul. Who doesn’t need more love?
+But when you give it to someone else—especially someone who needs and deserves it—that’s the love that bursts and makes the world a more beautiful place.
+I believe that with my whole heart, regardless of the fact I haven’t found it for myself yet.
+Nothing makes me happier than working around love. My work might seem shallow or trivial to the pessimists of the world, but I get to serve people who are in love and starting their lives together.
+But to make my dream come true, I knew I needed to take a chance. So when the opportunity knocked on my door, I opened it wide and took the risk.
+I didn’t think twice.
+That was my first mistake.
+I should’ve thought twice.
+Even so, I’m here and refuse to quit.
+It’s not like I haven’t found work since I moved here. At first, I was so busy, I hardly had time to breathe.
+Then everything changed. That was before my make-it-or-break-it era. But I’m determined to make a living from my passion.
+Because I also have a passion to pay the rent and buy groceries.
+Which means, I need this meeting to go well.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

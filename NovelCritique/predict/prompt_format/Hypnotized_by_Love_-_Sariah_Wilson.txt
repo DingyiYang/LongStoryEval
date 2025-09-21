@@ -1,0 +1,67 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Hypnotized by Love
+
+### Genres: Romance, Contemporary, Contemporary Romance
+
+### Premise:
+Hypnotist Savannah Sinclair is known for helping clients overcome their deep-rooted issues, from anxiety to addiction. But her nontraditional approach also attracts plenty of skeptics—including her high school nemesis and rival, Mason Beckett, who just so happens to be the boy who broke her heart.
+Mason’s life hasn’t gone according to plan. His latest novel was a flop, and the only gig he can land is writing a scathing exposé of his hometown hypnotist, Savannah. But in order to write an authentic article, he has to be a willing participant. Hypnosis is the last thing he he’s shedding his negative nature and opening himself up to new experiences...and when a fire alarm interrupts their session, Mason walks out into the real world entranced and sporting a sunny disposition and a tendency to say yes.
+Hypnotized Mason is fearless, revealing things he’s never told a soul, acting completely out of character, and leading Savannah on a frantic chase to keep him safe. He likes his new self. The problem is, so does Savannah. She can’t fall in love with a man who’s in a trance, but can she keep him still long enough to get him to snap out of it?
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Savannah Sinclair, a hypnotherapist, faces professional turmoil following a client complaint, returning to her hometown to reconnect with her twin sister, Sierra, and confront unresolved issues with her high school love, Mason Beckett. Misunderstandings from the past, exacerbated by a rumor of Mason's alleged affair with a teacher, fuel Savannah's trust issues. Sierra reveals Mason's unwavering support during her cancer treatment, prompting Savannah to reconsider her view of him.
+Their relationships unfold against layers of old wounds, professional scrutiny from Frederick Franklin, a board member aware of her relationship with Mason, and his threats. Savannah learns Bridget, a former friend, spread the damaging rumor to shield her own illicit relationship with a teacher. A breakthrough occurs when Bridget confesses and Sierra encourages Savannah to forgive. The sisters join forces to mend relationships, leading Savannah to admit her love for Mason, dispelling previous fears.
+As Savannah nears full trust in Mason, she finds a draft article seemingly attacking hypnotherapy on Mason's laptop, leading her to feel betrayed and leave before hearing his explanation. At home, Sierra urges her to reconsider, revealing her fear obscures her judgment. Bridget explains Mason never intended to submit the article, which prompts Savannah to reassess her mistrust.
+Emerging from betrayal's shadow to embrace vulnerability, Savannah pursues emotional reconciliation. The journey strengthens her bond with Mason, aided by Sierra's encouragement and Bridget's transformation. Savannah apologizes to Mason by climbing through his window, acknowledging her trust issues and professing her love. Mason, having recognized his love for her long before, assures her of his commitment, admitting he scrapped the article after a change of heart.
+Six months later, both find professional success—Savannah's hypnotherapy practice expands, and Mason's positive article on hypnosis gains traction, enhancing his platform as a writer. They reaffirm their bond through small gestures of love and understanding. Mason surprises Savannah with a proposal at the dock, their sentimental haven, and she joyfully accepts, signifying the culmination of their transformed relationship into a future built on trust, love, and shared dreams.
+
+### Character Analysis:
+**Savannah Sinclair:**
+- **Profile:** Protagonist, hypnotherapist, complex blend of caution and vulnerability, grappling with distrust due to past betrayals. Seeks emotional connection.
+- **Overall Experience:** Evolved from defensiveness to embracing love and forgiveness. Navigates through past betrayals to a future of trust and vulnerability with Mason.
+
+**Mason Beckett:**
+- **Profile:** High school love interest of Savannah. Charismatic, genuine, seeks to amend misunderstandings and deepen connections with Savannah.
+- **Overall Experience:** Supports Savannah through personal growth. His professional success mirrors their emotional reconciliation, deepening trust with Savannah.
+
+**Sierra Sinclair:**
+- **Profile:** Savannah's twin sister, supportive and pivotal in encouraging Savannah toward love and forgiveness.
+- **Overall Experience:** Continues to be a critical force in Savannah’s journey toward emotional clarity and growth.
+
+**Bridget:**
+- **Profile:** Former friend and the source of damaging rumors. Seeks and achieves redemption and reconciliation with Savannah.
+- **Overall Experience:** Transforms from a conflict source to a truth bearer keen on mending the broken friendship with Savannah.
+
+### Excerpt (Demonstrating Writing and Language):
+“What did they say?” my identical twin sister, Sierra, asked me as I slumped into the chair across the table from her. She’d told me to meet her at Starbucks after my meeting, and I was regretting that. I didn’t want to be in public right now. I wanted to go home and curl into a ball.
+I took off my blazer, and not surprisingly, I was sweating everywhere. I had been trying to look professional, and instead I was a swampy mess. I wondered if that had played any role in the committee’s decision. Only a fool like me would wear a blazer in June in Florida.
+“Savannah?” Sierra was waving her hand in front of me, trying to get my attention.
+“Censured,” I said, letting out a long breath. My sister pushed a Paradise Drink toward me, and I sipped at it. Not even pineapple mixed with coconut milk could soothe this gaping wound. I was in trouble, and I hadn’t done anything wrong. “I’m officially censured.”
+I didn’t like how heavy that word felt in my mouth. Even though the air-conditioning was on, I pulled my blouse away from my skin, trying to create some kind of breeze to cool down my overheated body.
+“What does ‘censured’ mean?” she asked.
+“It basically means I’m on probation. That if something else happens, I’m in danger of losing my certification.”
+Sierra managed to look angry, frustrated, and concerned all at once. That was the thing about having an identical twin—it was like having a living mirror. Not just in the physical sense, where I was constantly reminded that we had the exact same features, the same dark brown hair and matching dark eyes, but in having a person who constantly reflected your own emotions back at you. Because I was also angry, frustrated, and concerned.
+But mostly angry.
+“Even if you lost your certification, you could still practice, though, right?”
+I shrugged a shoulder. I could. But there were so many dishonest and untrained people in my field claiming to be hypnotherapists that having that certification felt really important to me. Yes, technically I could still practice hypnosis with people, but being a member of the professional organizations that I belonged to and was accredited with mattered to me in a way that I wasn’t sure I could explain to Sierra.
+When I didn’t answer, she asked, “What did Camila say about it?”
+That question felt like a hot knife skewering my stomach. “I think she’s disappointed.” Camila had been my mentor and the person who’d started me down the road of my profession. She seemed to believe my side of the story but had admonished me to remember what she’d taught me.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

@@ -1,0 +1,60 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Madwoman
+
+### Genres: Mystery, Thriller, Mystery Thriller
+
+### Premise:
+The world is not made for mothers.
+Yet mothers made the world...
+Clove has gone to extremes to keep her past a secret. Thanks to her lies, she’s landed the life of her dreams, complete with a safe husband and two adoring children who will never know the terror that was routine in her own childhood. If her buried anxiety threatens to breach the surface, Clove (if that is really her name) focuses on finding the right supplement, the right gratitude meditation. 
+But when she receives a letter from a women’s prison in California, her past comes screeching into the present, entangling her in a dangerous game with memory and the people she thought she had outrun. As we race between her precarious present-day life in Portland, Oregon and her childhood in a Waikiki high-rise with her mother and father, Clove is forced to finally unravel the defining day of her life. How did she survive that day, and what will it take to end the cycle of violence? Will the truth undo her, or could it ultimately save her?
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Clove, also known by her prior identity Calla Lily, is a mother grappling with the traumatic shadow cast by her abusive father and the consequential imprisonment of her mother, who took the blame for his death to protect Clove. Relocated in Oregon, Clove strives to shield her children, Nova and Lark, from the chaos of her own upbringing. Clove’s precarious stability is disrupted when figures and truths from her past surface, especially through her complex friendship with Celine, originally introduced as Jane, a critical figure from Clove’s history in Hawaii.
+As Clove is compelled to confront her past, Celine kidnaps Clove's children to reunite them with Clove’s mother, whom Celine had been secretly visiting. The intervention of The Butcher, a former lover, forces Clove to delve deep into memories of her role in her father’s death, ultimately unraveling the weave of her childhood trauma. Clove’s husband, initially unaware of her past, is caught in a storm of deception and revelation that tests their marriage's foundations.
+Together, Clove and her husband manage to locate their children, culminating in a charged confrontation with Celine. Here, Celine discloses her survival from oppressive circumstances under her deceitful mother and her subsequent transformation. She demands that Clove face her history and liberate her mother by publicizing her story. Recognizing the necessity of this, Clove crafts her narrative, bracing to face the repercussions of unveiling hidden pasts.
+The narrative reaches an emotional zenith in a reunion with Clove’s mother in prison, where issues of maternal sacrifice and the perpetuation of abusive cycles are brought to the fore. Clove reconciles with her mother’s past decisions, forging a path to not only liberate her mother but also reclaim her own narrative identity. 
+The epilogue details a morning of reflection and newfound hope for Clove. Her husband’s acknowledgment of her strength and their mutual understanding mark a potential reconciliation and partnership. Meanwhile, Celine brings urgent news about the viral spread of Clove’s story, underpinning Clove’s journey toward publically addressing the injustices that have clandestinely governed her life. The widespread support kindles optimism for her mother's release, emphasizing Clove’s resolve to see her family greet the future unbound by past shadows.
+
+### Character Analysis:
+**Clove/Calla Lily:**
+- **Profile:** Protagonist; a mother determined to protect her children from the traumas of her past while grappling with her own history of family abuse and identity.
+- **Overall Experience:** Clove's journey is marked by an evolution from secrecy and internalization of trauma to public acknowledgment and action, aiming for redemption and justice for herself and her family.
+
+**Clove's Mother:**
+- **Profile:** A passive figure who accepted blame for her husband's death, now serving time in prison, embodying sacrifice and resilience.
+- **Overall Experience:** Represents both victimhood and unseen strength, compelling Clove towards truth and justice, as her story becomes pivotal to the unfolding narrative.
+
+**Celine/Jane:**
+- **Profile:** Clove’s pivotal childhood friend from Hawaii, presumed dead, reemerges with a new identity, emblematic of survival and the pursuit of justice.
+- **Overall Experience:** Transforms from a symbol of shared victimhood to one of agency, challenging Clove to confront and reclaim her past.
+
+**Clove's Husband:**
+- **Profile:** A supportive yet initially unknowing partner, caught off guard by revelations of Clove’s past.
+- **Overall Experience:** Navigates the turbulence of trust and revelation within their marriage, ultimately embodying the hope for familial stability and mutual understanding.
+
+### Excerpt (Demonstrating Writing and Language):
+The world is not made for mothers. Yet mothers made the world. The world is not made for children. Yet children are the future. Or so I’ve seen on posters at pediatric offices. Pro-life campaigns. PBS maybe. When I was in school, we spent our lunch hour foreheads pressed to the table while a small twitchy principal bellowed into a megaphone for silence. This was before the internet and secret viral videos and conscious parenting. He and the lunch ladies swatted at us but never hit. I don’t remember telling you about it. I’m sure it seemed irrelevant to me at that time in my life, meaning my entire childhood, when all we cared about was surviving my father. My head on the cool table, solemnly eating Tater Tots, probably seemed like heaven.
+Do you get Tater Tots where you are?
+Now I’m the mother of Nova and Lark, seven-year-old girl, three-year-old boy, and I sense I’m coming to something important. Or rather, something important is coming to me. It will serve us both to bear witness. The world is not made for us — certainly it’s not; just try to afford preschool — but this thing I’m starting to understand, transforming from felt to known, it’s about the energy of violence. The way violence shrinks women, makes us feel lucky for things that aren’t lucky. Even when we think we’ve outrun it, look back — see its long reaching fingers touching every choice we’ve made.
+For many years, despite all I’d seen and all I’d survived, I thought I had evaded those long fingers. That life was about wise choices. For instance, if I did motherhood differently than you, if I ensured a peaceful family life, then I could leave the past behind. No. Not just behind. I could annihilate it.
+I would not, for example, burden myself with recalling the time you put a flat of plastic bottled waters in our shopping cart. They were marked down, what we’d been waiting for. You had decided women with plastic water bottles poking out of their purses were living at the height of luxury. You even had me excited to carry one around in the mini backpack we’d stolen from Mervyn’s. “Don’t make eye contact,” you’d said as we left without paying for it. We never felt bad about stealing. Life owed us minor rewards. But stealing from a grocery store was a non-option. “Not the grocery store,” you’d said, exasperated once when I’d gone to pocket a candy bar. I asked why not. “You don’t bite the hand that feeds you,” you answered. I didn’t understand. The same way I didn’t understand why bottled water, Crystal Geyser to be exact, had become such a preoccupation. Now I know it was easier to fixate on small externals than address the fact that we did not know if we would live to see the next day.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

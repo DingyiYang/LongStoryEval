@@ -1,0 +1,85 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Every Time I Go on Vacation, Someone Dies
+
+### Genres: Mystery, Cozy Mystery, Mystery Thriller
+
+### Premise:
+All that bestselling author Eleanor Dash wants is to get through her book tour in Italy and kill off her main character, Connor Smith, in the next in her Vacation Mysteries series―is that too much to ask?
+Clearly, because when an attempt is made on the real Connor’s life―the handsome but infuriating con man she got mixed up with ten years ago and now can't get out of her life―Eleanor’s enlisted to help solve the case.
+Contending with literary rivals, rabid fans, a stalker―and even her ex, Oliver, who turns up unexpectedly―theories are bandied about, and rivalries, rifts, and broken hearts are revealed. But who’s really trying to get away with murder?
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+In "The Final Drafts," Eleanor Dash, a bestselling novelist, finds herself embroiled in real-life peril during a book tour in Italy. The journey reveals complex layers of deception following an attempted murder and the poisoning of fellow writer Shek. Eleanor navigates these threats alongside companions including her sister Harper and former lover Connor, whose financial scandals intertwine with broader conspiracies. The narrative is steeped in personal conflict, drawing from Eleanor’s introspection and her writings that eerily align with unfolding threats.
+The tour becomes a treacherous endeavor as Inspector Tucci, a skeptical yet critical investigator, aids Eleanor in unraveling the mysteries within a larger sinister plot. Central to this chaos is the Giuseppe family’s vendetta against Eleanor due to her past investigations, leading to a major confrontation on a Ravello tower where Eleanor becomes both victim and reluctant protector, grappling with moral and emotional turmoil.
+As the intricacies of the Giuseppe scheme come to light, Marta remains elusive, deepening the unresolved complexities despite Inspector Tucci’s efforts to detain Isabella. The plot involves strategic manipulation within Eleanor’s publisher and travel plans, revealing orchestrated attempts against her group. Connor emerges as both victim and manipulator, his connections with the Giuseppe women unraveling further complexities in Eleanor’s tale.
+The culmination of the Italian escapade delivers the harsh realities of betrayal and deception, reshaping Eleanor's authorship with insights into these trials. Legal and emotional repercussions prompt Eleanor to reflect on the personal intertwinement of her literary success with the real-world threats she faced.
+In the epilogue, Eleanor chooses not to exact fictional revenge on Connor, acknowledging his assistance to Inspector Tucci. Though their relationship is not mended entirely, being targets of assassination attempts has forged a reluctant bond. Eleanor gears up to launch a new book series while cautiously aware of Marta's looming threat and anticipates returning to Italy for Isabella's trial. She reflects positively on Shek’s funeral despite his role in her earlier ordeal, understanding his motives.
+Later, Eleanor attends her best friend Emma’s wedding, reveling in romance and newfound beginnings with Oliver. This serene moment abruptly shifts as she encounters another murder, hinting at continuous mystery-solving in her future as she confronts new challenges.
+
+### Character Analysis:
+**Eleanor Dash:**
+- **Profile:** Protagonist, bestselling novelist drawn into real-life mysteries, balancing literary success with investigative prowess amid personal and external threats.
+- **Overall Experience:** Transitions from literary figure to real-world detective, reconciling obstacles posed by vendettas and deceptions, culminating in growth as both a writer and individual.
+
+**Oliver Forrest:**
+- **Profile:** Former lover, emotional ally, supports Eleanor through threats, rekindling their bond amid past turbulence and present affection.
+- **Overall Experience:** Provides steadfast support to Eleanor, evolving from past grievances to emotional stability, embodying trust and romantic renewal.
+
+**Connor Smith:**
+- **Profile:** Former lover and complex antagonist interwoven within greater conspiracies, balancing self-interest and manipulative tendencies.
+- **Overall Experience:** Encapsulates the duality of ally and catalyst for deeper conspiracies, constantly testing Eleanor's forgiveness and trust.
+
+**Harper Dash:**
+- **Profile:** Eleanor's sister, integral in emotional and practical support despite personal suspicions and tensions.
+- **Overall Experience:** Evolves from suspicion-tinged kin to essential support network, embracing reconciliation and shared adversities.
+
+**Isabella Giuseppe:**
+- **Profile:** Antagonist awaiting justice, integral to the elaborate vendetta against Eleanor.
+- **Overall Experience:** Embodies familial resentment against Eleanor, symbolizing unresolved threads within the larger narrative.
+
+**Marta Giuseppe:**
+- **Profile:** Elusive antagonist, remains a latent threat despite lingering legal pursuits by Inspector Tucci.
+- **Overall Experience:** Encompasses the overarching unresolved danger, challenging Eleanor's forward momentum and continued safety.
+
+### Excerpt (Demonstrating Writing and Language):
+Bless me, Father, for I have sinned.
+I want to commit a homicide.
+Why, you ask? Bear with me for a second, and I’ll explain.
+I write books for a living. But the thing is, I never meant to write a book in the first place. I know that sounds nuts—who writes an entire novel by accident?—but that’s what happened. Ten years ago, after a life-changing trip to Italy during a crisp January, I wrote a book.
+And okay, I know what you’re thinking. Didn’t Elizabeth Gilbert do that already? Was it some kind of Eat, Pray, Love knockoff?
+I want to say no, but the truth is—kind of?
+I mean, there were thefts, detective work, and even a murder. But there was also lots of travel, a love story, and pasta.
+I’ll get to all of that.
+What you need to know right now is that when I got home after a whirlwind month of adventure, I had an overwhelming urge to write down what had happened, and it spilled out of me in a feverish rush. How I met Connor Smith, how we got embroiled in solving a series of robberies that ended in a murder, how we fell in love—I sifted through everything we’d experienced and out came When in Rome.
+And the things that happened in the months after that—getting an agent, selling the book at auction, being flown to New York to meet my publishing team—felt like a continuation of a dream I couldn’t seem to wake up from.
+My wake-up call came six weeks before the book was scheduled to launch that November.
+Because I’d forgotten one tiny detail.
+I never told Connor I was writing about him. I just invited him to meet me in New York and didn’t tell him why.
+If I’m being honest—and that’s what this is about, right? Confession—I thought that when I told him, he’d pick me up and twirl me around like in a scene from a movie.
+That’s not what happened.
+Instead, I got, well, not blackmailed exactly, but something blackmail adjacent.
+Because once Connor understood that he was soon to be the star of a true-crime novel—that I’d changed everyone else’s names, including my own, to protect the guilty, but not his—he wanted 10 percent of my advance. It was that or—he told the publisher with an élan I had to admire—he’d see us in court.
+Even though he didn’t have a legal leg to stand on,1 my publisher didn’t want to take the chance.2 And there was a clause in my contract that said if we went to court, I’d be on the hook for the legal fees.3
+I didn’t remember even seeing that clause.
+I mean, does anyone read twenty-page single-spaced contracts?
+I was going to from now on, obviously. But in the meantime, what if I gave him the cut of my advance he wanted, my publisher asked. That would make it so much simpler for everyone.
+So I paid.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

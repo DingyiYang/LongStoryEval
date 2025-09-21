@@ -1,0 +1,56 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: The Truth According to Ember
+
+### Genres: Romance, Contemporary, Contemporary Romance
+
+### Premise:
+A Chickasaw woman who can’t catch a break serves up a little white lie that snowballs into much more in this witty and irresistible rom-com by debut author Danica Nava.
+Ember Lee Cardinal has not always been a liar—well, not for anything that counted at least. But her job search is not going well and when her resumé is rejected for the thirty-seventh time, she takes matters into her own hands. She gets “creative” listing her qualifications and answers the ethnicity question on applications with a lie—a half-lie, technically. No one wanted Native American Ember, but white Ember has just landed her dream accounting job on Park Avenue (Oklahoma City, that is).
+Accountant Ember thrives in corporate life—and her love life seems to be looking up too: Danuwoa Colson, the IT guy and fellow Native who caught her eye on her first day, seems to actually be interested in her too. Despite her unease over the no-dating policy at work, they start to see each other secretly, which somehow makes it even hotter? But when they’re caught in a compromising position on a work trip, a scheming colleague blackmails Ember, threatening to expose their relationship. As the manipulation continues to grow, so do Ember’s lies. She must make the hard decision to either stay silent or finally tell the truth, which could cost her everything.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Ember Lee Cardinal, a spirited professional, faces personal and professional turmoil due to deception about her qualifications and involvement in unethical financial practices manipulated by Kyle, the CEO's nephew. This leads to a rift with Danuwoa Colson, her supportive partner. Losing her job forces Ember to reassess her life, including reading a remorseful letter from her estranged father, Mitch, which adds emotional complexity.
+Returning to Auntie offers Ember solace and wisdom, helping her realize the importance of honesty and community support. Encouraged by Auntie, she decides to pursue education in accounting, supported by a grant from her tribe, and simplifies her life by selling her SUV. Ember resolves to mend her relationship with Danuwoa. Upon confronting him, humorously serening him with a Peter Gabriel song, the pair reconcile, emphasizing commitment to transparency.
+Months later, during a Thanksgiving celebration, Ember thrives in school and work, supported by her family. Her brother Sage repays a past debt, marking personal growth and strengthening familial bonds. Ember’s journey reflects resilience, the significance of community, and the pursuit of integrity, leading to redemption and a hopeful future.
+
+### Character Analysis:
+**Ember Lee Cardinal:**
+- **Profile:** Ember is a determined and resilient protagonist who grapples with personal and professional challenges. Her willingness to confront her mistakes signals growth and maturity.
+- **Overall Experience:** Ember’s journey showcases her evolution from deceit and desperation to redemption and personal integrity, supported by her community and family.
+
+**Danuwoa Colson:**
+- **Profile:** Danuwoa remains a steadfast and supportive figure, embodying stability and emotional strength.
+- **Overall Experience:** Danuwoa’s role as a grounding force is crucial in Ember’s life, remaining a symbol of steadiness and integrity throughout their ups and downs.
+
+**Sage:**
+- **Profile:** Sage is Ember’s younger brother who shares a strong bond with her despite personal struggles.
+- **Overall Experience:** Sage’s journey adds familial depth and stress to Ember’s life, but also highlights growth, camaraderie, and resolution.
+
+**Auntie:**
+- **Profile:** Auntie provides unwavering support and wisdom to Ember, helping ground her personal development.
+- **Overall Experience:** Auntie’s guidance is a stabilizing influence, fostering resilience and emphasizing the importance of community and cultural values for Ember.
+
+### Excerpt (Demonstrating Writing and Language):
+I was not always a liar. I mean, sure, white lies were inevitable. I told them all the time. My habit of lying started with a simple “Yes, that beaded key chain is really pretty” to my best friend, Joanna, when we were fifteen. It was a vomit-green “lizard,” and it was an insult to lizards everywhere. The key chain looked demented, all lumpy with gaps where beads should’ve been, but I lied through my teeth. What was I supposed to do? Tell her the truth and have her stop beading altogether? I couldn’t do that to her. My little fib meant a lot to her, and I realized my words had an impact when she gifted the key chain to me that same Christmas with a little note that read, Thank you for believing in me.
+That ugly little lizard, in all its garish glory, still lived on my key ring. It was so ugly, I was convinced that it could ward off evil; it was my little lucky charm and my most prized possession. Joanna ended up finding success with her beadwork. As the years went on, her ambitious designs served as a stable source of income, so I’d argue that my first white lie was a good one.
+Sometimes, I lied because it was just easier. Who had time to get into the weeds of things? Just a teensy, tiny fib to save someone’s feelings, or hide my own, did a lot to keep my sanity. I wasn’t a pathological liar by any stretch of the imagination—it wasn’t like I would lie and say I was someone that I wasn’t, and not everything I said was a whopper. I wasn’t a con artist trying to pull one over on people. I was just Ember Lee Cardinal, a sometimes liar, but mostly an overall good person.
+But this lying business did get out of hand, I recognized that. I want to say for the record that if faced with the choice between plunging the toilets of an old and dingy (but well-loved) bowling alley for the rest of your life and the opportunity to dramatically change your circumstances with a few cleverly crafted lies, you would do it too. If an itty-bitty fabrication was the difference between barely keeping a roof over your head or having a stable career with growth—it was a no-brainer. I wasn’t going to be slaving away disinfecting fifteen-year-old rental bowling shoes forever. Nope. I was changing my destiny.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

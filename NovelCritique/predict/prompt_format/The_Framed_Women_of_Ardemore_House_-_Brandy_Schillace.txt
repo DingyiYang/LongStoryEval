@@ -1,0 +1,59 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: The Framed Women of Ardemore House
+
+### Genres: Mystery, Mystery Thriller, Cozy Mystery
+
+### Premise:
+Jo Jones has always had a little trouble fitting in. As a neurodivergent, hyperlexic book editor and divorced New Yorker transplanted into the English countryside, Jo doesn’t know what stands out more: her Americanisms or her autism.
+After losing her job, her mother, and her marriage all in one year, she couldn’t be happier to take possession of a possibly haunted (and clearly unwanted) family estate in North Yorkshire. But when the body of the moody town groundskeeper turns up on her rug with three bullets in his back, Jo finds herself in potential danger—and she’s also a potential suspect. At the same time, a peculiar family portrait vanishes from a secret room in the manor, bearing a strange connection to both the dead body and Jo’s mysterious family history.
+With the aid of a Welsh antiques dealer, the morose local detective, and the Irish innkeeper’s wife, Jo embarks on a mission to clear herself of blame and find the missing painting, unearthing a slew of secrets about the town—and herself—along the way. And she’ll have to do it all before the killer strikes again...
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Jo Jones, an American woman navigating post-divorce life, inherits the historical Ardemore estate in England, drawing her into a labyrinth of old secrets and current crimes. The narrative begins with the murder of Sid Randles, the estate caretaker, setting into motion investigations that reveal his involvement in illicit activities, including a sex work ring and financial exploits. DCI MacAdams takes charge of unraveling Sid's death, probing the intricate webs of deception that tie it to long-standing conspiracies.
+MacAdams investigates links between Sid’s ex-wife, Elsie Smythe, and their shared past, including money laundering and broader familial ramifications involving her brother, Jack Turner. Meanwhile, Jo delves into her inheritance's historical aspects, guided by antiques dealer Gwilym Morgan, discovering ties to famed garden designer Gertrude Jekyll and the enigmatic story of ancestor Evelyn Davies.
+The story intensifies as suspense builds around Detective Jarvis Fleet, whose hidden history is riddled with corruption. Tensions climax when it emerges that Fleet, driven by desperate ambitions and a need to protect the "Clapham file"—highly incriminating military documents—was behind Sid's murder. His lethal actions lead Jo and MacAdams into a highly perilous confrontation during a storm, which ends with Fleet's demise in a house blaze.
+The investigation peels back layers of deception linked to governmental corruption, as revealed in the Clapham file, implicating Fleet, Turner, and other military entanglements. Elsie's role is exposed, having blackmailed Sid using this knowledge to further her criminal objectives. An inferno that eradicates Jo’s inherited home becomes the crucible where past sins intermingle with present-day crime, forcing Jo and MacAdams to reconnoiter their personal trajectories amidst reality’s emerging truths.
+In the aftermath, Jo discovers Evelyn's skeletal remains hidden beneath the burned house, sparking a renewed familial connection and commitment to creating a legacy for Evelyn. She turns control of the estate remnants and gardens over to the National Trust and begins repairs on her own cottage, renamed Netherleigh, determined to preserve Evelyn’s history and reframe her narrative.
+As part of revitalizing Evelyn's existence, Jo restores her painting, uncovering it as a potential masterpiece by Augustus John. This resurgence reveals deeper family secrets—like letters exposing Evelyn's affair with her sister's husband, complicating Jo’s emotional engagement with her past. Though Evelyn's exact fate remains uncertain, Jo anchors herself to Evelyn’s story, inspired by finding a tangible tie to her lineage.
+MacAdams, meanwhile, faces professional dilemmas in his duty toward uncovering past corruptions and his own role within the investigative narrative. As he ties off loose ends from the case, including dealing with internal betrayals and public commendations, he finds an unexpected ally in Jo. Together, they navigate the aftershocks of the revelations surrounding Ardemore and its sullied secrets.
+Jo chooses to remain in England, embracing her familial roots and the responsibility of ensuring Evelyn’s story isn't forgotten. Armed with newfound understanding, resolve, and a touch of optimism, she looks forward to what the future holds.
+
+### Character Analysis:
+**Jo Jones:**
+- **Profile:** The protagonist, an American woman unraveling ancestral mysteries tied to her estate, marked by personal growth against complex familial and criminal backdrops.
+- **Overall Experience:** Evolves from grappling with past and present challenges to asserting determination in preserving Evelyn’s legacy and her rightful place within familial history.
+
+**DCI MacAdams:**
+- **Profile:** A diligent detective focused on resolving Sid Randles’ murder, navigating professional upheavals while aiding Jo in bridging past injustice.
+- **Overall Experience:** Exhibits steadfast dedication to truth and justice, advancing personal and professional dynamics through intertwining estate and crime investigations.
+
+**Evelyn Davies:**
+- **Profile:** Jo's ancestor, central to the estate's mysteries, whose secrets and legacy profoundly influence the narrative’s resolution.
+- **Overall Experience:** Serves as a focal point around which the historical and emotional elements of the story revolve, with unveiled intimate histories significantly impacting Jo’s engagement.
+
+### Excerpt (Demonstrating Writing and Language):
+The house was enormous. Jo didn’t know enough about local architecture to date it, but the walls stretched up in the damp air, big and dark and lichen flecked. Windows had been boarded up; they wept black mildew creases over sandstone sills. Staring through the car window, Jo dropped her eyes down to the stairs, flanked by columns where Jo imagined regal statues might have stood. Or ought to have stood.
+“It’s...a castle,” she whispered.
+“It is most certainly not a castle,” said Rupert Selkirk, solicitor of Selkirk and Associates, in the driver’s seat beside her. “Not even the largest house in Abington.”
+Solicitor. Jo rolled the word around in her mouth. She’d pocket it for later rumination; it was nice to have a word for chewing on. It suggested antique leather chairs and brass lampstands, felt safer than divorce lawyer, and didn’t trigger the same sort of gut gripe. Rupert looked exactly as a solicitor ought to, with a high forehead, disappearing hairline, and two very bushy eyebrows. He also drove a puddle-green sedan with the steering wheel on the wrong side of Jo’s expectations. She wondered if the sense of dislocation would fade with the jet lag. It hadn’t exactly improved her first impressions. She forgot to introduce herself, forgot the handshake, stared in absolute stunned silence at the landscape as they drove.
+Online pictures had suggested something endlessly green, but the reality was wet and ragged, browned out from the end of winter and laced at the edges with naked tree branches. Jo squinted into the distance, taking in the brackish heath, then trees, then fog. A cluster of trees appeared, lanky pin oaks and a few copper beeches. A crumbling dry-stone wall snaked away from decayed posts; no fence, but the remnants of one. She let her eyes wander its length to a dark smudge of woodland and black bark dotted with lichen. The rest of the hill loomed treeless, stark, and scarred by eruptions of additional stone. Moors, she thought. Endless and rolling with dry heather and wet peat.
+Jo had pressed herself to the glass, ignoring the steam prints she made. She hadn’t brought much with her—certainly not her books. But Wuthering Heights might have been a good choice. Relaxation breathing had never been much use to her; whenever she consciously thought about autonomic responses, they went all wrong. So she mentally recited the opening lines of the novel as the car grumbled to a halt in the shadow of Ardemore House. As for Rupert, he was repeating himself.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

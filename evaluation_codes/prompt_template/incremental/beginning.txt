@@ -1,0 +1,56 @@
+Below is the beginning part of a book-length story:
+
+---
+
+### Title: {Title}
+
+### Genres: {Genre}
+
+### Premise: 
+{Premise}
+
+### Beginning:
+{Beginning}
+
+---
+
+We are sequentially reviewing segments of a story to gradually update a comprehensive evaluation of the entire story. 
+For each aspect below, please provide a review highlighting both strengths and weaknesses. Assign a score on a scale from 0 (worst) to 100 (excellent).
+
+### 1. Plot and Structure:
+- **Overall Review:**
+- **Overall Score:** X
+
+### 2. Characters:
+- **Overall Review:**
+- **Overall Score:** X
+
+### 3. Writing Style and Language:
+- **Overall Review:**
+- **Overall Score:** X
+
+### 4. World-Building and Setting:
+- **Overall Review:**
+- **Overall Score:** X
+
+### 5. Themes:
+- **Overall Review:**
+- **Overall Score:** X
+
+### 6. Emotional Impact:
+- **Overall Review:**
+- **Overall Score:** X
+
+### 7. Enjoyment and Engagement:
+- **Overall Review:**
+- **Overall Score:** X
+
+### 8. Expectation Fulfillment:
+- **Overall Review:**
+- **Overall Score:** X
+
+### Conclusion:
+- **Overall Assessment:** {Summarize the key insights of your review.}
+- **Overall Score:** X
+
+---

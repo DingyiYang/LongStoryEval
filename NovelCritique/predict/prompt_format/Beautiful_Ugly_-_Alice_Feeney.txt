@@ -1,0 +1,65 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Beautiful Ugly
+
+### Genres: Thriller, Mystery, Mystery Thriller
+
+### Premise:
+Author Grady Green is having the worst best day of his life.
+Grady calls his wife to share some exciting news as she is driving home. He hears Abby slam on the brakes, get out of the car, then nothing. When he eventually finds her car by the cliff edge the headlights are on, the driver door is open, her phone is still there. . . but his wife has disappeared.
+A year later, Grady is still overcome with grief and desperate to know what happened to Abby. He can’t sleep, and he can’t write, so he travels to a tiny Scottish island to try to get his life back on track. Then he sees the impossible — a woman who looks exactly like his missing wife.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Grady Green arrives on the enigmatic Isle of Amberly seeking solace and inspiration after his wife Abby's mysterious disappearance. Haunted by memories of Abby and pressured by his literary agent, Kitty Goldman, Grady contemplates plagiarizing the late author Charles Whittaker’s works to revive his fading literary career. The island's women-dominated society and mysterious atmosphere exacerbate Grady's insomnia and paranoia as he grapples with his fractured marriage and failure as a husband. Tensions mount when Abby, now Aubrey Fairlight, reveals her survival of Grady's murder attempt, having been sheltered by the island's community. Her narrative changes Grady's perception, forcing him to confront his coercive and abusive past.
+Kitty Goldman plays a crucial role, revealing her complex relationship with the island and history with Charles Whittaker. Together with Abby, she plots to ruin Grady's life, showcasing the island's resistance to male dominance. Kitty's past disclosures shed light on the island's matriarchal survival, driven by past abuses and personal vendettas.
+Faced with the island's judgment, Grady is given an ultimatum: write for the island's benefit or face exile or death. The epilogue sees Grady in a dire situation: drugged and potentially trapped. However, his book, "Beautiful Ugly," becomes a bestseller, bolstering the island's economy. Grady's internal conflict, lying with his guilt and search for redemption, comes to a haunting conclusion as he finds himself buried alive, reflecting his deepest fear and the overarching theme of existential reckoning. Abby's final words haunt him, marking the end of Grady's turbulent journey both physically and emotionally within the pervasive grip of Amberly.
+
+### Character Analysis:
+**Grady Green:**
+- **Profile:** A struggling novelist with a complex past involving deceit, betrayal, and attempted murder of his wife, Abby. He arrives on the Isle of Amberly, seeking solace and inspiration in his writing.
+- **Overall Experience:** Grady's journey through guilt, paranoia, and an existential crisis culminates in his acceptance of the consequences of his past actions. His entrapment mirrors his realization, serving as a redemption and punishment for his sins.
+
+**Abby Green/Aubrey Fairlight:**
+- **Profile:** The central figure of Grady's history, Abby reemerges with a new identity, revealing the truth about their contentious past. She is integrated into Amberly's matriarchal society.
+- **Overall Experience:** Abby's role as a catalyst for Grady's transformation underscores themes of trauma, empowerment, and survival. Her final words to Grady reinforce the notion of inescapable pasts and serve as poetic closure to their relationship.
+
+**Kitty Goldman:**
+- **Profile:** Grady’s manipulative agent, with personal ties to the island's murky past and a history with Charles Whittaker.
+- **Overall Experience:** Kitty epitomizes resilience and vengeance, ensuring the island remains protected from unwanted male influences. Her actions drive the narrative’s climax and reflect broader themes of control and societal power dynamics.
+
+**Sandy MacIntyre/Cora Christie:**
+- **Profile:** Community members embodying the island's protective but secretive nature.
+- **Overall Experience:** Illustrate Amberly’s transformation from a place of historical loss to a united front against external influences, representing the island's enduring matriarchy.
+
+### Excerpt (Demonstrating Writing and Language):
+If all we need is love, why do we always want more?
+I dial her number. Again. Finally, she answers.
+“I’m on my way, almost there,” my wife says without me having to ask. I can hear that she is driving, so she is heading home, but almost there sounds like a lie. She has a habit of stretching the truth into something more agreeable these days.
+“You said you would be here,” I reply, sounding like a petulant child instead of a grown man. “This is important to me.”
+“I know, I’m sorry. I’ll be there soon, promise. I’ve picked up fish-and-chips.”
+Fish-and-chips is how we have celebrated almost every major milestone. It’s what we ate on our first date, when we got engaged, the day I got an agent, and when we bought our dream house. I’m a little in love with this old thatched cottage on the south coast, just over an hour from London but a million miles from the city. Our only neighbors these days are sheep. Tonight, fish-and-chips was how I hoped we might celebrate my first New York Times bestseller, washed down with a bottle of champagne I’ve been saving for five years. My editor in America said she would call if it was good news, but it’s nearly 9:00 P.M. (4:00 P.M. in New York) and she hasn’t been in touch. Nobody has.
+“Heard anything?” Abby asks. I hear her turn on the windscreen wipers, and I picture the rain streaming down the glass like tears.
+“Not yet.”
+“Well, get off the phone or they won’t be able to get through,” she says and hangs up.
+Abby was supposed to be by my side when I got the call, but she’s late home. Again. She loves what she does—working as an investigative journalist and finding good stories about bad people. Men, mostly. My wife’s whole life has been mapped out by her moral compass and an insatiable desire to expose wrongdoing, but I worry about her upsetting someone she shouldn’t. Abby has been receiving anonymous threats sent to the newspaper where she works. She’s become so paranoid that she’s started recording all of her incoming calls, but she still won’t quit.
+My wife tells stories that matter, trying to save the world from itself.
+I tell stories that matter to me.
+My books have always been a place to hide myself inside myself when the real world gets too loud.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

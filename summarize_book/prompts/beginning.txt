@@ -1,0 +1,35 @@
+Below is the beginning of a lengthy story:
+
+---
+
+{Beginning}
+
+---
+
+**Instructions:**
+Your task is to craft a detailed summary of the beginning of a lengthy story, focusing on both the plot and characters.
+
+**Guidelines:**
+1. Plot:
+* Summarize the information in the beginning part, such as key events, main conflicts, backgrounds, settings, and characters.
+* Preserve the original narrative flow. Retain all non-linear narratives, flashbacks, setting transitions, and perspective shifts in their original order.
+
+2. Characters:
+* Introduce the major characters' information, including their profiles and overall experiences.
+
+**Output Format:**
+
+---
+
+### Plot Summary (within 1200 words):
+{Summary of the beginning}
+
+### Characters:
+**{Character Name}**:
+- **Profile**: Concisely summarize the character's profile, including the role (e.g., protagonist), attributes, personality, and relationships.
+- **Overall Experience**: Briefly describe the character's overall experience, including motivations, events, and emotional states.
+
+---
+
+Now start your summarization:
+### Plot Summary (within 1200 words):

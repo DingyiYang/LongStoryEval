@@ -1,0 +1,74 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: I Hope This Doesn't Find You
+
+### Genres: Romance, Young Adult, Contemporary
+
+### Premise:
+Sadie Wen is perfect on paper: school captain, valedictorian, and a "pleasure to have in class." It’s not easy, but she has a trick to keep her model-student smile plastered on her face at all times: she channels all her frustrations into her email drafts. She'd never send them of course -- she'd rather die than hurt anyone's feelings -- but it's a relief to let loose on her power-hungry English teacher or a freeloading classmate taking credit for Sadie's work.
+All her most vehemently worded emails are directed at her infuriating cocaptain, Julius Gong, whose arrogance and competitive streak have irked Sadie since they were kids. 
+"You're attention starved and self-obsessed and unbearably vain . . . I really hope your comb breaks and you run out of whatever expensive hair products you've been using to make your hair appear deceptively soft..."
+Sadie doesn't have to hold back in her emails, because nobody will ever read them... that is, until they're accidentally sent out.
+Overnight, Sadie’s carefully crafted, conflict-free life is turned upside down. It's her worst nightmare -- now everyone at school knows what she really thinks of them, and they're not afraid to tell her what they really think of her either. But amidst the chaos, there's one person growing to appreciate the "real" Sadie -- Julius, the only boy she's sworn to hate...
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Sadie Wen, a committed student at Woodvale Academy, navigates social, academic, and personal quandaries when a series of critical emails leak, rattling her school status and relationships. Amid familial challenges and strained relations with her brother Max, Sadie co-hosts a party with her debate counterpart and rival, Julius Gong. A spontaneous kiss at the event complicates their contentious relationship, which is further tested during the school's Athletics Carnival. Julius supports Sadie through a panic attack, unintentionally winning a race for her, intensifying budding affections.
+At a Lakeside retreat, juxtaposed against comical and bonding activities like canoeing competitions and eerie storytelling, Sadie’s internal struggle with communication and feelings emerges. She reconciles with Rosie, easing past tensions related to her scandal. However, Abigail mistakenly sends Sadie's candid draft emails, straining trust and embellishing her sentiments for Julius. A storm floods their cabin, compelling Sadie to demonstrate leadership and crisis management, as Danny resists her authority. Amidst darkness and anxiety, Julius’s presence and heartfelt confession culminate in a transformative kiss, signifying mutual acknowledgments.
+In the aftermath, back home at her family's bakery, Sadie discerns remarkable clarity, witnessing stability and hope in her family. Learning of Max’s promising sports recruitment, Sadie feels genuine relief and introspects on past worries. Her mother’s contentment and reassurances extend familial healing and trust. Sadie’s revelation through an emotional email to Julius articulates her profound feelings, addressing vulnerabilities, ambitions, and newfound love birthed from rivalry. Julius’s immediate heartfelt reciprocation underscores sincere connection and optimism for their future.
+
+### Character Analysis:
+**Sadie Wen:**
+- **Profile:** Protagonist, school captain, intelligent, and emotionally complex. Torn between academic pressures and personal dilemmas, she explores complicated social dynamics and romance.
+- **Overall Experience:** Sadie evolves from facing scandal and uncertainty to repairing relationships and embracing vulnerability. Her leadership and openness with Julius define her growth.
+
+**Julius Gong:**
+- **Profile:** Sadie’s academic rival and romantic interest. Intelligent, confident, contends with family expectations and personal insecurities.
+- **Overall Experience:** Progresses from competitive and defensive to revealing heartfelt emotions and commitment, fostering a meaningful connection with Sadie.
+
+**Max:**
+- **Profile:** Sadie's brother, previously aloof. Athletic with potential yet nonchalant disposition.
+- **Overall Experience:** Evolves from perceived indifference to demonstrating ambition and appreciation for family support and relationships.
+
+**Abigail:**
+- **Profile:** Sadie’s loyal yet flawed friend, inadvertently responsible for sending private emails.
+- **Overall Experience:** Maintains supportiveness, demonstrating vulnerabilities that help enrich themes of trust and forgiveness.
+
+**Mom:**
+- **Profile:** Sadie and Max’s mother, bakery owner, caring yet initially overwhelmed by responsibilities.
+- **Overall Experience:** Shifts from strained to warmth and encouragement, reinforcing familial healing.
+
+**Rosie:**
+- **Profile:** Initially against Sadie, evolves to reconcile and support her.
+- **Overall Experience:** Transition from adversary to ally reflects shifting social landscapes and mutual respect with Sadie. 
+
+### Excerpt (Demonstrating Writing and Language):
+
+It’s an honor to be waiting outside the school gates in the winter cold.
+This is what I’ve been telling myself for the past hour as I shiver in my ironed blazer and watch my fingernails turn a concerning shade of purple. It’s an immense honor. A privilege. A joy. It’s exactly what I envisioned when Ms. Hedge, the year level coordinator, called for me in the middle of my math honors class yesterday and asked that I show a few visiting parents around the school.
+“I trust that you’re the right person to do it,” she’d said with a wide smile, her gnarled hands folded neatly across her desk. “As school captain, you can tell them about how much Woodvale Academy cares for its students, and how well we’ve set you up for success. Feel free to also mention all the extracurriculars you’re involved in and your many achievements—like how you recently came in first in the track-and-field regional finals. The parents will love that.”
+I’d smiled back at her and nodded along with so much fake enthusiasm I gave myself a neck cramp.
+My neck is still stiff as I straighten the badges pinned to my front pocket, stamping my feet hard to ward off what feels like imminent frostbite. My best friend, Abigail Ong, always jokes that I collect badges like a magpie. She’s not wrong, exactly, but I’m not just admiring how the gold lettering for school captain catches the pale morning light. It’s also a matter of symbolism. Every single badge I own is proof of something: that I have perfect grades, that I’m the MVP of every sports team I’m on, that I’m an active member of the school community, that I help out at the local library. That I’m smart and successful and have a good future ahead of me—
+Footsteps crunch on the dry grass.
+I jerk my head up and squint into the distance. It’s so early that the parking lot is still empty, save for a rusted brown Toyota that’s probably been there since before the school was built. All the redbrick buildings on campus are quiet, the windows closed, the clouds rising over the bare trees painted a soft watercolor pink.
+No sign of any lost-looking parents.
+Instead, a terribly familiar face comes into view, and out of habit, all the muscles in my body tense. Black eyes, sharp angles, a smile like a blade. That single, ridiculous strand of dark hair falling over his forehead. The school blazer draped around his shoulders like he’s posing for a high-fashion magazine.
+Julius Gong.
+My cocaptain, and the most prominent source of pain in my life.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

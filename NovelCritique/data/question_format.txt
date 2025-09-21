@@ -1,0 +1,35 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: {Title}
+
+### Genres: {Genre}
+
+### Premise:
+{Premise}
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+{Plot_Summary}
+
+### Character Analysis:
+{Character_Summary}
+
+### Excerpt (Demonstrating Writing and Language):
+{Excerpt}
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+{Aspects}
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

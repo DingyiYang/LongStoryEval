@@ -1,0 +1,63 @@
+Below is a segment from a book-length story:
+
+---
+
+{Beginning}
+
+---
+
+Below are the metadata and the summary up until this point:
+
+---
+
+### Title: {Title}
+
+### Genres: {Genre}
+
+### Premise: 
+{Premise}
+
+### Summary:
+{Sum}
+
+---
+
+Please evaluate the current segment based on the criteria listed below. For each aspect, provide a review highlighting both strengths and weaknesses, and assign a score from 0 (worst) to 100 (excellent).
+
+### 1. Plot and Structure: 
+- **Review:** {}
+- **Score:** X
+
+### 2. Characters: 
+- **Review:** {}
+- **Score:** X
+
+### 3. Writing and Language: 
+- **Review:** {}
+- **Score:** X
+
+### 4. World-Building and Setting: 
+- **Review:** {}
+- **Score:** X
+
+### 5. Themes: 
+- **Review:** {}
+- **Score:** X
+
+### 6. Emotional Impact: 
+- **Review:** {}
+- **Score:** X
+
+### 7. Enjoyment and Engagement: 
+- **Review:** {}
+- **Score:** X
+
+### 8. Expectation Fullfill: 
+- **Review:** {}
+- **Score:** X
+
+### Overall Assessment and Overall Score:
+- **Overall Assessment:** {Summarize the key insights of your review.}
+- **Overall Score:** X
+
+---

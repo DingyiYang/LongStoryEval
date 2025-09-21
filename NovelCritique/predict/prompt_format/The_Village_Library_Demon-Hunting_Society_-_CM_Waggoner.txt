@@ -1,0 +1,65 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: The Village Library Demon-Hunting Society
+
+### Genres: Fantasy, Mystery, Cozy Mystery
+
+### Premise:
+Librarian Sherry Pinkwhistle keeps finding bodies—and solving murders. But she's concerned by just how many killers she's had to track down in her quaint village. None of her neighbors seem surprised by the rising body count...but Sherry is becoming convinced that whatever has been causing these deaths is unnatural. But when someone close to Sherry ends up dead, and her cat, Lord Thomas Crowell, becomes possessed by what seems to be an ancient demon, Sherry begins to think she’s going to need to become an exorcist as well as an amateur sleuth. With the help of her town's new priest, and an assortment of friends who dub themselves the "Demon-Hunting Society," Sherry will have to solve the murder and get rid of a demon. This riotous mix of Buffy the Vampire Slayer and Murder, She Wrote is a lesson for demons and murderers.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Sherry Pinkwhistle, a 63-year-old librarian in Winesap, NY, stumbles into the role of an amateur detective after her friend, Alan Thompson, is murdered. Supported by friends such as Father Barry and Charlotte, Sherry delves into the investigation, uncovering layers of familial secrets, criminal conspiracies, and supernatural disturbances haunting the town. As Alan’s murder investigation unfolds, the plot intertwines his complex relationships with suspicions of drug trafficking and art forgery connected to his son Corey, Todd (Father Barry’s brother), and an antique dealer named Mike Kaminski.
+Through meticulous deduction, Sherry orchestrates a climactic reveal, identifying Alice Murdock as the unwitting murderer. Desperate to avert losing her custody of her child, Alice's actions accidently led to Alan’s death. However, a larger narrative at play reveals a demon has influenced events for its own amusement, ensnaring Winesap’s inhabitants in surreal scenarios while shielding reality's true brutality. Sherry combats the demonic influence, realizing her role in its orchestrated plot yet uncovering her inner strengths and moral convictions.
+In the epilogue, Sherry faces the demon, piercing it with a self-sacrificial act, which expels the manipulative entity and restores normalcy to Winesap. Sheriff Brown presents a fabricated narrative about hallucinations from tainted produce, explaining away recent disturbances and heralding the village’s return to simplicity. Sherry continues rebuilding her everyday life, nurtured by her tight-knit friend circle.
+Lastly, reconnecting with Caroline, her old best friend implicated in past events, Sherry zeroes in on Caroline’s hidden location in Central America. Through her strategic findings, Sherry discretely aids authorities in advancing toward justice. Released from previous burdens, Sherry enjoys newfound freedom, symbolized by a whimsical venture with friends and acknowledging her self-forgiveness.
+As she embraces peace, a familiar excitement rekindles when she receives a request regarding a vampire problem in Louisiana. Though inexperienced with vampire lore, Sherry’s determination in unraveling supernatural mysteries stirs afresh, hinting at impending adventures. Thus, Sherry emerges as a seasoned problem solver, masterfully entwined with the town’s fate and beyond, ready to face new challenges.
+
+### Character Analysis:
+**Sherry Pinkwhistle:**
+- **Profile:** Protagonist; a librarian whose keen intuition leads her into a web of mysteries and supernatural incidents in Winesap.
+- **Overall Experience:** Grows from a reserved librarian into a resilient investigator. Transforming her guilt into empowerment, she learns to balance everyday life with her role as a solver of mysteries.
+
+**Father Barry:**
+- **Profile:** Supportive priest, offering friendship and stability to Sherry.
+- **Overall Experience:** Remains a dependable ally and voice of reason amidst supernatural chaos, contributing to Sherry's growth.
+
+**Sheriff Brown:**
+- **Profile:** Skeptical yet competent sheriff navigating Winesap’s tangled web of crime and mystery.
+- **Overall Experience:** Walks a fine line between traditional policing and innovative mystery-solving, appreciating Sherry's role.
+
+**Charlotte:**
+- **Profile:** Artistic and supportive friend to Sherry, connected to broader mystical networks.
+- **Overall Experience:** A loyal friend and connector, aiding Sherry's present healing and hinting at future mysteries.
+
+**Lord Thomas:**
+- **Profile:** Mystical presence manifesting through Sherry's cat; humorously self-reflexive.
+- **Overall Experience:** Represents mystical elements intrinsic to Sherry's journey.
+
+**Caroline:**
+- **Profile:** Sherry's elusive old friend, connected with past crimes and intrigue.
+- **Overall Experience:** Triggers significant plot events, symbolizing Sherry’s tangled past and personal growth toward a resolved future.
+
+### Excerpt (Demonstrating Writing and Language):
+Sherry Pinkwhistle woke up to the deep silence of snowfall, cozily ensconced in the warmth of her bed and the knowledge that she had just solved another murder.
+She’d woken up five minutes before her alarm—it was 6:55—and she wanted to stay in bed for a while longer than she usually would, just for the sake of luxuriating a little. A treat. A thank-you to herself for a job well done. It was no good, though: Lord Thomas Cromwell came into the room at exactly two minutes past seven and started shouting for his breakfast, and there was nothing for Sherry to do but get up, push her toes into her warm slippers, and start her day.
+Sherry didn’t like to think of herself as a dull person, but she did like to stick to her morning routine. Lord Thomas Cromwell had his breakfast—a half can of salmon-flavored wet food: he was on a strict vet-ordered diet (Sherry was as regimented about Lord Thomas Cromwell’s health and fitness as she was lax about her own)—before she started the coffee. While the coffee was brewing, she went out to fetch the paper. Then she made her egg (soft-boiled) and her toast (with lots of butter) and poured herself a cup of coffee before sitting down at the kitchen table next to the window to have her breakfast.
+While she ate, she read the paper and watched the snow fall onto the pine trees in the woods past the garden, with Lord Cromwell curled up comfortably in her lap and purring with all his fat, warm strength. It was an early April morning to meet expectations, with the boldest crocuses sitting up straight to spit in the eyes of the snowflakes. In just another few weeks she would be able to start working in her garden again. A few months after that there would be sunflowers, and the deep-green smell of tomato vines, and she’d sit at the kitchen table in the evenings working on new little houses for the fairy garden that she’d started building two summers ago. Maybe she’d add in some toadstools. When she was a little girl, she’d spent a lot of time hoping to spot a fairy in the inhospitable environment of her suburban backyard. After she’d grown up and gotten married, her husband had always rolled his eyes at her being whimsical. Now she was getting old, and she lived alone, and she could have all the toadstools that she liked.
+Sometimes, when she was working on her fairy garden, she would think of her best friend. They had had their fairies-and-witches phase together and had tried to make potions out of dirt and berries they’d found in parks and carved magic wands out of twigs long after they both should have grown out of it. Neither of them had ever really grown out of it. Or maybe Caroline had, by now. Sherry hadn’t spoken to her in years.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

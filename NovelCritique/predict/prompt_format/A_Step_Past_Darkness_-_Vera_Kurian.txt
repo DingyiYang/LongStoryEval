@@ -1,0 +1,72 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: A Step Past Darkness
+
+### Genres: Thriller, Mystery, Mystery Thriller
+
+### Premise:
+There’s something sinister under the surface of the idyllic, suburban town of Wesley Falls, and it’s not just the abandoned coal mine that lies beneath it. The summer of 1995 kicks off with a party in the mine where six high school students witness a horrifying crime that changes the course of their lives.
+The six couldn’t be more different.
+• Maddy, a devout member of the local megachurch
+• Kelly, the bookworm next door
+• James, a cynical burnout
+• Casey, a loveable football player
+• Padma, the shy straight-A student
+• Jia, who’s starting to see visions she can’t explain
+When they realize that they can’t trust anyone but each other, they begin to investigate what happened on their own. As tensions escalate in town to a breaking point, the six make a vow of silence, bury all their evidence, and promise to never contact each other again. Their plan works – almost.
+Twenty years later, Jia calls them all back to Wesley Falls—Maddy has been murdered, and they are the only ones who can uncover why. But to end things, they have to return to the mine one last time.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+In "Wesley Falls," the Capstone Six—Jia, Maddy, James, Kelly, Casey, and Padma—band together to dismantle the oppressive influence of Golden Praise Church. Propelled by Maddy Wesley's mysterious death, they unearth the sinister history of the church, a cycle of sacrifices, and the pastor's supernatural resurrection practices. As they navigate these dark secrets, Jia's psychic visions guide them deeper, while their camaraderie is tested and ultimately strengthened. The group’s exploration reveals hidden corridors within a mine, tied to the church’s rituals. A plan unfolds to end the pastor's cycle using Padma's bomb, devised to destroy him and his mystical chalice. Relationships evolve amid high tensions, with Kelly acknowledging her affection for James.
+Their final showdown involves intricately planned strategy and deception. Jia uses her psychic insights to psychologically maneuver Pastor Preiss into the mine. In an unexpected twist, the pastor falls prey to their trap, leading to a successful detonation that ends his cycle for good. Jia emerges scathed but alive, carried by her friends to safety. The group reflects on their shared journey and newfound resolve as they leave the mine. With the church’s influence waning and law enforcement closing in on their mounting crimes, the community begins to experience the consequences of its long-hidden practices.
+The narrative concludes with the Capstone Five confronting the aftermath. As they regroup at a lake, they savor moments of joy and reminisce about Maddy. They consider their separate paths forward, cementing plans for future reunions. Jia envisions brighter fates for each of them, signifying growth and new beginnings. Meanwhile, the true extent of their victory becomes slowly apparent as external forces, including a diligent IRS agent, begin to dismantle the church's financial and structural remnants. The latent fire beneath Wesley Falls, symbolizing the town's eroded foundations, begins consuming what remains of Golden Praise. With the ruins of the church and community literally and metaphorically burning, the town and its occupants face an uncertain yet liberated future. The transformative journey for the Capstone Five reveals their inner strength and bonds, ensuring that Wesley Falls becomes just another place in the world without its shadowy past.
+
+### Character Analysis:
+**Jia:**
+- **Profile:** Psychic leader, intent on putting an end to the church's nefarious legacy. Strategic and empathetic, often seeing beyond the immediate.
+- **Overall Experience:** Grows into a resilient leader who achieves closure, ending the dark cycle and envisioning a positive future for herself and her friends.
+
+**James:**
+- **Profile:** Creative and considerate, navigating personal and group challenges stemming from the church's malevolent influence.
+- **Overall Experience:** Transforms personal trauma into resilience. Reignites his relationship with Kelly, symbolizing emotional growth and new opportunities.
+
+**Kelly:**
+- **Profile:** Emotional anchor of the group, deeply connected with James. Offers strength and stability amid turmoil.
+- **Overall Experience:** Evolves into an emotionally mature and supportive figure, embracing her role as a cornerstone amid the group's trials.
+
+**Casey:**
+- **Profile:** Loyal and insightful, committed to justice and truth. Offers physical support and humor amid trials.
+- **Overall Experience:** Essential in the group's resilience and final victory. Embodies steadfastness in friendship and justice.
+
+**Padma:**
+- **Profile:** Analytical and intellectual, providing critical strategy and logic during the group's ordeal.
+- **Overall Experience:** A voice of reason throughout, pivotal in guiding the group's strategic breakthrough against the church.
+
+**Pastor Preiss:**
+- **Profile:** The enigmatic antagonist, embodying the church's dark and supernatural essence.
+- **Overall Experience:** Represents the culmination of evil influence, whose downfall liberates the town and the protagonists.
+
+### Excerpt (Demonstrating Writing and Language):
+August 17, 2015
+The mountain had existed long before there had been anyone around to name it, pushed up by the inevitable forces that made the Appalachian Range millions of years ago. Hulking, it stood with a peculiar formation at its apex, two peaks like a pair of horns, giving the mountain its eventual name of Devil’s Peak. The coal mine inside was abandoned long ago.
+On the southern side of Devil’s Peak was the town of Wesley Falls, where there were no remnants of the mine except for the overgrown paths crisscrossing up to two entrances, ineffectually boarded up, partially hidden but available to anyone looking hard enough. Down the western side were the steeper paths, far more overgrown with vegetation, leading down to the abandoned town of Evansville. That side of the mountain and beyond grew strange because of the coal fire that had been burning underground for almost a century. The Bureau of Mines had managed to contain the fire to the western side of the mountain so that only Evansville suffered. Only Evansville had bouts of noxious gases, open cracks of brimstone in the roads, residents complaining of hot basements and well water. Over time they left town, leaving behind a ghost.
+Unlike its unfortunate neighbor, Wesley Falls had avoided the mine fire and transitioned from a coal-mining town to something not unlike Pennsylvania suburbia. It was the sort of town where one of the billboards outside the Golden Praise megachurch proclaimed, “Wesley Falls: the BEST place to raise a family!” and most adults agreed with that assessment. The sort of place where the city council had voted against a bid to allow a McDonalds to open, arguing that it would “lead to the deterioration of the character of Wesley Falls.” This had less to do with concerns about childhood obesity or dense traffic than it did a desire to keep the town trapped in amber. The sort of town where the sheriff was the son of the previous sheriff.
+Jia Kwon, stepping off a train at the station some miles away from Wesley Falls, looked around the crowded station for that son—the sheriff—now in his thirties, though she had trouble picturing this. Sheriff Zachary Springsteen had an air of formality that she couldn’t match up with the image of the boy she knew from high school, whom everyone called Blub. He was an inoffensive, nondescript kid who delivered papers via his clackety bike, who then grew to be the generic teen who stood in the back row of yearbook pictures. She had always been friendly with him, but never quite friends, starting from when she had transferred from St. Francis to the Wesley Falls public school system and Blub sat next to her in homeroom.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

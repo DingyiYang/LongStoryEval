@@ -1,0 +1,84 @@
+Below is a segment from a book-length story:
+
+---
+
+{Beginning}
+
+---
+
+Below is the metadata and the summary up until this point:
+
+---
+
+### Title: {Title}
+
+### Genres: {Genre}
+
+### Premise: 
+{Premise}
+
+### Plot Summary:
+{Sum}
+
+---
+
+Please evaluate this segment based on the criteria listed below.
+
+For each aspect below, provide:
+- **Review:** A review of the current segment, considering the new content and the previous plot.
+- **Score:** A score from 0 (worst) to 100 (excellent) reflecting the quality in this aspect.
+
+
+### 1. Plot and Structure: 
+- **Review:** {}
+- **Score:** X
+
+**Guidelines:** Evaluate the plot development by examining pace, twists, conflicts, and their resolutions. Evaluate the plot structure for coherence, logic, and complexity, paying attention to key elements like climax and closure.
+
+### 2. Characters: 
+- **Review:** {}
+- **Score:** X
+
+**Guidelines:** Evaluate the character development, characterization (including realism, appeal, and relatability), relationships, and diversity.
+
+### 3. Writing and Language: 
+- **Review:** {}
+- **Score:** X
+
+**Guidelines:** Evaluate the writing style's ability to engage and captivate readers. Assess language quality by examining descriptions and dialogue. Measure the clarity and readability.
+
+### 4. World-Building and Setting: 
+- **Review:** {}
+- **Score:** X
+
+**Guidelines:** Evaluate the world-building and setting by assessing how detailed and well-described they are. Consider their authenticity, accuracy, or realism.
+
+### 5. Themes: 
+- **Review:** {}
+- **Score:** X
+
+**Guidelines:** Evaluate how well the themes are explored and assess their depth.
+
+### 6. Emotional Impact: 
+- **Review:** {}
+- **Score:** X
+
+**Guidelines:** Evaluate the segment's ability to evoke strong and deep emotional impact.
+
+### 7. Enjoyment and Engagement: 
+- **Review:** {}
+- **Score:** X
+
+**Guidelines:** Evaluate how enjoyable and engaging the segment is for readers.
+
+### 8. Expectation Fulfillment: 
+- **Review:** {}
+- **Score:** X
+
+**Guidelines:** Evaluate how effectively the segment meets the readers' expectations based on the premise and genres.
+
+### Conclusion:
+- **Overall Assessment:** {Conclude with an overall assessment, summarizing key insights.}
+- **Overall Score:** X
+
+---

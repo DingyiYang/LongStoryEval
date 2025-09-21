@@ -1,0 +1,70 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Floating Hotel
+
+### Genres: Science Fiction, Mystery, Fantasy
+
+### Premise:
+Welcome to the Grand Abeona Hotel: home of the finest food, the sweetest service, and the very best views the galaxy has to offer. All year round it moves from planet to planet, system to system, pampering guests across the furthest reaches of the milky way. The last word in sub-orbital luxury—and an absolute magnet for intrigue. Intrigues such as: Why are there love poems in the lobby inbox? How many Imperial spies are currently on board? What is the true purpose of the Problem Solver's conference? And perhaps most pertinently—
+who is driving the ship?
+ 
+Each guest has a secret, every member of staff a universe unto themselves. At the center of these interweaving lives and interlocking mysteries stands Carl, one time stowaway, longtime manager, devoted caretaker to the hotel. It's the love of his life and the only place he's ever called home. But as forces beyond Carl's comprehension converge on the Abeona, he has to face one final question: when is it time to let go?
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+The Grand Abeona Hotel, a luxurious spaceship, hosts an intricate web of characters who navigate hidden motives and personal quests. Angoulême, a blind pianist haunted by the past, revisits memories of her friend Renée and improves her relationship with Jean, a figure linked to tragic events from her past. Adapting to blindness with technology, Angoulême bonds with Uwade, the concierge, leading to a collaborative musical performance. Her music helps Jean escape imperial agents, closing a chapter of her complicated history.
+In a parallel narrative, Sasha, a master thief known as the Ghost of Conomi, operates under the alias Lucia Vera, executing heists aided by Nina, the hotel manager. Sasha’s relationship with Lieutenant Boric evolves from adversaries to comrades disillusioned with the Empire’s ethics.
+Ephraim, the Abeona’s Head Roomkeeper, battles trauma and suspicions of murder within the hotel, while grappling with guest Claire Appleseed's possible involvement in anti-Empire activities. Flora Belle, a commanding Commissioner, strives to maintain order and curtail Claire’s influence amidst these conspiracies.
+Carl, the hotel manager, wrestles with doubts as the hotel’s legacy tied to Nina Windrose presses upon him. Under pressure to appoint a successor from Flora Belle, Carl addresses internal conflict and external threats, culminating in a dire decision to sacrifice the Abeona due to tangled emotional ties and Kipple's treachery, leading to a significant departure from the jurisdiction of the Empire towards Andromeda.
+Meanwhile, Rogan, a lifeguard with an outlaw past, and her friend Daphne, explore hidden layers of the ship, uncovering Nina's secret operations. Ooly Mall and Professor Azad decode an alien signal, though initially dismissed, it becomes crucial to Carl's hope of revitalizing the Abeona with alien life.
+In the wake of the Abeona's evacuation, Carl navigates emotional farewells and assures the safety of everyone. Letters from Kipple reveal regret and love for Carl, expressing disdain for a life ruled by spite. Eventually, Carl emerges on firm ground after confronting his past decisions, adjusting to everyday life beyond the luxurious confines of the Abeona. In the end, the ship makes its own journey to the unknown reaches of space as a symbol of true freedom.
+
+### Character Analysis:
+**Carl:**
+- **Profile:** Hotel manager linked to Nina’s legacy, compassionate, burdened with responsibility.
+- **Overall Experience:** Evolves from a hotel overseer struggling with self-doubt to someone reaffirming his purpose beyond past ties, culminating in orchestrating a path for the Abeona toward a symbolic and literal new beginning.
+
+**Mataz:**
+- **Profile:** Assistant manager to Carl, loyal but skeptical.
+- **Overall Experience:** Provides crucial support, embodies the workforce's fear and loyalty during tumultuous times.
+
+**Sasha (Lucia Vera):**
+- **Profile:** Master thief known as the Ghost of Conomi, with complex relations.
+- **Overall Experience:** Evolves from an adept thief into a supportive ally amid shifting alliances.
+
+**Mr. Corinth:**
+- **Profile:** Mysterious figure with a hidden agenda.
+- **Overall Experience:** Represents external danger and internal threats tied to the struggles against the Empire.
+
+**Kipple Pittsburgh:**
+- **Profile:** Accountant with significant hidden motives and past betrayal.
+- **Overall Experience:** Transition from being a spiteful traitor to confessing love, causing a pivotal change in the story’s dynamics.
+
+**Uwade:**
+- **Profile:** Concierge, musically inclined, friend to Angoulême.
+- **Overall Experience:** Brightens the shared experience of music and chaos aboard the Abeona, supporting Carl and Angoulême.
+
+### Excerpt (Demonstrating Writing and Language):
+was twelve years old the first time he laid eyes on the Grand Abeona Hotel. It was ghostly as a daytime moon, hovering low between columns of twisting, griddled rock, above a crevasse darkly spiderwebbed with cables and crawlers and great nodding anvils. He took it at first for an apparition, because it looked so much like those patches of shimmering air that appeared sometimes in his vision after he’d been punched. And he had been punched—twice, in fact, against the side of the face, because the first one hadn’t knocked him down. Once the dealer of the punch had slunk away in search of other victims, Carl crawled out to the back steps and pressed his temple against the cool metal railing, watching the stars spin around. Whenever he moved his pupils, the aberrations would move as well, so that he could never look at them dead on. But the Abeona stayed; she did not shift away from his gaze. That was how Carl knew that what he saw was real.
+Once he realized that, he remembered that there’d been stories going around about some ritzy hotel ship coming into orbit, a divine visitation from the inner systems, there to prey upon the scant handful of genuine tycoons who lived in (and owned) the planet’s single city. He had heard these rumors and thought that they were probably true. But part of him still had not believed. Not until he saw the Abeona floating there.
+Hoxxes was an imperial mining colony, an unhappy place that looked from orbit like a pumice stone, populated by displaced people whose brief lives were made bearable with substances that shortened them. Many dwelled there but nobody was really at home. In a few decades the whole planet would be unlivable, harvested by its occupants into a poisonous oblivion. Things had been easier in Carl’s grandparents’ time. But as the Emperor grew older his paranoia swelled, and the pace of production swelled with it, and the churn of war swallowed cheap material faster than the soil could provide.
+Things, never good, were getting steadily worse.
+As grim as life was on Hoxxes, Carl’s decision to leave was mostly about his family—though the less said of them, the better.
+Afterward, when people asked why he’d run away to join the hotel, Carl would shrug and say, with the muted smile that became his trademark: “It was love at first sight.”
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

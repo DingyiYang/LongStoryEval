@@ -1,0 +1,83 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Ghost Station
+
+### Genres: Horror, Science Fiction, Thriller
+
+### Premise:
+Space exploration can be lonely and isolating.
+Psychologist Dr. Ophelia Bray has dedicated her life to the study and prevention of ERS—a space-based condition most famous for a case that resulted in the brutal murders of twenty-nine people. When she's assigned to a small exploration crew, she's eager to make a difference. But as they begin to establish residency on an abandoned planet, it becomes clear that crew is hiding something.
+While Ophelia focuses on her new role, her crewmates are far more interested in investigating the eerie, ancient planet and unraveling the mystery behind the previous colonizer's hasty departure than opening up to her.
+That is, until their pilot is discovered gruesomely murdered. Is this Ophelia’s worst nightmare starting—a wave of violence and mental deterioration from ERS? Or is it something more sinister?
+Terrified that history will repeat itself, Ophelia and the crew must work together to figure out what’s happening. But trust is hard to come by... and the crew isn’t the only one keeping secrets.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+In 2199, Dr. Ophelia Bray joins a mission to Lyria 393-C as a psychologist responsible for the crew’s mental health. The mission soon spirals into chaos as alien forces threaten the team. Ophelia, haunted by her abusive family legacy, must balance her professional role with her internal struggles. An unknown contagion begins to spread, leading to suspicion and fear. Under Mission Commander Ethan Severin, the team fights to maintain unity. Suspicion of a corporate conspiracy surfaces when black particles resembling alien technology are found.
+As the contagion's symptoms worsen, the crew heads toward ominous alien towers. Ophelia battles alien influences on her mind, confronting her inner demons and leaving behind her friend Liana to save the crew. After a tense return to their base, the psychological weight of Ophelia’s father manifests, challenging her to find self-trust.
+The situation intensifies when Kate turns distrustful and conflicts arise, culminating in a confrontation where Ophelia sedates Kate after she shoots Ethan. Despite the danger, Ophelia ensures Kate’s preservation, managing to detach herself from her father’s violent legacy and choosing her own path. Ethan continues to guide the group with compassion, seeking coordination amidst escalating threats.
+Finally, Ophelia seizes control, leading the crew out of Lyria 393-C’s atmosphere, determined to save them without subjugating to alien influences or her family's legacy. Back on Resilience, the crew faces the future implications of their infection and the artifacts they carry. Their only option is cold sleep while Ophelia sends a message to her mother, using Pinnacle’s underhanded tactics against them, set with a contingency to leverage power back on Earth.
+Upon awakening eleven years later, Ophelia finds that the message sent had significant impacts—her sister Dulcie informs her that it led to Pinnacle’s leadership shake-up. Although the alien threat is neutralized, Ophelia realizes this situation will likely be exploited somehow. With Ethan by her side, Ophelia emerges, ready to assert her own agency in whatever battles lie ahead.
+
+### Character Analysis:
+
+**Ophelia Bray:**
+- **Profile:** Protagonist and mission psychologist, entwined in family legacy issues and tasked with managing the crew’s mental health.
+- **Overall Experience:** Ophelia’s journey is defined by resilience against external threats and internal shadows, leading to her growth as she rejects cycles of violence and control, shaping her own identity amid turmoil.
+
+**Ethan Severin:**
+- **Profile:** Mission Commander dedicated to team safety and unity.
+- **Overall Experience:** A compassionate figure navigating ethical dilemmas, Ethan’s leadership and integrity foster unity, crucial in the face of external and internal challenges.
+
+**Kate:**
+- **Profile:** Tactical crew member with strong survival instincts, affected by dangers and distrust within the team.
+- **Overall Experience:** Once a logical force, Kate’s story veers sharply due to dangerous situations and mistrust, forcing critical decisions impacting team dynamics.
+
+**Suresh:**
+- **Profile:** Contentious, animated crew member stirring team tensions.
+- **Overall Experience:** Suresh’s impulsiveness and challenges with authority morph into an understanding of teamwork and consequence under duress.
+
+**Dulcie:**
+- **Profile:** Ophelia’s younger sister, now older due to an eleven-year time gap, playing a key role in easing Ophelia’s return from cold sleep.
+- **Overall Experience:** Emerging mature, Dulcie contrasts Ophelia’s journey with familial support, her presence highlighting time's passage and its impact on family ties.
+
+### Excerpt (Demonstrating Writing and Language):
+Nova Cold Sleep Solutions–Personnel Division
+New Chicago
+Earth, 2199
+The protesters outside are getting louder. Their chants are still faint, but somehow clearer than before. Or maybe that’s just Ophelia’s guilty conscience.
+Their favorite seems to be “Montrose blows!” which does offer a certain pithiness, especially with the rhyming element. But there are plenty shouting “Fuck the Brays!” A perennial classic, though not usually directed at her personally.
+But she certainly deserves it this time.
+Ophelia flinches.
+“Hold still, please,” the young tech says politely. He readjusts his gloved hold on her wrist and then slides the needle into the still healing port on the back of her hand.
+“Sorry.” She tries to smile at him, pulling the crisp edges of the disposable gown tighter against herself with her free hand. She’s naked beneath the gown on the mobile exam bed, and the cold air blowing down on her exposed neck is about to set her teeth chattering.
+It’s fine, though. She’s about to be much, much colder.
+“All right,” the tech says a moment later, releasing her hand and peeling off his gloves with a snap. “Let’s give that a few minutes to kick in. I’ll be right back.”
+The digital name badge on his lab coat flashes “RAYON. CALL ME RAY!” with a smiley face. But Ray doesn’t meet her gaze as he pushes back on his rolling stool and then stands to exit the tiny prep room.
+Shame floods through her, and she squeezes her eyes shut with a selfish prayer.
+Please, please let this work. I need this to work.
+In the silence of the prep room, broken only by those chants and the clatter of metal wheels somewhere down the hall, her QuickQ interface gives a friendly bloop sound.
+Relieved at the prospect of a distraction, possibly in the form of her younger sister calling, Ophelia opens her eyes.
+But it’s her uncle’s face that appears on the blue-framed interface in her right eye, as if summoned by the scent of her desperation.
+Fuck. Ophelia’s heart sinks. Good old Uncle Dar, coming in for the kill.
+Her privacy settings allow her to see Darwin but not the reverse, a small blessing. His artfully silver-streaked hair rises above his preternaturally smooth forehead in a perfect peak. He is the image of the dashing, handsome CEO of a wealthy, multigenerational company, one who lands his air-veh to play an “impromptu” game of pickup with a group of Miami refugees from the encampment in Grant Park.
+Until he opens his mouth.
+“I know you can hear me, you little bitch,” he says through his affable smile. “I’ve tried to be reasonable.”
+No, he tried to pull strings with her employer, which, surprisingly, hadn’t worked. Probably only because her family’s company and her employer are fierce competitors with a lot of hard feelings, not inclined to grant each other favors. Blackmail, espionage, rumors about hard-core kink preferences among senior executives. And that was just what she knew about.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

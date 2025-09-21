@@ -1,0 +1,70 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: The Wren in the Holly Library
+
+### Genres: Fantasy, Romance, Romantasy
+
+### Premise:
+Street thief Kierse should have known something wasn’t right. Now she’s trapped in a library — with a monster. She can’t run. She can’t hide. And this man – this being, filled with terrible power and darkness — is well within his rights to kill her. 
+By trespassing, Kierse has broken the fragile peace treaty between monsters and humans. But instead of killing her, Graves does the unexpected: he offers her a job. A chance to find out who she really is. 
+Kierse has always known she’s different. That she can do things a little better, a little faster. And there’s that sense she has when danger is only a breath away. But if the old tales are true, there are worse things in the world than monsters. 
+Like a threat more ancient than legend. Like Graves. Or like Kierse herself . . .
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+In a mystical New York City, Kierse, a gifted thief with the ability to nullify spells, partners with Graves, an enigmatic warlock and the Holly King, to maintain the magical balance. Their journey unfolds as they attempt to acquire the Spear of Lugh from the Men of Valor during a Winter Solstice Gala, amidst personal and supernatural challenges. As she trains with Graves, Kierse grapples with her past, including her enslavement by King Louis and her complex relationships, deepening her connection with Graves.
+The mission leads them into a high-stakes infiltration of King Louis's party, where they aim to rescue Kierse's ex-girlfriend, Torra, and secure the spear. Tension mounts as King Louis seeks to exploit Kierse’s blood for invincibility. Utilizing the Spear, Kierse manages to fulfill her promise to Torra, leading to an intense escape illuminated by a revelation of Kierse's prophesied role.
+Their escape uncovers additional layers, introducing Lorcan Flynn, the Druid leader and Oak King, who is interested in the magical artifacts, including Kierse’s spear. A confrontation reveals Kierse's Fae heritage, adding complexity to her relationship with Graves. Power struggles and shifting allegiances culminate in a magical explosion following Lorcan's attempted ascendance. As Kierse is overwhelmed by god magic, her allies, Graves, Gen, and Ethan, aid her in transferring the magic’s burden—a feat that strains but ultimately strengthens their bond.
+In the decision for self-discovery, Kierse chooses to leave New York, urged by the need for knowledge of her identity, planning to visit Dublin’s Goblin Market. Despite Graves proposing she stay, Kierse is resolute in her quest, yet hopeful of returning one day. As she departs with Gen, the story shifts back to Graves.
+Alone in the aftermath of their separation, Graves reflects on his life without Kierse and the unresolved nature of his quest to complete a powerful spell requiring four magical artifacts. He contends with the disappointment of losing the objects during their conflict with Lorcan, along with Kierse’s departure, leaving him emotionally adrift yet resolute. 
+During a bout of frustration, Graves receives a call from Laz, an old contact, who provides a promising lead on the cauldron—another of the artifacts he requires. Realizing the task's complexity, Graves acknowledges the need to enlist Kierse's unique skills once more, setting a new course in their intertwined paths.
+
+### Character Analysis:
+**Kierse:**
+- **Profile:** Protagonist; a skilled thief with spell-nullifying abilities and a profound Fae heritage.
+- **Overall Experience:** Evolves from a resourceful survivor to a pivotal force against supernatural foes, driven by personal growth and complex alliances, seeking self-discovery beyond New York.
+
+**Graves:**
+- **Profile:** Enigmatic warlock and Holly King; deeply connected to Kierse through prophecy and shared history.
+- **Overall Experience:** Combines immense magical power with emotional depth, negotiating between personal desires and greater responsibilities, particularly his connection with Kierse.
+
+**Lorcan Flynn:**
+- **Profile:** The Oak King; antagonist with familial ties to Kierse and vested interests in magical artifacts.
+- **Overall Experience:** Emerges as a highly complex adversary, entangled in deep magical and personal conflicts, his motives driven by both legacy and connection to Kierse.
+
+**Gen:**
+- **Profile:** Kierse's friend and integral member of the magical triskel.
+- **Overall Experience:** Represents emotional stability and support in Kierse’s journey, evolving with newfound roles in the magical narrative.
+
+**Ethan:**
+- **Profile:** Kierse’s friend, involved in the magical triskel.
+- **Overall Experience:** Embodies the familial ties and new paths within the magical landscape, intersecting with significant figures such as Lorcan.
+
+### Excerpt (Demonstrating Writing and Language):
+It’s now or never.
+Kierse crouched low, pressing her back against the stone in the shadows.
+Across the street was the largest Upper West Side brownstone she had ever seen. Every detail looked original to the Victorian house, from the wrought iron banisters to the holly bushes lining the walk and clinging to upstairs balconies. Even the intricate door knocker and the bronze sconces looked original.
+Kierse slowed her breathing and crossed through the slushy brown mess that was New York City after a snowfall. Fresh powder was coming down again, and she obscured her footprints before peering through the first-floor window into an enormous shadowed study. Nothing was out of place—as if it were staged. Only a sliver of light bloomed through the crack under the door.
+Her job was simple: steal a diamond ring, get paid.
+“Please try to be careful,” Ethan’s voice said into her earpiece, which attached to the radio at her hip. A cell phone would have been better, but she’d never been able to afford one.
+A smile hit Kierse’s features. “I’m always careful.”
+“Since when?”
+Never. She glanced up to Ethan on the neighboring rooftop where her lookout had binoculars trained on her. She gave him a double-finger salute and got to work. She whipped out a set of tools, flicked the lock on the window, and slid it up soundlessly. She’d investigated the nonexistent security system on one of her first reconnaissance missions, and she still didn’t understand how no alarms were present and nothing tripped. She checked her surroundings, then slipped into the study, closing the window behind her.
+This was the part she had programmed in her mind. After constructing a mock interior layout of the house, she’d run through her plan again and again. She was prepared, but she’d broken into enough places to know that nothing ever went exactly to plan. Her benefactor, Gregory Amberdash, had given her all the information he had, which admittedly wasn’t much. The ring was kept in a locked box in the library. A library seemed an unusual place to keep a ring with a diamond the size of a robin’s egg. But what did she know about rich people? This guy didn’t even have a security system. A library probably made perfect sense to him.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

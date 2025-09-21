@@ -1,0 +1,78 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: If Something Happens to Me
+
+### Genres: Thriller, Mystery, Mystery Thriller
+
+### Premise:
+For the past five years, Ryan Richardson has relived that terrible night. The car door ripping open. The crushing blow to the head. The hands yanking him from the vehicle. His girlfriend Ali’s piercing scream as she is taken.
+With no trace of Ali or the car, a cloud of suspicion hangs over Ryan. But with no proof and a good lawyer, he’s never charged, though that doesn’t matter to the podcasters and internet trolls. Now, Ryan has changed his last name, and entered law school. He's put his past behind him.
+Until, on a summer trip abroad to Italy with his law-school classmates, Ryan gets a call from his father: Ali's car has finally been found, submerged in a lake in his hometown. Inside are two dead men and a cryptic note with five words written on the envelope in Ali’s handwriting: If something happens to me...
+Then, halfway around the world, the unthinkable happens: Ryan sees the man who has haunted his dreams since that night.
+As Ryan races from the rolling hills of Tuscany, to a rural village in the UK, to the glittering streets of Paris in search of the truth, he has no idea that his salvation may lie with a young sheriff’s deputy in Kansas working her first case, and a mobster in Philadelphia who’s experienced tragedy of his own.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+The story unfolds around Michael Harper and his daughter, Alison Lane, who now lives under the alias Sophia Rosseau. Fleeing Shane O'Leary’s crime syndicate in France due to Michael's embezzlement, they find refuge in Kansas with Deputy Sheriff Poppy McGee. Poppy, freshly appointed as the town's young sheriff, navigates a web of corruption linked to the syndicate and the disappearance of her father. Her investigation exposes a compromised WITSEC program, entrapping Alison and Michael once protected. Meanwhile, Ryan Richardson, a law student rekindling his connection with Alison, becomes embroiled in the case, motivated by love and guilt. In Kansas, Michael confronts Shane, sacrificing himself for Alison's safety. This leads to the demise of the O'Learys, thrusting their syndicate into disarray. Poppy uncovers the corrupt FBI agent Fincher’s betrayal and orchestrates his arrest. Chaz Donnelly, initially an antagonist, aids Poppy and Ryan, ultimately dying in a confrontation, thus closing his chapter while leaving lingering uncertainty about his allegiance. Alison, having taken measures to safeguard herself emotionally and physically, steps away to embrace a new identity. She opens an art gallery in Montmartre as Sophia, seeking self-discovery and redemption. In parallel, Ryan remains in D.C. but evolves, pivoting to a role that aligns with his aspirations and moral compass. As the narrative closes, it marks an end to the O’Leary threat, allowing the characters to look toward hopeful, albeit uncertain, futures.
+
+### Character Analysis:
+**Poppy McGee:**
+- **Profile:** Newly appointed sheriff known for her determination and familial loyalty.
+- **Overall Experience:** Shows growth from deputy to sheriff, embodying resilience and withstanding the corruption she combats.
+
+**Ryan Richardson:**
+- **Profile:** Law student driven by his past with Alison and moral callings.
+- **Overall Experience:** Transitions from uncertainty and guilt to a more aligned sense of purpose, driven by his ideals and connection to Alison.
+
+**Alison Lane/Sophia Rosseau:**
+- **Profile:** Michael’s daughter, entangled in danger due to her father’s past.
+- **Overall Experience:** Evolves from a life on the run to establishing her independence and identity, overcoming emotional burdens.
+
+**Michael Harper:**
+- **Profile:** Ex-accountant protecting his daughter from their past, ultimately sacrificing himself.
+- **Overall Experience:** Displays unwavering dedication to his daughter’s safety, choosing noble sacrifice over personal survival.
+
+**Nora Watanabe:**
+- **Profile:** Law journal’s new editor in chief, characterized by ambition and modesty.
+- **Overall Experience:** Balances professional aspirations with personal connections, aiming for transformative future goals.
+
+**Dash McGee:**
+- **Profile:** Poppy’s playful, supportive brother, possessing charm and humor.
+- **Overall Experience:** Acts as a steadfast family anchor, supporting Poppy through personal and familial endeavors.
+
+### Excerpt (Demonstrating Writing and Language):
+LEAVENWORTH, KANSAS
+“We don’t have to…” Ryan says in a whisper.
+Alison doesn’t reply as she drives her father’s pristine BMW sedan down the dirt road, rocks kicking under the tires. She just gives Ryan a half smile and pulls into a secluded opening in the trees that the kids call Lovers’ Lane in some ironic tribute to teenage make-out spots in old horror movies.
+She kills the headlights and they sit there in the dark, the only sound a rumble of thunder in the distance and the chirp of crickets.
+Without a word, she reaches to the back seat and grabs the rucksack. It undoubtedly will have a blanket, bug spray … condoms.
+Ryan follows her outside to their favorite spot under a large oak tree, the same place where they had their first kiss freshman year, which seems like a lifetime ago—a fog of prom and homecoming dances, football and basketball games, SAT prep courses and college applications. Ali shakes out the blanket and spreads it on the grass. It’s one of those summer nights filled with humidity and hope.
+Ryan feels a tiny tremble in his hands, no, in his whole body. He’s been waiting for this night—aching for this night—for so long. Yet somehow he’s reluctant, weirdly hesitant.
+That disappears when she leans in, kisses him, and electricity roars through every nerve.
+Another rumble comes from the sky. The tree’s leaves rattle in the wind.
+“I know we don’t have to,” she says in his ear, as she lowers them to the blanket.
+Goose bumps rise on his neck and ripple down his arms, but Ali must sense he’s holding back. She pulls away. “Everything okay?”
+Ryan examines her face, which is shrouded in shadows, but he can make out her elegant features—the wide-set eyes, angular jawline … those lips …
+“It just feels like the end, not the beginning, of something,” he says. “A goodbye.”
+She smiles. One of her exasperated smiles. “You’re gonna blow this for yourself, Dodge.”
+He smiles back in the dark. It was Ali who’d come up with the nickname that will probably follow him the rest of his life. They first met in algebra class in ninth grade. She was the new kid in town. He was the star of the basketball team—a six-four freshman playing first-string varsity, for god’s sake—but she wasn’t impressed. He asked if he could copy her homework. It was both resourceful, since he doesn’t have a math brain, and a lazy effort at flirting.
+Ali was having none of it: “Just because you can dodge around that basketball court doesn’t mean everything’s going to be handed to you.” And just like that, he was “Dodge.” And every November through March thereafter, the crowd would chant it from the bleachers:
+Dodge … Dodge … Dodge …
+Her voice breaks the thought. “It’s not goodbye, we’re just going to different colleges. We’ll make it.”
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

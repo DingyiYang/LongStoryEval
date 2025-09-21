@@ -1,0 +1,76 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Frank and Red
+
+### Genres: Contemporary, Family, Humor
+
+### Premise:
+Estranged from his friends, son, and the ever-changing world beyond his front gate, Frank is a reclusive curmudgeon whose only company is the 'ghost' of his dead wife, Marcie. Then six-year-old Red moves in next door. A boy struggling to adjust to the separation of his mum and dad, a new school, and the demonic school bully, Red is curious, smart, and talkative. And he has a trampoline. From the moment Red's blonde mop appears over the top of the fence that divides their two gardens, the unlikeliest of friendships is born.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+The story centers around Frank, a reclusive widower grappling with grief after the death of his wife, Marcie. His isolation is deepened by the distance between him and his son, Mikey. Frank’s routine life is altered when Red, his young and spirited neighbor, enters the picture. Red inadvertently becomes a catalyst for change by uncovering an unsent letter from Frank to Mikey, which reveals unresolved conflict in Frank’s heart.
+Motivated by a promise to help mend Frank and Mikey's strained relationship, Red embarks on a journey across London to deliver the letter. Although he encounters several challenges, including being intercepted by police, Red's attempts highlight the themes of reconciliation and community support. During Red's adventure, Frank becomes inspired by Red's determination and ventures out of his comfort zone to reconnect with Mikey. This culminates in a crucial moment where Mikey notices a dropped letter, creating an opportunity for reconciliation. Frank’s meeting with his granddaughter, Bella, signifies a new beginning, suggesting a hopeful path for familial unity.
+Frank continues to navigate life, supported by the presence of his deceased wife, Marcie, who appears to him, offering guidance and comfort. As time progresses, Frank notices Marcie’s presence becoming less frequent, signaling his gradual acceptance of her passing. In a key moment of reflection, Frank acknowledges his own emotional journey, and the bond with Marcie. The narrative concludes in an epilogue where Frank finds his old word processor. He decides to write again, starting with a story about Marcie’s enduring spirit, emphasizing themes of love, loss, and new beginnings.
+
+### Character Analysis:
+**Frank:**
+- **Profile:** Frank is a retired author struggling with isolation and grief after his wife Marcie’s death. He is estranged from his son Mikey but seeks reconnection.
+- **Overall Experience:** Frank transitions from isolation and emotional turmoil to a place of acceptance, driven by Red's actions and his own reflections on grief and family. His journey marks the reconciliation with Mikey and an internal resolution regarding Marcie.
+
+**Red:**
+- **Profile:** Red is Frank’s young neighbor whose curiosity and determination encourage Frank’s personal growth and reconnection with family.
+- **Overall Experience:** Red remains an instrumental figure in inducing positive change within Frank's life. His actions catalyze Frank’s shift towards reconciliation and acceptance of the present.
+
+**Mikey:**
+- **Profile:** Mikey is Frank’s estranged son, navigating a relationship marked by unresolved issues and the death of his mother.
+- **Overall Experience:** Initially distanced, Mikey embraces an open and understanding role, facilitating reconciliation with Frank, and signaling the potential for renewed familial bonds.
+
+**Marcie:**
+- **Profile:** Frank’s deceased wife, present only to Frank as a kind of spiritual guide or comforting presence.
+- **Overall Experience:** Marcie's presence contributes profoundly to Frank’s process of grief and healing, symbolizing the enduring nature of love and memory.
+
+**Ellie:**
+- **Profile:** Ellie is Mikey’s supportive wife, playing a stabilizing role in the family dynamic.
+- **Overall Experience:** Ellie remains a supportive force within the family, helping to bridge Frank’s reintegration and support Mikey’s familial relationships.
+
+**Sarah:**
+- **Profile:** Red’s protective mother, she maintains a subtle role fostering community and understanding.
+- **Overall Experience:** While a minor character, Sarah signifies community support, embodying the unexpected alliances that aid in healing and connection across the narrative.
+
+### Excerpt (Demonstrating Writing and Language):
+‘Ah, for Christ’s sake . . .’
+As there was another knock at the front door.
+He raked a hand down his face, forced himself out of his armchair, and, draining the last of his bottle of beer, stomped into the hallway.
+Through the frosted glass he could see two figures, one taller than the other, both in black. They were about to knock a third time when Frank swung the door open.
+‘Hi! Good morning.’ The smaller figure – a woman – sing-songed, masking her disgust at his appearance with a kindly tilt of her head. The man, a pale pencil, just smiled gormlessly at Frank, as though he was staring into the face of a child.
+‘We’re really sorry to bother you this morning. We were—’
+But Frank saw the leaflet the tall man was holding, with its picture of a candle encircled by a crown of thorns, and knew what was to follow. They weren’t sorry to bother him at all.
+With an enthusiasm that made his left eye twitch, the woman continued:
+‘—wondering if we could speak to you today about happiness, your life . . .’ Her eyes fly-fished to the bottle in his hand. ‘And maybe what might be missing? Perhaps even how Jesus might be a part of . . .’
+Frank blinked once, slowly.
+And then:
+‘Come on in!’ he said, with sudden enthusiasm, his Irish brogue dialled up to eleven. ‘Please, come!’
+A spark of surprise passed between the two, as he stood aside and ushered them through the door and into the cramped hallway. They wiped their feet on a tattered mat and Frank, a beaming smile on his face, held out an arm, guiding them past the stairs. ‘Please, it’s just this way.’
+Down the hallway, they processed – past an old dresser cluttered with pictures and a long-deceased spider plant – and finally into the kitchen.
+‘Just . . . right through here.’
+Frank then opened the back door and unceremoniously bundled the pair outside. ‘Now, off you fuck,’ he said, as he showed them two fingers and threw the door closed behind them, their confused faces discernible through the obscured glass.
+His own face instantly returned to its resting state of weary and annoyed, and he tossed the empty beer bottle towards the nearby bin. It missed by a foot, clattered against the skirting board and disappeared under the kitchen table. Frank huffed and opened the fridge to retrieve another as his wife appeared at the bottom of the stairs.
+‘Well, that was a bit mean,’ she said, as she leaned against the wall.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

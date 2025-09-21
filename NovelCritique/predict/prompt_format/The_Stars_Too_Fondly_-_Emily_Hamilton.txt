@@ -1,0 +1,66 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: The Stars Too Fondly
+
+### Genres: Science Fiction, Romance, LGBT
+
+### Premise:
+So, here’s the thing: Cleo and her friends really, truly didn’t mean to steal this spaceship. They just wanted to know why, twenty years ago, the entire Providence crew vanished without a trace, but then the stupid dark-matter engine started on its own. Now these four twenty-somethings are en route to Proxima Centauri and unable to turn around while being harangued by a hologram that has the face and snide attitude of the ship’s missing captain, Billie. 
+Cleo has dreamt of being an astronaut all her life, and Earth is a lost cause at this point, so this should be one of those blessings in disguise that people talk about. But as the ship travels deeper into space, the laws of physics start twisting; old mysteries come crawling back to life; and Cleo’s initially combative relationship with Billie turns into something deeper and more desperate than either woman was prepared for.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+As Providence I embarks on an ambitious mission to Proxima Centauri B, Cleo McQueary's fate becomes deeply intertwined with an enigmatic force, the Other Place. While offering supernatural abilities, it poses significant threats, leading to existential conflicts for her and the crew. The Other Place's influence adds complexity to their mission, testing crew dynamics and emotional bonds, especially between Cleo and Captain Billie Lucas, whose holographic presence underscores the demands of cosmic exploration.
+Cleo's leadership is challenged by Dr. Kristoff Halvorsen, whose ambitious plans to exploit the Other Place's power threaten their mission and Cleo personally. Despite this, she evolves as a leader, rallying her crew with emotional fortitude and deepening connections, particularly with her crew members like Kaleisha Reid, who offers emotional stability and spatial insights crucial for cohesion, Abraham Yang, the moral anchor, and Ros Wheeler, who transforms from self-doubt to formidable competence.
+A climactic confrontation unfolds, marked by grief and anger over Billie’s sacrifice. Cleo, tempted yet resolute, draws strength from the Other Place to overcome Halvorsen, merging selflessness with cosmic harmony. With her crew triumphant, a profound reunion with Billie materializes, expanding their interdimensional bond into reality.
+The segment explores Cleo's emotional evolution and the crew's adaptation to survival on Proxima B post-Other Place. While relationships deepen with moments of love and loss, the crew confronts their longings for Earth. The retrieval of the Providence’s black box, containing the ship's AI memories, incites hopes of resurrection, mirroring the crew's desire for home.
+In an emotional resolution, Cleo and Billie find closure in releasing Neil’s ashes, reflecting on love and belonging. Their entwined destinies culminate as the Other Place offers the gift of returning the crew to Earth. Overwhelmed with joy from emotional reunions, Cleo embraces her future with Billie, affirming a narrative of resilience amid cosmic uncertainties and the triumph of profound human connections.
+
+### Character Analysis:
+**Cleo McQueary:**
+- **Profile:** Cleo serves as the mission's central figure, tangled with the Other Place and deeply connected to Captain Billie Lucas.
+- **Overall Experience:** Cleo evolves from a leader grappling with cosmic uncertainties to one grounded by love and unity, marking her journey with resilience and strengthened bonds.
+
+**Kaleisha Reid:**
+- **Profile:** Kaleisha offers emotional support, interpersonal insights, and stability critical to the crew’s grounding and success.
+- **Overall Experience:** Her ongoing spatial insights and emotional resilience continue to be pivotal in supporting the crew’s collective strength and teamwork.
+
+**Abraham Yang:**
+- **Profile:** Abe embodies the mission's moral center, providing wisdom and maintaining the crew's ethos.
+- **Overall Experience:** He remains a source of moral guidance, continually encouraging unity and collective fortitude amidst the challenges.
+
+**Ros Wheeler:**
+- **Profile:** Starting as a medic-engineer, Ros evolves into a crucial crew member offering technical and ethical support.
+- **Overall Experience:** From initial hesitance to becoming an indispensable contributor, Ros solidifies their presence within the crew dynamic.
+
+**Captain Wilhelmina Lucas (Billie):**
+- **Profile:** From her initial holographic existence, Billie emerges as a pivotal, flesh-and-blood figure, accentuating her bond with Cleo.
+- **Overall Experience:** Billie persists as a fundamental emotional and narrative bridge, interweaving past sacrifices with future possibilities.
+
+**Kristoff Halvorsen:**
+- **Profile:** Halvorsen is an antagonist whose overly ambitious goals challenge Cleo and her team.
+- **Overall Experience:** Halvorsen's defeat solidifies Cleo's resilience and the power fostered by deep bonds, marking the thematic triumph over chaos.
+
+### Excerpt (Demonstrating Writing and Language):
+Twenty-seven years of obsessive amateur research had not prepared Cleo McQueary for how simple it was to break into the Erebus             Industries compound. She’d seen the exclusive news reports, the official behind-the-scenes TikToks, the infamous photos of             impassive security officers restraining bereaved family members at the compound gate—Cleo knew that this place had been crawling             with guards and dripping with unbreakable security measures, once. But now, the only thing protecting each spiraling level             of the circular compound was a dusty steel door, locked by a decades-old retinal scanner and a series of cascade ciphers.             Cleo could have cracked them all in her sleep, which was a shame—she liked a challenge.
+“Well,” she said, punching the last sequence into the last keypad and thinking that the rare excuse to wear fingerless gloves             with her most practical pair of coveralls almost made up for the disappointment, “there’s no turning back now.”
+“Corny,” Kaleisha whispered behind her, also looking incredibly heist-chic in her black dress and leather jacket, locs tied             back in a ponytail and killer green eyeliner standing out against her dark skin. Cleo stuck her tongue out. Thanks to Erebus             Industries’ bankruptcy, they were the first people to walk through these long-abandoned doors in a decade; a little melodrama             was absolutely warranted.
+Abe fidgeted with the straps of the backpack he’d meticulously packed with things they might need (Band-Aids) and things they             definitely wouldn’t (Kaleisha’s tarot cards). He was Chinese American, tall enough to rest his chin on the top of Cleo’s head,             and bouncing on the balls of his feet so rapidly that his floppy black hair was getting in his eyes.
+“Actually,” he whispered a little too loudly, “I think this would be the perfect time to turn back, if we wanted to.”
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

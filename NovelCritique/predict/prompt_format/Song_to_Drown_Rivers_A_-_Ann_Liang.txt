@@ -1,0 +1,69 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: A Song to Drown Rivers
+
+### Genres: Fantasy, Romance, Historical
+
+### Premise:
+Inspired by the legend of Xishi, one of the famous Four Beauties of Ancient China, A Song to Drown Rivers is a historical fantasy about womanhood, war, sacrifice, and love against all odds.
+Her beauty hides a deadly purpose.
+Xishi’s beauty is seen as a blessing to the villagers of Yue—convinced that the best fate for a girl is to marry well and support her family. When Xishi draws the attention of the famous young military advisor, Fanli, he presents her with a rare opportunity: to use her beauty as a weapon. One that could topple the rival neighboring kingdom of Wu, improve the lives of her people, and avenge her sister’s murder. All she has to do is infiltrate the enemy palace as a spy, seduce their immoral king, and weaken them from within.
+Trained by Fanli in everything from classical instruments to concealing emotion, Xishi hones her beauty into the perfect blade. But she knows Fanli can see through every deception she masters, the attraction between them burning away any falsehoods.
+Once inside the enemy palace, Xishi finds herself under the hungry gaze of the king’s advisors while the king himself shows her great affection. Despite his gentleness, a brutality lurks and Xishi knows she can never let her guard down. But the higher Xishi climbs in the Wu court, the farther she and Fanli have to fall—and if she is unmasked as a traitor, she will bring both kingdoms down.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Xishi, the protagonist, enters the Wu court as a tribute bride, secretly aiming to avenge her sister's death during the Yue-Wu conflict. She navigates palace politics under the guidance of Fanli, Yue's military strategist and secret lover, using her position to gather intelligence. As a devoted consort, she manipulates relationships with influential figures, including Lady Yu and Fuchai, Wu's king, advancing Yue’s strategic ambitions. Despite personal losses, she orchestrates the demise of Wu minister Wu Zixu, ensuring Yue's successful entry into Wu through a secret canal.
+After Wu's fall and Fuchai's suicide, Xishi struggles with guilt and trauma despite being hailed a hero upon returning to her village. Her reunion with Zhengdan's mother reveals harsh truths about the futility of wars, deepening her unease. While seeking solace by a river, Xishi is attacked and drowned by a man associated with King Goujian, illustrating her vulnerability and ultimate betrayal.
+In the aftermath, Fanli arrives too late to save Xishi and is overwhelmed by grief, refusing comfort despite Luyi’s attempts. Haunted, he contemplates revenge against Goujian but is stopped by a dream encounter with Xishi. She persuades Fanli to help the people covertly, sparing Goujian’s life for the kingdom's stability. Upon waking, Fanli confronts Goujian, resigning without harming him, and instead torments Goujian with mental anguish, subtly channeling his vengeance.
+Fanli mourns Xishi's death deeply, swearing to meet her in every lifetime while ensuring she is honored in memory. To deflect suspicion and maintain her legend, he lies about her fate to a passing boy. In the afterlife, Xishi awaits Fanli at the Yellow Springs, where they ultimately reunite, ready to be reincarnated and begin anew.
+
+### Character Analysis:
+
+**Xishi:**
+- **Profile:** Protagonist; infiltrates Wu court for vengeance, serves as King Fuchai’s consort to destabilize Wu.
+- **Overall Experience:** Xishi's journey reflects vengeance, manipulation, and loyalty conflicts. Despite achieving her goal, she faces emptiness, guilt, and a tragic death, questioning her actions' morality and impact.
+
+**Fanli:**
+- **Profile:** Yue's military advisor and Xishi’s lover; crucial to Yue’s plans.
+- **Overall Experience:** Balances strategic and personal ties, influencing Xishi's choices. Haunted by losing her, endeavors to honor her wishes, transforming revenge into rejection of power, maintaining hope for their reunion.
+
+**Luyi:**
+- **Profile:** Xishi’s ally, tasked with her safety.
+- **Overall Experience:** Serves as a link to Xishi’s past, representing enduring connections amid the mission's turbulence. Attempts to guide Fanli in the aftermath of Xishi's death.
+
+**King Goujian:**
+- **Profile:** King of Yue, responsible for Xishi's death.
+- **Overall Experience:** Depicted as strategic and ruthless, sacrificing individuals for the kingdom's sake, ultimately faced with consequences through supernatural means.
+
+**Zhengdan’s Mother:**
+- **Profile:** Villager and mother of Zhengdan.
+- **Overall Experience:** Challenges Xishi’s perception of her mission’s legacy through realism and grief, symbolizing civilian loss amid conflict.
+
+### Excerpt (Demonstrating Writing and Language):
+They say that when I was born, all the wild geese flew down from the sky, and the fish sank beneath the waves, having forgotten how to swim. Even the lotus flowers in our gardens quivered and turned their heads away, so ashamed they were of their own diminished allure in my presence. I have always found such stories to be laughably exaggerated, but they prove the same thing: that my beauty was something unnatural, transcending nature itself. And that beauty is not so different from destruction.
+This was why my mother insisted I cover my face before leaving the house.
+“Do not draw unwanted attention to yourself, Xishi,” she cautioned, holding up the veil. It rippled and gleamed in the midday light, the edges glowing white. “It is dangerous, for a girl like you.”
+A girl like me.
+There were a thousand meanings tucked in those words, and I tried not to dwell on them, even as the old memories boiled up in response. The clucking, red-cheeked village aunties, who once came over to visit and marveled at the sight of me. She is so pretty, one of them had murmured. Someone of such exquisite loveliness—she has the power to topple kingdoms and overturn cities. She had meant it as a compliment. Another had sought to introduce me to her son, who was thrice my age, worked as a woodcutter like my father, and had a face that reminded me of a bitter gourd.
+“Come here,” Mother said.
+I stepped forward and let her wrap the veil around my head, feeling her thin, calloused fingers—worn from scrubbing raw silk in the day and scrubbing rusted woks in the evening—fiddle with the strings. The fabric fell gently over my nose, my lips, my chin, cool against the sticky summer heat. I supposed I ought to be thankful for her desire to shield me from outside eyes. Zhengdan’s mother all but dragged her out onto the streets and paraded her good looks for everyone to see. And it worked. Already, seven of the men in our village had shown up on their doorstep, bearing lavish gifts and begging for her hand in marriage. It was Zhengdan who told me this late at night, her mouth puckered in disgust, her hand clenched into a fist beneath mine.
+“I’ll return before it’s dark,” I promised Mother, who I knew would start worrying long before that, even though the river was not far from our western corner of the village, and I had walked the same route countless times.
+But girls like me sometimes went missing. Though missing was too soft a word for it. The truth was uglier: stolen, slaughtered, sold. Traded between men like rare porcelains. It was especially true these days, with the wounds of war still running fresh in our kingdom, the Wu breathing down our people’s necks, and our remaining soldiers too jaded and thinly spread to be bothered by trivial matters like dead girls.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

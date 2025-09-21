@@ -1,0 +1,70 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: I'm Afraid You've Got Dragons
+
+### Genres: Fantasy, Dragons, Humor
+
+### Premise:
+Dragons are common in the backwater kingdom of Bellemontagne, coming in sizes from mouselike vermin all the way up to the fabled Kings, which haven't been seen in an age. Gaius Aurelius Constantine Heliogabalus Thrax (who would much rather people call him Robert) has recently inherited his deceased father's job as a dragon exterminator, a career he detests with all his heart. Things turn from bad to worse when Robert is hired by the royal family to disinfest the entire castle, as Princess Cerise is determined to receive Crown Prince Reginald with the shabby château looking its best.
+What happens next is not the fairy tale you may be expecting.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+The kingdom of Bellemontagne faces peril due to royal discord and dragon threats. Robert Thrax, a young dragonmaster, is crucial in confronting these challenges alongside Princess Cerise and Prince Reginald. As they battle the vengeful wizard Dahr, who seeks revenge against King Krije, Robert discovers his hidden powers and his unique bond with dragons.
+The journey begins with a dragon attack revealing Robert's mysterious lineage connected to dragons. With Reginald’s coded message guiding them, Robert and Cerise undertake a quest, unveiling dragons' altered behaviors and confronting royal expectations. Elfrieda and Ostvald play crucial roles in aiding their quest by bringing clarity to unfolding events.
+In Corvinia, Robert, Cerise, and Reginald experience leadership transitions, highlighting Reginald's internal conflicts. A solo confrontation between Reginald and Dahr reveals Reginald's struggles with identity. The trio arrives at Haults-Rivages, witnessing Krije’s forces preparing against dragons. Krije ultimately sacrifices himself, transforming into a statue to defuse Dahr's menace.
+Dahr escalates tension by hosting a meal displaying his power, further deepening fears in Bellemontagne. Robert eventually commands Dahr's dragons using his newfound powers, ensuring the trio’s escape and Krije’s reprieve. The looming dragon threat foreshadows an uncertain future.
+At the story's climax with the King dragon, Robert embraces his connection with dragons, leaving Cerise heartbroken. This increases his reconciliation with his identity, allowing the vanquishing of Dahr through the King dragon's intervention. Emergent victorious, Robert, Cerise, and Reginald strengthen bonds and pave a hopeful path for the kingdom's future.
+The epilogue revisits Robert's post-adventure life, displaying the weariness from past events and societal expectations. Robert's interactions showcase familial warmth, especially with his mother, Odelette, who urges him to bid a proper farewell to Cerise. The narrative captures Robert’s struggle with identity and expectation.
+Robert's journey through nostalgia with childhood friends Ostvald and Elfrieda reinforces enduring friendships and support. An encounter between Robert and Reginald showcases their friendship's depth, with Reginald expressing a yearning for freedom and adventure. His candid exchanges with Cerise emphasize their unspoken bond. Cerise's affection and resolve reveal her independence from royal obligations. Together, Robert and Cerise anticipate a shared life unfettered by past constraints, symbolizing renewal and continuity.
+
+### Character Analysis:
+**Robert Thrax:**
+- **Profile:** Robert is a dragonmaster battling internal turmoil and expectations, pivotal in resolving kingdom conflicts. He possesses a unique bond with dragons that defines his journey.
+- **Overall Experience:** Robert evolves from reluctant participant to crucial figure embracing his identity and relationships. His journey balances power and friendship, offering resilience and hope against adversity.
+
+**Princess Cerise:**
+- **Profile:** Cerise is a resilient princess navigating personal growth and royal duties amid kingdom crises, displaying independence and tenacity.
+- **Overall Experience:** Cerise grows into a strong, empowered individual melding independence with partnership. Her choices impact kingdom transformations and personal triumphs.
+
+**Crown Prince Reginald:**
+- **Profile:** Reginald is a conflicted prince navigating familial duties and self-discovery amid kingdom upheaval.
+- **Overall Experience:** His path of self-realization and relationships with Robert and Cerise propel personal growth and kingdom transformations.
+
+**Odelette Thrax:**
+- **Profile:** Odelette is Robert’s steadfast mother, grounded in strength and wisdom, balancing family with broader kingdom challenges.
+- **Overall Experience:** A central figure in Robert’s development, her wisdom and strength offer grounding and insight amid the unfolding drama.
+
+**Ostvald:**
+- **Profile:** A loyal friend providing emotional stability and support to Robert and the core group.
+- **Overall Experience:** Exemplifies loyalty and courage within the group’s heroic narrative during kingdom crises.
+
+**Elfrieda:**
+- **Profile:** A supportive companion who embodies bravery and friendship during adventures.
+- **Overall Experience:** Reinforces themes of friendship and partnership in overcoming challenges, contributing to narrative richness. 
+
+### Excerpt (Demonstrating Writing and Language):
+The warning came in the form of a great wind, sudden and cold, sweeping out of the western mountains on a perfectly bland and cloudless summer day. Along with it came the charcoal-burners, the trappers, and the rest of the forest folk—woodcutters, swineherds, herbwives, even the occasional hermit and more occasional outlaw—rushing to seek shelter in the nearby village. The villagers eagerly took them all in, glad of more hands to share in hastily battening down doors, windows, shelves, and cellars, and hanging stones from the eaves and edges of thatched roofs, in hopes of holding their houses together against the rising wind. As they worked, they prayed it might indeed be only wind.
+The village’s three Wise Women—a larger town would have had as many as seven—were the only inhabitants bold enough to stand exposed in the fields on the mountain-facing side of the village. Their hair and garments whipped behind them as they watched the forest bend and twist as if wrenched between invisible hands. The air was thick now with dust and twigs and torn leaves, and over the growing howl they could hear tree limbs snap and splinter with a sound like cracking bones.
+The Wise Women watched, and worried, and debated.
+“This is no storm,” said Uska, youngest of the three, her one good eye searching the oddly clear sky. “The Kings return.”
+“Nonsense,” replied Yairi. At sixty-three, she was Uska’s elder by thirty years. She never missed a chance to hint that Uska had attained her place too soon, and with insufficient testing. “The Kings passed before you were born, and none of their progeny could do this. Besides, this wind is cold. I remember the Kings. The wind of their passage was always hot, almost too hot to breathe, as if their wings were made of stolen sun. This fury is another matter altogether. Some faraway shift in the land or sea, perhaps, echoing its way to us across the distance. Watch. It will shake itself out and fade.”
+“What great lurch or tide, no matter how distant, moves trees without touching the sky? It is the Kings. We must light the beacons, so we might yet be noticed and avoided. We must prepare the rune arrows, to ask forgiveness and beg them pass us by.”
+“You are young and coarse, and lack understanding.” Yairi made no attempt to hide her condescension. “The world has many mysteries. Is that not so, Brugge?”
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

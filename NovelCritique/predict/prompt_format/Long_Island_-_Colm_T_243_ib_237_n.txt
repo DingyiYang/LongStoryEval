@@ -1,0 +1,74 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Long Island
+
+### Genres: Historical Fiction, Ireland, Literary Fiction
+
+### Premise:
+Eilis Lacey is Irish, married to Tony Fiorello, a plumber and one of four Italian American brothers, all of whom live in neighboring houses on a cul-de-sac in Lindenhurst, Long Island, with their wives and children and Tony’s parents, a huge extended family that lives and works, eats and plays together. It is the spring of 1976 and Eilis, now in her forties with two teenage children, has no one to rely on in this still-new country. Though her ties to Ireland remain stronger than those that hold her to her new land and home, she has not returned in decades.
+One day, when Tony is at his job and Eilis is in her home office doing her accounting, an Irishman comes to the door asking for her by name. He tells her that his wife is pregnant with Tony’s child and that when the baby is born, he will not raise it but instead deposit it on Eilis’s doorstep.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Eilis Lacey, an Irish emigrant living in America, returns to Enniscorthy for a family event, facing emotional turmoil between her life abroad and unresolved feelings for her former love, Jim Farrell. Her homecoming stirs up a series of intimate dynamics, particularly with her family and the conflicting visions of a future shaped by her brother Jack's success and her brother Pat's burdens. Eilis grapples with loyalties between her marriage to Tony in America—shadowed by news of his infidelity—and the comfort of her familial roots in Ireland. Her aspirations involve buying a house with Jack's support, reinforcing her contemplation between two worlds as quiet yearnings for Jim resurface inciting thoughts of possible independence in Ireland.
+Jim Farrell, a pub owner, struggles with reawakened feelings for Eilis despite being engaged to Nancy Sheridan, a pragmatic woman with business ambitions. As he plans to follow Eilis to America, his internal turmoil crescendos, underscoring the heart of his engagement to Nancy—a strategy aligned with her aspirations and confronted by discovering Jim's clandestine meeting with Eilis. Conscious of maintaining social appearances, Nancy orchestrates engagement celebrations, concealing her vulnerabilities amid the personal upheaval.
+The narrative’s culmination explores Eilis's decision to reconsider her life path and identity—echoed in Jim and Nancy's emotionally charged resolutions—reflecting shared human desire and subsequent tension.
+
+### Character Analysis:
+**Eilis Lacey:**
+- **Profile:** An Irish emigrant torn between her established life in America and her nostalgia and familial connections in Ireland, she juggles past affections for Jim and the complexities of familial roles.
+- **Overall Experience:** Eilis continues to balance her sentiments between her American commitments and Irish heritage, marked by developing autonomy amidst emotional upheavals.
+
+**Jim Farrell:**
+- **Profile:** A pub owner entrenched in both a familiar lifestyle and ambivalent sentiments, split between duty to Nancy and reignited affection for Eilis.
+- **Overall Experience:** Jim navigates prolonged internal conflict, confronting his emotions and engagements amidst shifting personal landscapes.
+
+**Nancy Sheridan:**
+- **Profile:** An enterprising woman focused on her chip shop and future, now engaged to Jim, concealing personal vulnerabilities under professional strengths.
+- **Overall Experience:** Nancy's pragmatic resolve tightens around business ambitions while emotional and personal challenges loom, illustrating intricate personal dynamics.
+
+**Rosella:**
+- **Profile:** Eilis’s daughter, caught in family discussions but primarily focused on her immediate future, represented by her transition to university.
+- **Overall Experience:** Rosella stays marginally involved, with her character underscoring familial dynamics and transformations amidst the larger backdrop of her mother's emotional journey.
+
+### Excerpt (Demonstrating Writing and Language):
+‘That Irishman has been here again,’ Francesca said, sitting down at the kitchen table. ‘He has come to every house, but it’s you he’s looking for. I told him you would be home soon.’
+‘What does he want?’ Eilis asked.
+‘I did everything to make him tell me, but he wouldn’t. He asked for you by name.’
+‘He knows my name?’
+Francesca’s smile had an insinuating edge. Eilis appreciated her mother-in-law’s intelligence, and also her sly sense of humour.
+‘Another man is the last thing I need,’ Eilis said.
+‘Who are you talking to?’ Francesca replied.
+They both laughed, as Francesca stood up to go. From the window, Eilis watched her walk carefully across the damp grass to her own house.
+Soon, Larry would be in from school and then Rosella from after-school study and then she would hear Tony parking his car outside.
+This would be a perfect time for a cigarette. But, having found Larry smoking, she had made a bargain with him that she would give up completely if he promised not to smoke again. She still had a packet upstairs.
+When the doorbell rang, Eilis stood up lazily, presuming that it was one of Larry’s cousins calling for him to come and play. However, from the hallway, she made out the silhouette of a grown man through the frosted glass of the door. Until he called out her name, it did not occur to her that this was the man Francesca had mentioned. She opened the door.
+‘You are Eilis Fiorello?’
+The accent was Irish, with a trace, she thought, of Donegal, like a teacher she had had in school. Also, the way the man stood there, as though waiting to be challenged, reminded her of home.
+‘I am,’ she said.
+‘I have been looking for you.’
+His tone was almost aggressive. She wondered if Tony’s business could owe him money.
+‘So I hear.’
+‘You are the wife of the plumber?’
+Since the question sounded rude, she saw no reason to reply.
+‘He is good at his job, your husband. I’d say he’s in great demand.’
+The man stopped for a second, looking behind him to check no one was listening.
+‘He fixed everything in our house,’ he went on, pointing a finger at her. ‘He even did a bit more than was in the estimate. Indeed, he came back regularly when he knew that the woman of the house would be there and I would not. And his plumbing is so good that she is to have a baby in August.’
+He stood back and smiled broadly at her expression of disbelief.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

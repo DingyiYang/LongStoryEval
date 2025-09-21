@@ -1,0 +1,67 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Summer Romance
+
+### Genres: Romance, Contemporary, Contemporary Romance
+
+### Premise:
+Benefits of a summer romance: it’s always fun, always brief, and no one gets their heart broken.
+There aren’t enough labeled glass containers to contain the mess that is Ali Morris’s life. Her mom died two years ago, then her husband left, and she hasn’t worn pants with a zipper in longer than she cares to remember. She’s a professional organizer whose pantry is a disgrace. 
+No one is more surprised than Ali when the first time she takes off her wedding ring and puts on pants with hardware—overalls count, right?—she meets someone. Or rather, her dog claims a man for her in the same way he claimed his favorite of her three children: by peeing on him. Ethan smiles at Ali like her pants are just right—like he likes what he sees. The last thing Ali needs is to make her life messier, but there’s no harm in a little Summer Romance. Is there?
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+In Beechwood, NY, Ali, a mother of three, navigates life post-separation from her husband, Pete. As a professional organizer, she strives for both family balance and independence. Her life takes a transformative turn upon reconnecting with Ethan, a friend from Devon. Their developing bond through shared family activities sparks romance and reinvigorates Ali’s sense of belonging, contrasting her former life with Pete.
+Ethan's transient life initially reveals the limitations of their relationship, as he moves between Beechwood and Devon, his childhood home. Ali's world is further complicated by the challenges her daughter, Greer, faces, which resonate with Ali’s past insecurities. Ali prioritizes family, leading to a temporary breakup with Ethan as she balances personal desires with responsibilities.
+Ali's emotional journey deepens following the separation, as she realizes the significance of her love for Ethan. This realization is compounded by a heartfelt farewell to her friend Phyllis at her funeral. Ethan's unexpected presence there underscores the unresolved aspects of their relationship, prompting Ali's pursuit to reconcile. A pivotal moment on the inn’s widow’s walk emerges as Ethan decides to remain in Beechwood, contributing to community rebuilding, effectively redefining his life to align with Ali’s.
+This reconciliation blossoms into shared dreams and commitments, where they envision their future together. They help friends and family alike, illustrated in moments such as assisting Sandy and Camille with Phyllis's house. Ethan ultimately buys the house next to Ali’s, symbolizing a commitment to stay, helping Ali stabilize her home life.
+By mid-October, Ethan’s integration into Beechwood life is complete, aligning his responsibilities and profession to coexist seamlessly with Ali's world. His involvement in communal responsibilities, handling court responsibilities in Devon, and contributing to local projects solidify his commitment. Additionally, Ethan's purchase of Phyllis's house signifies a deepening bond and stability.
+Ali’s life sees further evolution as she takes over management of the local inn, an opportunity that aligns with her professional skills and personal aspirations. This new role allows Ali to anchor herself further within the community. The story culminates on a hopeful note when Ethan gives Ali a heart charm, symbolizing ongoing love and promise, coinciding with removing the literal fence dividing their homes, representing unification. Together, they plan for a shared future interwoven with love, family, and community as Ethan fully becomes a part of Ali's life.
+
+### Character Analysis:
+**Ali:**
+- **Profile:** Protagonist; a mother of three and a professional organizer in Beechwood, NY. Currently taking on the role of managing the local inn.
+- **Overall Experience:** Ali transforms from constrained wife to self-aware individual, fully embracing vulnerability and independence while finding love and balance. She realizes dreams of professional success and familial happiness.
+
+**Ethan (Scooter):**
+- **Profile:** Ali’s romantic partner. Formerly transient, now committed to life in Beechwood.
+- **Overall Experience:** Ethan progresses from a transient figure to a stable, integral part of Ali’s life. He aligns his goals with Ali's, offering emotional and practical support as they plan their shared future.
+
+**Greer:**
+- **Profile:** Ali’s daughter, navigating adolescence.
+- **Overall Experience:** Reflecting her mother's evolution, Greer's growth illustrates overcoming social challenges and gaining independence, demonstrating increased resilience.
+
+**Sandy:**
+- **Profile:** A friend of Ali's dealing with familial loss.
+- **Overall Experience:** Sandy represents themes of community and support; her interactions with Ali highlight friendship's role in overcoming personal challenges.
+
+**Camille:**
+- **Profile:** Sandy’s sister from San Francisco.
+- **Overall Experience:** Contributing to familial unity and closure, Camille’s role emphasizes personal support and community.
+
+**Phyllis:**
+- **Profile:** Ali's elderly friend, whose influence endures posthumously.
+- **Overall Experience:** Phyllis profoundly impacts Ali's emotional growth, providing wisdom that guides her toward independence and self-discovery, resonating beyond her passing.
+
+### Excerpt (Demonstrating Writing and Language):
+Sometimes you just have to throw shit in the pantry. Flour, garbanzo beans, Oreos. Just throw it in there and shut the door. Sometimes your kids are fighting or there’s a capless Sharpie sitting right between the dog and your one good couch, so you don’t have time to unpack your groceries according to a system. Sometimes you just need to wing it. These are words I never say to my clients. I truly do believe in the mindful storing of food, according to activity. Are you baking? Are you snacking? Are you breakfasting? But over the past few years, I find that I’m doing all of those things at once. In a dirty pair of sweatpants. I’m starting to think there aren’t enough labeled glass jars to contain the mess that is my life.
+It’s no secret that I’m more than a little stuck. I’m in a holding pattern, like a plane trying to land in too much fog. I am here but also not here. Married, but also not. Instagram thinks I need to engage in some serious self-care to get me back to living my best life. They’re obsessed with my cortisol levels and the depth of my meditation practice, but I’m pretty sure this is a job for something bigger than the magnesium foot bath they’ve been putting in my feed all week. Today is the two-year anniversary of my mother’s death, which makes it the one-year anniversary of the day Pete announced he didn’t want to be married anymore. In fairness to Pete, he’s never been one for remembering special dates.
+I woke up that morning thick with grief. The calendar shouldn’t have that kind of effect on us; there’s no magic to the passing of three hundred and sixty-five days. It could have been a leap year and I would have had a whole extra day before I fell apart. I decided the night before that I’d make my mom’s oatmeal chocolate chip cookies for breakfast. That’s the sort of thing she’d do all the time: break up the monotony of life by doing something fun and unexpected. I was going to show my kids that fun doesn’t die.
+I left the butter on the counter to soften overnight, and I got up at six to start baking. It was late June, like it is now, and the sun was already up. I moved my teetering stack of unread mail into the sink to make room for my mother’s mixer. I creamed the butter with the sugars and combined the flour, baking soda, and cinnamon in a separate bowl. I was crying by the time I added the three cups of oatmeal, wiping my tears with the sleeves of my pajamas. It’s really unbelievable how much oatmeal is in this recipe, and for some reason that made me miss my mom even more.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

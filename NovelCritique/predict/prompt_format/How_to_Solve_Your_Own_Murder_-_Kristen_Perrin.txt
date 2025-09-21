@@ -1,0 +1,76 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: How to Solve Your Own Murder
+
+### Genres: Mystery, Mystery Thriller, Thriller
+
+### Premise:
+It’s 1965 and teenage Frances Adams is at an English country fair with her two best friends. But Frances’s night takes a hairpin turn when a fortune-teller makes a bone-chilling prediction: One day, Frances will be murdered. Frances spends a lifetime trying to solve a crime that hasn’t happened yet, compiling dirt on every person who crosses her path in an effort to prevent her own demise. For decades, no one takes Frances seriously, until nearly sixty years later, when Frances is found murdered, like she always said she would be.
+ 
+In the present day, Annie Adams has been summoned to a meeting at the sprawling country estate of her wealthy and reclusive great-aunt Frances. But by the time Annie arrives in the quaint English village of Castle Knoll, Frances is already dead. Annie is determined to catch the killer, but thanks to Frances’s lifelong habit of digging up secrets and lies, it seems every endearing and eccentric villager might just have a motive for her murder. Can Annie safely unravel the dark mystery at the heart of Castle Knoll, or will dredging up the past throw her into the path of a killer?
+ 
+As Annie gets closer to the truth, and closer to the danger, she starts to fear she might inherit her aunt’s fate instead of her fortune.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Annie Adams is driven to discover the truth behind her Great Aunt Frances's murder at Gravesdown Hall. Guided by Frances's will, which outlines her wish for justice, Annie unravels family secrets imbedded deeply within the estate's history. Frances’s diaries provide a thread for Annie to follow, revealing a tangled family history filled with interpersonal conflicts and scandal, most prominently relating to Emily Sparrow’s mysterious disappearance and subsequent murder at the hands of Rose Leroy. These diaries depict Frances’s internal struggles concerning her relationship with Ford Ripley, adding layers to her enigmatic personality and past decisions.
+Annie navigates dangerous family dynamics as she investigates, building an alliance with Detective Crane. Her search for truth becomes perilous when she confronts Saxon and Elva, relatives involved in a clandestine drug operation. She collects incriminating evidence against Saxon, who actively attempts to thwart her efforts. The encounter reaches a climax when Annie provokes Joe Leroy, Rose’s son, into confessing to Frances’s murder. An attempted attack by Joe is thwarted with timely help from Walt and Beth, alongside a dramatic intervention by Detective Crane.
+After resolving the immediate danger, Annie regroups at Gravesdown Hall. She revisits the events that transpired, piecing together how Rose's jealousy and troubled past propelled her to murder Emily Sparrow, wearing clothes Frances had given her. This revelation supports the notion that Frances, understanding the web of deception within her family, intended for Annie to inherit the estate and carry forward her vision of justice.
+As the legal proceedings unfold, Annie chooses to visit an unrepentant Rose. This visit marks Annie’s acceptance of her family’s history of betrayal, reinforcing her commitment to break the cycle. After inheriting Frances's estate, Annie reflects on her journey, the sacrifices involved, and her strengthened relationship with Detective Crane, who steers her toward justice and reconciliation.
+The narrative concludes with a poignant moment during Frances’s funeral wake. As Annie mingles with the crowd, Oliver admits to leaving threatening notes unwittingly found among Frances's things—an act born of desperation rather than malice. Detective Crane warns Annie of her impending testimony at Joe's trial, reigniting her resolve to see justice served. The wake concludes with a reflection on Frances's life and the bequeathed empty notebooks waiting for Annie, symbolizing a future filled with possibilities and narrative continuity.
+
+### Character Analysis:
+
+**Annie Adams:**
+- **Profile:** Annie is the determined investigator who takes on the challenge of solving her Great Aunt Frances’s murder while managing the inheritance of the estate and its heavy legacy.
+- **Overall Experience:** Throughout the narrative, Annie evolves from a curious observer to a decisive figure pivotal in uncovering and addressing dark family secrets. Her journey is one of growth, learning, and taking ownership of her family's legacy.
+
+**Joe Leroy:**
+- **Profile:** Joe is the antagonist whose misguided loyalty to his mother, Rose, culminates in Frances’s murder.
+- **Overall Experience:** Joe's story fixtures heavily in the build-up to his arrest and impending trial, capturing his role as the culmination of family dysfunction and his inevitable accountability.
+
+**Detective Crane:**
+- **Profile:** Detective Crane is an ally to Annie, serving as the balancing force of law and order through her investigation.
+- **Overall Experience:** An enduring pillar who provides professional guidance and personal support, Crane aids Annie in unraveling the familial chaos, symbolizing integrity and resolve.
+
+**Rose Leroy:**
+- **Profile:** Essential to unlocking the family’s dark secrets, Rose’s actions underpin much of the family’s historical strife.
+- **Overall Experience:** Rose is a tragic figure representing past transgressions that continue to shadow the present, emblematic of the broader theme of familial betrayal.
+
+**Oliver Gordon:**
+- **Profile:** Originally an unfavorable actor, Oliver’s motivations shift, showing greater self-awareness and acceptance of Annie's rightful inheritance.
+- **Overall Experience:** His journey reflects a transformation from a misguided adversary to someone who accepts the family's lineage, illustrating the impact of Annie's drive for truth and justice.
+
+**Walt:**
+- **Profile:** Walt remains a consistent support to Annie, bridging the old with the new generation.
+- **Overall Experience:** He serves as a mentor figure, guiding Annie through the legal and emotional complexities of her inheritance, bringing peace between past and present.
+
+### Excerpt (Demonstrating Writing and Language):
+“Your future contains dry bones.” Madame Peony Lane looks somber as she delivers the opening line of a fortune that will dictate the rest of Frances Adams’s life.
+Frances is quiet, her eyes fixed on the woman in front of her, though her two friends giggle at the terrible theatrics. From the gaudy beaded curtains adorning the tent to Peony Lane’s tacky silk turban, the whole thing screams Hollywood kitsch. Peony Lane herself can’t be more than twenty, though she’s adding a rasp to her voice in an attempt to seem ageless. It isn’t quite working. It’s all so flimsy that none of them should take her seriously, and almost none of them do. Except for Frances.
+She takes in every word as if it’s gospel. And with each new line of her fortune, her expression tightens just a bit. Like hot water teasing out its boiling point, giving off steam but not yet ready to erupt.
+When the girls leave the darkness of the psychic’s tent, Frances doesn’t even blink in the bright August sun. Her hair is long and loose, and it glows red-gold. A man selling toffee apples gives her a lingering glance, but she doesn’t notice him. She doesn’t notice much of anything after the grim prediction she’s just been handed.
+Emily takes Frances’s left arm, Rose joins at her right, and the three girls walk like a chain of daisies, weaving in between stalls selling antiques and trinkets. They turn their noses up at the butcher selling sausages, but stop to look at silver necklaces warmed by the sun’s intensity. It’s just a trick to get Frances’s mind on something else, but Emily buys a delicate chain with a bird on the end. It’s a good omen, she says, because her last name is Sparrow.
+It’s Rose who tackles the issue head-on.
+“Frances, you look like death has already found you,” she says. Rose elbows Frances to try to jolt some life back into her, but Frances’s stern expression simply deepens. “It’s all rubbish anyway, you know? No one can see the future.”
+Emily ties her long blond hair up with a ribbon, and then fastens the bird necklace around her neck. It flashes in the sun—a tiny echo of the knife blades gleaming on the hunting stall behind them. Emily sees Frances eyeing the necklace in horror.
+“What?” Emily asks. Her voice is innocent but her expression isn’t.
+“A bird,” Frances says, her eyes narrowing. “The fortune-teller said, ‘The bird will betray you.’ ”
+“Then I’ve got the perfect remedy,” Emily says. She dashes off into the crowd and returns several minutes later. Two more silver bird necklaces glint in her palm. “For you and Rose,” she says, smirking. “That way you’ll never know which bird will betray you. You could even betray yourself.” She laughs, and it’s wild and open, like Emily herself.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

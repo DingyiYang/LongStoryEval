@@ -1,0 +1,69 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Wisteria
+
+### Genres: Fantasy, Romance, Young Adult
+
+### Premise:
+Blythe Hawthorne has never let anyone tell her what to do—not society, not her overprotective father, and certainly not the man she’s bound herself to, no matter how rude and insufferable he is. In fact, she’s determined to be a thorn in his side for the rest of her days, even as he ensures that her life in his palace is anything but a fairytale. But as Blythe discovers a new side of herself linked to his past, she’ll have to decide if she’s willing to let an unexpected spark ignite...and to discover the truth about who she really is.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+In a world intertwined with cosmic forces like Fate, Death, and Chaos, Blythe Hawthorne finds herself at the center of a mystical journey. Living at Wisteria Manor, she embodies Life and becomes entangled with Aris Dryden, who personifies Fate. Together, they confront supernatural threats from Solanine, an embodiment of Chaos striving to disrupt their lineage and the cosmic order.
+During the story, Blythe's health deteriorates due to destabilizing cosmic forces. Their search for answers leads them to Thorn Grove Manor, a place steeped in mystique and legend. Amidst societal pressures and Solanine’s interference, Blythe experiences moments of vulnerability.
+Despite these challenges, the narrative emphasizes the deepening love between Blythe and Aris. Their bond grows into a committed partnership, as Aris defies his fate to save Blythe’s life, sacrificing himself in the process. Blythe grapples with the profound impact of Aris's loss, channeling her grief into mastering her powers while embracing memories shared with him.
+Percy Hawthorne, Blythe’s brother thought to be dead, returns influenced by chaotic powers, further complicating family dynamics. His presence fuels tension, requiring Blythe to confront familial truths and betrayal. In a climactic confrontation, Percy is exiled, and stability is restored, pointing to Aris’s ultimate sacrifice for love and balance.
+In the epilogue, Blythe navigates a life filled with hope and longing for Aris. Wisteria Gardens becomes her safe haven, protected by mazes and the enigmatic presence of foxes. Despite the perpetual absence of her husband, Blythe remains devoted to his memory, weaving her solitude with possibilities of his return.
+Her support system, including her father Elijah and companions Signa and Sylas, fortifies her resolve to embrace her existence as Life and counterbalance Chaos’s threats. Signa, sharing Blythe's state of agelessness, provides companionship, though her eventually mortal nature reinforces existential themes. The narrative closes with a hopeful, magical reunion where Aris defies the boundaries of the afterlife to return to Blythe, rekindling love and restoring cosmic harmony.
+
+### Character Analysis:
+**Blythe Hawthorne:**
+- **Profile:** Protagonist and embodiment of Life, tied closely with cosmic balance and familial legacy. Her narrative is rooted in enduring grief and unyielding hope, particularly concerning her husband, Aris. 
+- **Overall Experience:** Transitions from grappling identity and legacy toward embracing cosmic duties, relying on love and memory to combat Chaos and maintain equilibrium.
+
+**Fate (Aris Dryden):**
+- **Profile:** Blythe's husband and embodiment of Fate. His character develops from detachment to deep devotion, particularly toward Blythe, ultimately defying cosmic rules.
+- **Overall Experience:** Epitomizes love's power over destiny, sacrificing for Blythe's safety and eventually altering his fateful role to return to her side.
+
+**Death (Sylas):**
+- **Profile:** Aris's brother and embodiment of Death, maintaining order amidst chaos and chaos's interference in Blythe’s journey.
+- **Overall Experience:** Provides balance and support, complementing Blythe's growth against cosmic adversities.
+
+**Signa:**
+- **Profile:** Blythe's cousin, an ally in unraveling mystic ties and facing familial challenges, helping to ward off chaos influences.
+- **Overall Experience:** Integral ally who empowers Blythe’s journey and contributes durability to familial resilience.
+
+**Elijah:**
+- **Profile:** Blythe's father, embodying wisdom and support in her journey, aiding in familial and cosmic understanding.
+- **Overall Experience:** Represents unfaltering empathy and protection, remaining a cornerstone of Blythe’s support system.
+
+**Solanine (Chaos):**
+- **Profile:** Embodiment of chaos, persistently seeking to destabilize cosmic order and threaten Blythe’s legacy.
+- **Overall Experience:** Continues as an agent of chaos and conflict, emphasizing the narrative's theme of cosmic struggle against instability.
+
+### Excerpt (Demonstrating Writing and Language):
+ON THE MORNING OF HER IMPENDING DEATH, LIFE LOUNGED BENEATH a wisteria tree.
+Her magic had shaped the branches, twisting them into a canopy to shield her from the sun while she curled her feet in the grass, its dampness slick between her toes. Beside her, Fate was hunched over his latest work in progress. Life followed every twitch and pull of his deft fingers as they wove a lifetime into a tapestry. There was a glimmer in his eyes as he worked, one that Life wished to forever commit to memory.
+Because soon Death would arrive to take all that she was. And once he came, there was no knowing what pieces of herself might be left. She could only hope to remember that Fate tended to bounce ever so slightly when he was particularly pleased with one of his creations, and that he had a dimple on his right cheek that looked as though someone had carved the tip of their fingernail into his flesh, forever marking him with a mischievous crescent moon. She hoped she remembered the way all the light in the world seemed to pool toward him at any given moment, and how he would bask in it. Whether it was midafternoon or an hour when only the crickets sang, her husband was radiant.
+Life hoped that she would remember his hands, too. Not just how clever they were—as precise with an instrument or a paintbrush as they were with thread and needle—but how they melded against her body. She had no awareness of how she came to exist, and often wondered whether she’d been one of Fate’s sculptures magicked to life, for it was his hands alone that knew her every contour. Every touch between them was familiar, instinctual.
+“Enjoying the view?” Fate didn’t need to peer behind him to know that Life was spying, no less struck by his beauty now than the day she’d first laid eyes on him. Fate was her summer sun—too intense for most to bear, while she tipped toward him like a flower, craving his touch.
+Life shifted to her knees, wrapping her arms around Fate’s neck as she looked over his shoulder at the tapestry.
+Red. There was always so much red.
+She’d known Fate long enough to understand why—red symbolized passion, and there was nothing he loved more. Fate’s favorite stories were always rife with the color, telling tales of those who would give up their very soul to have whatever it was they most yearned for. He was never choosy with what that passion was. It could be art, literature, invention, romance, cooking, gardening.… If there was passion to be found, Fate would weave the most glorious stories out of it. For he, too, was a man of great passion.
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

@@ -1,0 +1,77 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: Beastly Beauty
+
+### Genres: Fantasy, Young Adult, Retellings
+
+### Premise:
+What makes a girl "beastly?" Is it having too much ambition? Being too proud? Taking up too much space? Or is it just wanting something, anything , too badly? 
+That's the problem Arabella faces when she makes her debut in society. Her parents want her to be sweet and compliant so she can marry well, but try as she might, Arabella can't extinguish the fire burning inside her -- the source of her deepest wishes, her wildest dreams. 
+When an attempt to suppress her emotions tragically backfires, a mysterious figure punishes Arabella with a curse, dooming her and everyone she cares about, trapping them in the castle. 
+As the years pass, Arabella abandons hope. The curse is her fault -- after all, there's nothing more "beastly" than a girl who expresses her anger -- and the only way to break it is to find a boy who loves her for her true a cruel task for a girl who's been told she's impossible to love. 
+When a handsome thief named Beau makes his way into the castle, the captive servants are thrilled, convinced he is the one to break the curse. But Beau -- spooked by the castle's strange and forbidding ladies-in-waiting, and by the malevolent presence that stalks its corridors at night -- only wants to escape. He learned long ago that love is only an illusion. 
+If Beau and Arabella have any hope of breaking the curse, they must learn to trust their wounded hearts, and realize that the cruelest prisons of all are the ones we build for ourselves.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+Beau, a perceptive thief interwoven with Arabella’s cursed castle, slowly becomes integral to its pivotal resolution. Bound by a curse spinning from Prince Constantine's tragic past and Lady Espidra's machinations, the castle’s inhabitants including Beau and Lady Arabella face the plight of despair and transformation. As a beast, Arabella struggles with spirals of emotion dictated by external pressures that only profound self-love can ultimately free.
+Initially drawn into these events for self-gain, Beau's journey is one of redemption. Drawn back by haunting nursery rhymes and a love budding for Arabella, he overcomes personal demons and stumbles back into the castle. His resolve indirectly prompts Arabella's introspective breakthrough, crumbling Espidra’s curse.
+This segment reveals Arabella’s journey to self-discovery, driven by introspection and the acceptance of her discordant emotions. Guided by the clockmaker (Death), she releases judgmental fears embodied by her emotions. This act restores the enchanted inhabitants when she embodies her true self-love. Surrounded by returning loved ones, Arabella unearths familial reconciliation and future aspirations.
+Beau, once focused on thievery, renewed by love and purpose, represents a complex character full of potential beyond his past. He trudges from thievery to crucial counsel for the realm, holding immense respect and responsibility. The story culminates in a life-honoring narrative of resilience as Arabella and Beau embrace the freedom born out of acknowledging darkness and nurturing light, with a hopeful outlook on a bright, collaborative future.
+
+### Character Analysis:
+**Beau:**
+- **Profile:** A perceptive and resourceful thief transformed by experience into a trusted advisor, driven by love and redemption.
+- **Overall Experience:** Progressed from a self-serving fox into a cautiously caring chancellor, embodying themes of redemption and personal growth through love.
+
+**Lady Arabella:**
+- **Profile:** An intelligent and determined noblewoman beset by an inner conflict manifesting through a beastly curse.
+- **Overall Experience:** Evolves from battling isolation to acting on newfound self-acceptance, translating her awakened self into rebuilding lives.
+
+**Lady Espidra (Despair):**
+- **Profile:** The embodiment of despair, functioning as both an antagonist and a catalyst for Arabella’s ultimate triumph.
+- **Overall Experience:** Symbolizes the obstacles self-doubt poses, playing a pivotal adversarial role in revealing self-love as the key.
+
+**Camille:**
+- **Profile:** A resilient staff member, whose perseverance aids those trapped by the curse.
+- **Overall Experience:** Represents enduring hope and loyalty amidst enchantment’s shadows, fostering unity among characters.
+
+**Love (Remy), Hope, and Faith:**
+- **Profile:** Personifications providing profound insight into the facets of Arabella’s emotional and transformational journey.
+- **Overall Experience:** Central forces illustrating love and hope as essential components to eventual freedom and self-discovery.
+
+### Excerpt (Demonstrating Writing and Language):
+
+Once upon a time and ever since, a key turned in a rusted lock, and a woman stepped into a small and dismal cell.
+Her gown, the color of ashes, hung off her shoulders like a shroud. Her hair, styled high on her head, was as black as ebony. Her dark eyes glittered; their gaze pulled at whomever it fell upon, sucking them in like a whirlpool.
+Across the room, a high window, shaped like a half-moon, was filled with midnight, yet the room was not without light. A wan glow suffused it, like that of a single candle.
+It came from a child.
+She was gazing up at the window, her hands clasped behind her back. “Lady Espidra, always a pleasure,” she said at length, turning to face the woman.
+Her pink dress, once pretty, was dirty and torn. Her hair, so blond it was almost white, was wild. Her face was open and frank. Anyone glimpsing it would guess she was nine or ten years of age, except for her eyes, which were as ancient as the stars.
+Lady Espidra set her lantern down on a table. She opened the small wooden box she was carrying. “Shall we play? To pass a bit of time?” she asked, taking out a deck of cards. “How long has it been since we last chatted, you and I? A year? Two?”
+“Twenty-five.”
+Lady Espidra laughed. It was an ugly, jangling sound, like shattered glass raining down. “Ah, it’s true what mortals say—the days are long and the years are short.”
+She placed the deck faceup on the table, then fanned it expertly. The cards were yellowed at their edges but beautifully illustrated. The kings, queens, and jacks were framed by a thin line of black. Rich pigments colored their robes. Their golden crowns sparkled; their silver swords gleamed.
+The queen of hearts blinked and stretched. Then she glimpsed the queen of spades, who was next to her, and waved excitedly. The queen of spades gasped, then laughed. She reached a hand to the frame surrounding her and pushed at it. Gently at first. Then harder. Until she was beating her fists against it.
+The king of diamonds placed a hand over his heart and gazed with anguished longing at his queen. The queen of clubs, stuck between two numbered cards, stared listlessly ahead of herself.
+Espidra seemed not to notice their distress. She briskly gathered the cards, shuffled them, and dealt two hands.
+But the child noticed.
+“Poor things,” she said, picking up her cards. “Imprisoned in their boxes, just like the mortals who drew them.”
+“A box is the best place for mortals,” Espidra retorted. “It keeps them out of trouble.”
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X

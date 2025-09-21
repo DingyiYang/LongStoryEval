@@ -1,0 +1,44 @@
+{
+    "Crime and Punishment by Fyodor Dostoyevsky": {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "published_date": "First published January 1, 1866",
+        "genres": [
+            "Russia",
+            "Russian Literature",
+            "Literature",
+            "Philosophy",
+            "Novels",
+            "Crime"
+        ],
+        "score": "4.28",
+        "rating_distribution": [
+            "524,212 (52%)",
+            "294,299 (29%)",
+            "122,042 (12%)",
+            "36,440 (3%)",
+            "17,366 (1%)"
+        ],
+        "premise": "Raskolnikov, a destitute and desperate former student, wanders through the slums of St Petersburg and commits a random murder without remorse or regret. He imagines himself to be a great man, a Napoleon: acting for a higher purpose beyond conventional moral law. But as he embarks on a dangerous game of cat and mouse with a suspicious police investigator, Raskolnikov is pursued by the growing voice of his conscience and finds the noose of his own guilt tightening around his neck. Only Sonya, a downtrodden sex worker, can offer the chance of redemption."
+      },
+    "The Invisible Man: A Grotesque Romance by H. G. Wells": {
+      "title": "The Invisible Man: A Grotesque Romance",
+      "author": "H.G. Wells",
+      "published_date": "First published February 2, 1897",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Literature",
+        "Novels"
+      ],
+      "score": "3.63",
+      "rating_distribution": [
+        "41,021 (19%)",
+        "74,859 (36%)",
+        "69,980 (33%)",
+        "17,553 (8%)",
+        "3,916 (1%)"
+      ],
+      "premise": "Trieste Publishing has a massive catalogue of classic book titles. Our aim is to provide readers with the highest quality reproductions of fiction and non-fiction literature that has stood the test of time. The many thousands of books in our collection have been sourced from libraries and private collections around the world.The titles that Trieste Publishing has chosen to be part of the collection have been scanned to simulate the original. Our readers see the books the same way that their first readers did decades or a hundred or more years ago. Books from that period are often spoiled by imperfections that did not exist in the original. Imperfections could be in the form of blurred text, photographs, or missing pages. It is highly unlikely that this would occur with one of our books. Our extensive quality control ensures that the readers of Trieste Publishing's books will be delighted with their purchase. Our staff has thoroughly reviewed every page of all the books in the collection, repairing, or if necessary, rejecting titles that are not of the highest quality. This process ensures that the reader of one of Trieste Publishing's titles receives a volume that faithfully reproduces the original, and to the maximum degree possible, gives them the experience of owning the original work.We pride ourselves on not only creating a pathway to an extensive reservoir of books of the finest quality, but also providing value to every one of our readers. Generally, Trieste books are purchased singly - on demand, however they may also be purchased in bulk. Readers interested in bulk purchases are invited to contact us directly to enquire about our tailored bulk rates."
+    }
+}

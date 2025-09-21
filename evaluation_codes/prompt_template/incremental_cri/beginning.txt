@@ -1,0 +1,72 @@
+Below is the beginning part of a book-length story:
+
+---
+
+### Title: {Title}
+
+### Genres: {Genre}
+
+### Premise: 
+{Premise}
+
+### Beginning:
+{Beginning}
+
+---
+
+We are sequentially reviewing segments of a story to gradually update a comprehensive evaluation of the entire story. 
+For each aspect below, please provide a review highlighting both strengths and weaknesses. Assign a score on a scale from 0 (worst) to 100 (excellent).
+
+### 1. Plot and Structure: 
+- **Review:** {}
+- **Score:** X
+
+**Guidelines:** Evaluate the plot development by examining pace, twists, conflicts, and their resolutions. Evaluate the plot structure for coherence, logic, and complexity, paying attention to key elements like climax and closure.
+
+### 2. Characters: 
+- **Review:** {}
+- **Score:** X
+
+**Guidelines:** Evaluate the characters based on their development, characterization (realism, appeal, and relatability), relationships, and diversity.
+
+### 3. Writing and Language: 
+- **Review:** {}
+- **Score:** X
+
+**Guidelines:** Evaluate the writing style's ability to engage and captivate readers. Assess language quality by examining descriptions and dialogue. Measure the clarity and readability.
+
+### 4. World-Building and Setting: 
+- **Review:** {}
+- **Score:** X
+
+**Guidelines:** Evaluate the world-building and setting by assessing how detailed and well-described they are. Consider their authenticity, accuracy, or realism.
+
+### 5. Themes: 
+- **Review:** {}
+- **Score:** X
+
+**Guidelines:** Evaluate how well the themes are explored and assess their depth.
+
+### 6. Emotional Impact: 
+- **Review:** {}
+- **Score:** X
+
+**Guidelines:** Evaluate the story's ability to evoke strong and deep emotional impact.
+
+### 7. Enjoyment and Engagement: 
+- **Review:** {}
+- **Score:** X
+
+**Guidelines:** Evaluate how engaging and enjoyable the story is for readers.
+
+### 8. Expectation Fulfillment: 
+- **Review:** {}
+- **Score:** X
+
+**Guidelines:** Evaluate how effectively the story meets the readers' expectations based on the premise and genres.
+
+### Conclusion:
+- **Overall Assessment:** {Conclude with an overall assessment, summarizing key insights.}
+- **Overall Score:** X
+
+---

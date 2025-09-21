@@ -1,0 +1,76 @@
+Below are the title, genres, and premise of a book-length story.
+
+<info>
+### Title: I'm Starting to Worry About This Black Box of Doom
+
+### Genres: Science Fiction, Humor, Mystery
+
+### Premise:
+Outside Los Angeles, a driver pulls up to find a young woman sitting on a large black box. She offers him $200,000 cash to transport her and that box across the country, to Washington, DC.
+But there are rules:
+He cannot look inside the box.
+He cannot ask questions.
+He cannot tell anyone.
+They must leave immediately.
+He must leave all trackable devices behind.
+As these eccentric misfits hit the road, rumors spread on social media that the box is part of a carefully orchestrated terror attack intended to plunge the USA into civil war.
+The truth promises to be even stranger, and may change how you see the world.
+<\info>
+
+Below are the plot summary, character analysis, and an excerpt of this story.
+
+<story>
+### Plot Summary:
+The story intricately weaves multiple narratives around a conspiracy involving Abbott Coburn, an accidental rideshare driver, and Ether Wozniak, formerly known as the influencer Butterflaps. Both find themselves unjustly accused of participating in a terror plot due to their unwitting involvement with a mysterious package linked to Gary Sokolov, an enigmatic millionaire. Their online reputations suffer, leading them to ally with Joan Key, a retired FBI agent intent on unraveling the plot and preventing further disaster.
+During their journey, Abbott and Ether find support in allies like Zeke, underscoring the dual nature of online communities—both as hotbeds of misinformation and vital sources of support. Their path culminates at Sokolov's estate on the Fourth of July, having been forewarned of threats related to the event and the mysterious box.
+Chaos erupts with the arrival of the Killdozer, a heavily armored vehicle marking an attack. Ether assists in securing a weapon to prevent further disaster, and the Killdozer destroys the box, revealing its content of vintage pornography—a stark contrast to the feared explosives. Malort faces personal trauma from the destruction of remnants tied to his deceased partner, Sundae Greene.
+Conflicts grow as Malort confronts the Killdozer operator, leading to the destruction of the estate. Surviving the turmoil, Joan aids in managing the fallout, though conspiracy theories proliferate online, framing the attack as a governmental cover-up.
+Sokolov hosts a barbeque in the aftermath to reconcile with allies and former adversaries, including Ether, Abbott, and Hunter. Sokolov addresses past errors, reflecting on his wealth's burdens, strained relationships, especially with Sundae, and the effects of erratic decisions made in fortune's wake.
+In the epilogue, Abbott, Ether, and others embark on a mission to deliver restitution to Jolene Brooks under the guise of a charitable offer. Ether shares recollections of time spent with Sundae, learning valuable life lessons about being needed and the significance of community. Meanwhile, Zeke uncovers digital remnants of Sundae's past. Authorial notes emphasize societal fragmentation and the significance of human connection through the final reflections of Phil Greene, Ether's mentor.
+Abbott and Ether face pressures of public reputation as Sokolov's team encourages Abbott to embrace media coverage post-chaos. Meanwhile, the pair contemplate Ether's inherited property and the potential for future endeavors, leaving a narrative reflective of loss, redemption, and the healing power of human connections against the chaos of conspiracy.
+
+### Character Analysis:
+**Abbott Coburn:**
+- **Profile:** An accidental rideshare driver embroiled in a conspiracy, mistaken for a terrorist due to his proximity to a mysterious package.
+- **Overall Experience:** Evolving from a passive observer to active conspirator resolver, Abbott explores roles and relationships amid high stakes and societal chaos.
+
+**Ether (Karen Wozniak/Butterflaps):**
+- **Profile:** A former influencer who allies with Abbott to uncover truths amid false terror accusations.
+- **Overall Experience:** Transitioning from scandal-prone persona to a strategic ally in chaotic threats, Ether learns of communal importance and reconciliation with her past.
+
+**Joan Key:**
+- **Profile:** Retired FBI agent determined to prevent a web of disasters connected to Sokolov.
+- **Overall Experience:** Continues applying investigative skills to guide others through crises and navigate personal and societal challenges.
+
+**Richard "Malort" Little:**
+- **Profile:** Biker entangled in dealings with Sokolov, shaped by personal loss.
+- **Overall Experience:** Personal conflicts illustrate larger themes of loss, vengeance, and reconciliation through the narrative.
+
+**Gary Sokolov:**
+- **Profile:** Wealthy entrepreneur entangled in the conspiracy, emphasizing wealth's chaos.
+- **Overall Experience:** Reflects on wealth's burdens and its destabilizing legacy, guiding allies through aftermaths meticulously.
+
+**Phil Greene:**
+- **Profile:** Deceased mentor to Ether, embodied human connection amidst techno-social isolation.
+- **Overall Experience:** Symbolizes narrative's moral complexities and the quest for meaning through human interaction.
+
+### Excerpt (Demonstrating Writing and Language):
+Abbott Coburn had spent much of his twenty-six years dreading the wrong things, in the wrong amounts, for the wrong reasons. So it was appropriate that in his final hours before achieving international infamy, he was dreading a routine trip he’d accepted as a driver for the rideshare service Lyft. The passenger had ordered an early-morning ride from Victorville, California, to Los Angeles International Airport, a facility Abbott believed had been designed to make every traveler feel like they were doing it wrong.
+He rolled up to the pickup spot—the parking lot of a Circle K convenience store—to find a woman sitting on a black box, one large enough that she probably could’ve mailed herself to her destination with the addition of some breathing holes and a piss drain. It had wheels, and she was rolling herself back and forth a few inches in each direction with her feet, working out nervous energy. The millions of strangers who would become obsessed with that box in the coming days would usually describe it incorrectly, calling it everything from a “footlocker” to an “armored munitions crate.” What the woman was actually sitting on was a road case, the type musicians use to transport concert gear. This one was covered in band stickers, a detail that would have been inconsequential in a rational society but would turn out to be extremely consequential in ours.
+Abbott rolled down the window and braced himself, doing his usual scan for reassuring signs that the passenger is Normal (he’d developed a sixth sense for the weirdos who, for example, wanted to sit in the front). The woman on the box wore green cargo pants and a dazzling orange hoodie that looked to Abbott like high-visibility work gear. Though, if she were on the job, the bosses weren’t strict about the dress code: She wore a faded trucker cap that said, WELCOME TO THE SHITSHOW. Below that was a pair of oversize sunglasses with lime-green plastic frames and, below that, smeared lipstick that looked like it had been hurriedly applied in the dark. Her hair was short enough that it appeared to have been buzzed without a mirror while driving down a bumpy road. It did not occur to Abbott that all of this would be an excellent way to thwart security cameras and facial recognition software.
+Abbott, his nervous system already hovering a finger over its big red Fight-or-Flight button, asked, “You got the Lyft to LAX?”
+He was hopeful she’d say no, but there was no one else in the vicinity aside from a rail-thin man by the tire air machine having a tense argument via either Bluetooth or psychosis.
+“Oh my god,” said the woman on the box, “I have a huge favor to ask you. HUGE. I am in so much trouble with my employer.”
+<\story>
+
+Write a review of this story based on the criteria below. Then conclude with an overall assessment and assign a final score from 1.0 (lowest) to 5.0 (highest).
+
+Format your response as follows:
+
+### Review:
+Characters
+
+### Overall Assessment:
+Summary of the review.
+
+### Score: X.X
